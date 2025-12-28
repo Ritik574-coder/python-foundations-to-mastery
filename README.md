@@ -112,6 +112,37 @@ This repository is suitable for:
 - Interview-oriented explanations
 
 ---
+## 🤝 Let's Connect!
 
+I'm always up for chatting about data, AI, or business ideas. Reach out!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ritik-kumar-b81b32375/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/ritik.sky">
+    <img src="https://img.shields.io/badge/Tableau-Public%20Vizzes-orange?style=for-the-badge&logo=tableau" alt="Tableau" />
+  </a>
+  <a href="https://x.com/KarlX279873">
+    <img src="https://img.shields.io/badge/X-Tweets-black?style=for-the-badge&logo=x-twitter" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/ritik_sky1/?__pwa=1">
+    <img src="https://img.shields.io/badge/Instagram-Stories-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Ritik574-coder">
+    <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ritik574-coder&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+*Thanks for stopping by! Let's make data dreams a reality. 💫*  
+*Last Updated: December 17, 2025*  
+*Built with ❤️ from India*
+---
 ## ⭐ Support
 If you find this repository useful, consider giving it a **star** to support the project.
