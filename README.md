@@ -27,6 +27,7 @@
 ---
 
 ## 🎯 Roadmap Overview
+[📘 View Roadmap PDF](https://github.com/Ritik574-coder/python-foundations-to-mastery/blob/main/Python/python_rodmap.pdf)
 
 ### Learning Path Structure
 ```
