@@ -60,12 +60,12 @@ Foundations (2-3 months) → Intermediate (3-4 months) → Advanced (4-6 months)
 - [DONE] Python REPL and interactive mode
 
 #### 1.2 Basic Syntax & Data Types
-- [ ] Variables and naming conventions
-- [ ] Numbers (int, float, complex)
-- [ ] Strings and string methods
-- [ ] Boolean and None types
-- [ ] Type conversion and casting
-- [ ] Comments and docstrings
+- [DONE] Variables and naming conventions
+- [DONE] Numbers (int, float, complex)
+- [DONE] Strings and string methods
+- [DONE] Boolean and None types
+- [DONE] Type conversion and casting
+- [DONE] Comments and docstrings
 
 #### 1.3 Operators
 - [ ] Arithmetic operators (+, -, *, /, //, %, **)
