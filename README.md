@@ -68,13 +68,13 @@ Foundations (2-3 months) → Intermediate (3-4 months) → Advanced (4-6 months)
 - [DONE] Comments and docstrings
 
 #### 1.3 Operators
-- [ ] Arithmetic operators (+, -, *, /, //, %, **)
-- [ ] Comparison operators (==, !=, <, >, <=, >=)
-- [ ] Logical operators (and, or, not)
-- [ ] Assignment operators (=, +=, -=, etc.)
-- [ ] Identity operators (is, is not)
-- [ ] Membership operators (in, not in)
-- [ ] Bitwise operators
+- [DONE] Arithmetic operators (+, -, *, /, //, %, **)
+- [DONE] Comparison operators (==, !=, <, >, <=, >=)
+- [DONE] Logical operators (and, or, not)
+- [DONE] Assignment operators (=, +=, -=, etc.)
+- [DONE] Identity operators (is, is not)
+- [DONE] Membership operators (in, not in)
+- [DONE] Bitwise operators
 
 #### 1.4 Control Flow
 - [ ] if, elif, else statements
