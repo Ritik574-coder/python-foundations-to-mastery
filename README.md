@@ -53,11 +53,11 @@ Foundations (2-3 months) → Intermediate (3-4 months) → Advanced (4-6 months)
 ### 📚 Topics to Cover
 
 #### 1.1 Getting Started
-- [ ] Python installation and environment setup
-- [ ] IDEs: VS Code, PyCharm, Jupyter Notebooks
-- [ ] Virtual environments (venv, conda)
-- [ ] pip and package management
-- [ ] Python REPL and interactive mode
+- [DONE] Python installation and environment setup
+- [DONE] IDEs: VS Code, PyCharm, Jupyter Notebooks
+- [DONE] Virtual environments (venv, conda)
+- [DONE] pip and package management
+- [DONE] Python REPL and interactive mode
 
 #### 1.2 Basic Syntax & Data Types
 - [ ] Variables and naming conventions
