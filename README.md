@@ -1460,7 +1460,7 @@ Data Sources → Kafka → Spark Streaming → PostgreSQL/Redis → Dashboard
 
 ---
 
-**Created by:** Claude AI  
+**Created by:** Ritik
 **For:** Ritik Kumar - Data Engineering Journey  
 **Last Updated:** January 2026  
 **Version:** 1.0
