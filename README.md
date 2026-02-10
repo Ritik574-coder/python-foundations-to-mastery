@@ -77,8 +77,8 @@ Foundations (2-3 months) → Intermediate (3-4 months) → Advanced (4-6 months)
 - [DONE] Bitwise operators
 
 #### 1.4 Control Flow
-- [ ] if, elif, else statements
-- [ ] Nested conditionals
+- [DONE] if, elif, else statements
+- [DONE] Nested conditionals
 - [ ] Ternary operators
 - [ ] for loops (range, enumerate, zip)
 - [ ] while loops
