@@ -79,7 +79,7 @@ Foundations (2-3 months) → Intermediate (3-4 months) → Advanced (4-6 months)
 #### 1.4 Control Flow
 - [DONE] if, elif, else statements
 - [DONE] Nested conditionals
-- [ ] Ternary operators
+- [DONE] Ternary operators
 - [ ] for loops (range, enumerate, zip)
 - [ ] while loops
 - [ ] break, continue, pass
