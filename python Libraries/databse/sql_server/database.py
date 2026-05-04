@@ -1,26 +1,29 @@
-import pyodbc
-import os 
+import pyodbc 
+import os
 
-def connect_to_database(database='master') :
-    print("connecting to sql server")
+def connect_to_database() :
+    print("connecting to SQL Server databse....")
 
-    try : 
+    try :
         conn = pyodbc.connect(
             "DRIVER={ODBC Driver 18 for SQL Server};"
             "SERVER=localhost,1433;"
-            f"DATABASE={database};"
+            "DATABASE=master;"
             f"UID={os.getenv('DB_USER')};"
             f"PWD={os.getenv('DB_PASSWORD')};"
             "Encrypt=yes;"
             "TrustServerCertificate=yes;"
         )
-
-        print("Database connecting successfully :) ")
-        return conn
-
-    except pyodbc.Error as e : 
-        print(f"databse connectin faild {e}")
+        
+        print("Databse connection successfully :) ")
+        return conn 
+    
+    except pyodbc.Error as e :
+        print(f"Database connection faild : {e}")
         raise 
 
-def create_database() :
-    print("creating database for preastic")
+def create_database(conn) :
+    try :
+        conn.autocommit = True
+    except pyodbc.Error as e :
+        print("Error occurred during database creation")
