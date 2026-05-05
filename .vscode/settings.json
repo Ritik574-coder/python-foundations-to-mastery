@@ -6,17 +6,16 @@
                 "appName": "SQLTools",
                 "useUTC": true,
                 "encrypt": true,
-                "trustServerCertificate": false
+                "trustServerCertificate": true
             },
             "ssh": "Disabled",
             "previewLimit": 50,
             "server": "localhost",
             "port": 1433,
             "driver": "MSSQL",
-            "name": "ritik",
-            "group": "Ritik",
-            "username": "sa",
-            "database": "master"
+            "name": "Ritik",
+            "group": "SQL Server",
+            "username": "sa"
         }
     ]
 }
