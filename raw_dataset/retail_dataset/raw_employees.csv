@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,full_name,email,phone,job_title,department,store_id,store_name,store_city,hire_date,years_employed,annual_salary_usd,commission_rate_pct,is_active,performance_rating,manager_id
+4001,Frank,Lewis,Frank Lewis,franklewis249@mail.com,(910) 692-8809,Customer Advisor,Customer Service,3009,Midtown Outlet,Charlotte,2014/11/17,10,75248,5.2,Yes,C,4021
+4002,catherine,  Jimenez ,Catherine Jimenez,catherine.jimenez@mail.com,664.616.2106,Store Manager,Customer Service,3030,Riverside Pop-Up,Milwaukee,20/04/2015,9,84780,4.5,No,2,4034
+4003,Janet,  Torres ,Janet Torres,janet_torres454@aol.com,430.836.4218,Regional Manager,Operations,3004,City Center Express,Fresno,"December 13, 2013",11,116056,1.1,Yes,2,4076
+4004,George,Thompson,George Thompson,george.thompson@protonmail.com,(548) 454-4411,Sales Manager,Customer Service,3045,Downtown Hub Flagship,Dallas,07/07/2021,3,93447,3.2,Yes,A,
+4005,Stephen,mitchell,Stephen Mitchell,stephen.mitchell@hotmail.com,229.699.2470,Customer Advisor,Management,3037,Grand Avenue Express,Memphis,"April 13, 2014",10,92114,7.0,Active,3,4007
+4006,gregory,Mendoza,Gregory Mendoza,gregory.mendoza135@outlook.com,(236) 697-9468,Senior Sales Associate,Customer Service,3010,City Center Flagship,Albuquerque,2016/09/16,8,76680,7.8,Active,Excellent,4096
+4007,Michelle,Ward,Michelle Ward,michelle_ward@mail.com,436-377-9436,Store Manager,Operations,3045,Downtown Hub Flagship,Dallas,09/12/2015,9,40962,1.1,Y,2,4010
+4008,raymond,Campbell,Raymond Campbell,raymond_campbell43@hotmail.com,8217757314,Customer Advisor,Operations,3035,Grand Avenue Express,Milwaukee,"September 14, 2019",5,63122,4.1,Active,Below Average,4089
+4009,eric,Garcia,Eric Garcia,eric.garcia@hotmail.com,7257379205,Senior Sales Associate,Customer Service,3002,Downtown Hub Flagship,Jacksonville,2023-04-19,1,36973,3.0,1,3,4032
+4010,jason,Rogers,Jason Rogers,jasonrogers47@gmail.com,5905427557,Sales Representative,Customer Service,3008,Lakefront Standard,Cleveland,11/08/2020,4,102209,4.4,Y,D,4092
+4011,Jack,Brooks,Jack Brooks,jack_brooks@protonmail.com,9449411471,Regional Manager,Sales,3001,North Gate Express,Baltimore,2022/06/05,2,46714,3.8,N,4,4073
+4012,Steven,Hall,Steven Hall,steven_hall389@protonmail.com,(774) 545-9051,Senior Sales Associate,Operations,3042,Highland Pop-Up,Kansas City,15-05-2016,8,111634,3.5,Active,C,4039
+4013,Susan,COOK,Susan Cook,susan.cook138@icloud.com,+19764194935,Account Executive,Operations,3049,Downtown Hub Flagship,Louisville,2011/02/04,13,114027,2.7,Y,C,4072
+4014,Aaron,LEE,Aaron Lee,aaron.lee148@gmail.com,583.497.6521,Sales Associate,Sales,3038,Midtown Express,Tucson,29-04-2019,5,46120,3.1,N,2,4086
+4015,Anthony,Reed,Anthony Reed,anthony.reed208@outlook.com,(990) 887-1973,Sales Associate,Sales,3036,Riverside Pop-Up,Chicago,15-02-2021,3,84620,2.6,Active,4,4003
+4016,Emily,Wilson,Emily Wilson,emilywilson@icloud.com,820-586-3568,Customer Advisor,Customer Service,3046,Riverside Standard,Phoenix,26/10/2019,5,106467,6.4,Y,Excellent,
+4017,Andrew,  Jones ,Andrew Jones,andrew_jones@aol.com,7288443719,Sales Associate,Management,3015,Lakefront Outlet,Fresno,2018-05-08,6,82101,3.9,No,5,4024
+4018,Nicholas,Ortiz,Nicholas Ortiz,nicholas.ortiz@protonmail.com,530.764.5617,Store Manager,Customer Service,3009,Midtown Outlet,Charlotte,2022-05-30,2,70523,2.0,Active,2,4033
+4019,  Matthew ,  Castillo ,Matthew Castillo,matthew.castillo@hotmail.com,589.846.2995,Senior Sales Associate,Customer Service,3026,North Gate Standard,Albuquerque,"Aug 01, 2011",13,64023,5.0,Y,Excellent,4012
+4020,Maria,Thomas,Maria Thomas,mariathomas147@protonmail.com,765.885.4463,Senior Sales Associate,Sales,3037,Grand Avenue Express,Memphis,04/15/2012,12,108042,2.8,Yes,Good,4015
+4021,Katherine,Wilson,Katherine Wilson,katherine_wilson@aol.com,+12397146917,Sales Associate,Management,3036,Riverside Pop-Up,Chicago,2016/12/31,8,33272,1.3,1,D,4085
+4022,Anna,Ramirez,Anna Ramirez,anna.ramirez@protonmail.com,(683) 814-5403,Account Executive,Management,3030,Riverside Pop-Up,Milwaukee,2011-07-21,13,34854,2.6,1,A,4081
+4023,Cynthia,Smith,Cynthia Smith,cynthia.smith836@aol.com,594-217-4672,Sales Consultant,Operations,3034,Parkway Outlet,San Francisco,22-07-2023,1,62103,2.6,Y,B,4051
+4024,John,Hernandez,John Hernandez,john.hernandez398@gmail.com,+16514979536,Account Executive,Management,3044,City Center Express,Fresno,"August 08, 2010",14,101968,3.6,N,5,4066
+4025,Kathleen,Johnson,Kathleen Johnson,kathleen.johnson456@outlook.com,5207876078,Regional Manager,Customer Service,3005,Grand Avenue Flagship,Cleveland,2024/07/27,0,64303,7.9,Y,Good,4010
+4026,  Alexander ,Ross,Alexander Ross,alexander_ross343@protonmail.com,437.438.9503,Sales Consultant,Management,3037,Grand Avenue Express,Memphis,29-06-2019,5,38825,7.6,Y,D,4004
+4027,Ashley,Campbell,Ashley Campbell,ashleycampbell414@outlook.com,+19343148825,Regional Manager,Sales,3047,Lakefront Pop-Up,Philadelphia,21/06/2015,9,32165,2.5,Active,C,4020
+4028,Janet,Castillo,Janet Castillo,janetcastillo@protonmail.com,(597) 766-8425,Store Manager,Sales,3032,Lakefront Flagship,San Diego,06/01/2013,11,57700,2.9,Y,D,4050
+4029,Laura,Smith,Laura Smith,laurasmith125@hotmail.com,602.914.4079,Store Manager,Operations,3003,Parkway Pop-Up,Colorado Springs,12-03-2018,6,79688,3.8,N,2,
+4030,raymond,Watson,Raymond Watson,raymondwatson136@yahoo.com,604.607.3472,Customer Advisor,Customer Service,3019,City Center Standard,San Antonio,"June 27, 2024",0,74946,6.8,Active,Excellent,4023
+4031,James,miller,James Miller,james_miller@mail.com,7996704154,Store Manager,Management,3004,City Center Express,Fresno,2024/12/15,0,42512,6.2,Y,Average,
+4032,Dennis,Bailey,Dennis Bailey,dennis.bailey783@protonmail.com,(890) 423-2205,Store Manager,Management,3044,City Center Express,Fresno,"June 26, 2021",3,50341,1.9,1,3,4053
+4033,  Kevin ,Castillo,Kevin Castillo,kevin.castillo@yahoo.com,+16074942991,Sales Consultant,Sales,3024,Lakefront Outlet,San Antonio,"May 26, 2019",5,41202,5.4,Yes,Excellent,4053
+4034,Patrick,Watson,Patrick Watson,patrick_watson445@gmail.com,3504302109,Regional Manager,Customer Service,3008,Lakefront Standard,Cleveland,15-10-2019,5,111632,2.0,Yes,3,4059
+4035,Ronald,Cox,Ronald Cox,ronald_cox190@aol.com,900-732-5561,Sales Consultant,Operations,3012,South Park Pop-Up,Portland,"May 24, 2015",9,92436,1.8,Y,Good,4029
+4036,STEVEN,Brown,Steven Brown,steven_brown720@gmail.com,+15979153734,Sales Representative,Operations,3028,City Center Flagship,Boston,"July 28, 2023",1,100123,1.4,N,Good,4003
+4037,Stephanie,Walker,Stephanie Walker,stephanie.walker332@yahoo.com,206.379.6234,Account Executive,Operations,3018,Midtown Express,Charlotte,2020/06/30,4,54059,2.6,Terminated,4,4046
+4038,Kevin,Ross,Kevin Ross,kevin.ross@mail.com,6662124578,Sales Consultant,Customer Service,3038,Midtown Express,Tucson,07-10-2017,7,40840,3.8,Terminated,C,4021
+4039,Donna,  Sanders ,Donna Sanders,donnasanders@hotmail.com,8527723282,Account Executive,Customer Service,3036,Riverside Pop-Up,Chicago,2013/08/06,11,58907,7.1,Y,D,4067
+4040,Nancy,Brooks,Nancy Brooks,nancy_brooks@yahoo.com,223-763-5832,Sales Representative,Operations,3006,Parkway Outlet,Los Angeles,25-11-2019,5,62084,6.8,Yes,D,4056
+4041,Benjamin,  Gomez ,Benjamin Gomez,benjamin_gomez@gmail.com,833.510.9810,Sales Manager,Customer Service,3014,Highland Express,Columbus,26/04/2017,7,40679,7.1,Y,Excellent,4002
+4042,Thomas,Walker,Thomas Walker,thomas.walker899@outlook.com,+15384092879,Sales Manager,Sales,3009,Midtown Outlet,Charlotte,2017/03/24,7,37018,5.2,No,C,4055
+4043,Frank,Roberts,Frank Roberts,frank_roberts@mail.com,(600) 470-8607,Sales Associate,Management,3028,City Center Flagship,Boston,09-07-2022,2,93767,6.5,Y,Good,
+4044,  Joshua ,jackson,Joshua Jackson,joshua_jackson7@gmail.com,(617) 830-7810,Regional Manager,Sales,3027,Downtown Hub Standard,Sacramento,05-01-2023,1,86116,6.9,Active,Average,
+4045,Julie,Peterson,Julie Peterson,julie_peterson@aol.com,614-378-6568,Customer Advisor,Sales,3043,Crossroads Express,Atlanta,2011/01/29,13,74516,1.7,Active,Average,4041
+4046,  Betty ,Reyes,Betty Reyes,betty.reyes@gmail.com,(567) 746-9314,Account Executive,Sales,3028,City Center Flagship,Boston,2019/12/28,5,103211,4.8,Active,Average,4029
+4047,Brian,Ruiz,Brian Ruiz,brian_ruiz329@protonmail.com,+12903094086,Sales Representative,Customer Service,3045,Downtown Hub Flagship,Dallas,2016-08-13,8,118605,6.0,1,C,4057
+4048,tyler,Mendoza,Tyler Mendoza,tylermendoza585@gmail.com,311-556-3750,Senior Sales Associate,Customer Service,3021,Lakefront Pop-Up,Columbus,05/02/2012,12,43503,3.7,Terminated,,
+4049,Laura,  Mendoza ,Laura Mendoza,laura_mendoza288@yahoo.com,9654528850,Sales Manager,Operations,3030,Riverside Pop-Up,Milwaukee,2011-07-31,13,49026,5.4,No,C,4029
+4050,Nicholas,Myers,Nicholas Myers,nicholasmyers525@yahoo.com,9854644847,Account Executive,Operations,3044,City Center Express,Fresno,"Feb 18, 2022",2,100032,2.7,N,Excellent,4061
+4051,Andrew,Ward,Andrew Ward,andrewward676@aol.com,2446627602,Sales Manager,Operations,3038,Midtown Express,Tucson,01/23/2023,1,112179,3.7,Active,A,4039
+4052,Justin,Wilson,Justin Wilson,justinwilson529@gmail.com,820.920.8031,Sales Representative,Management,3023,Midtown Outlet,Indianapolis,09/10/2018,6,36062,4.6,No,D,4086
+4053,Barbara,Carter,Barbara Carter,barbara.carter59@yahoo.com,(677) 676-7355,Regional Manager,Management,3036,Riverside Pop-Up,Chicago,"Sep 12, 2020",4,100976,1.2,1,5,4050
+4054,Matthew,Sanchez,Matthew Sanchez,matthewsanchez@hotmail.com,983.341.7432,Regional Manager,Customer Service,3010,City Center Flagship,Albuquerque,28/03/2021,3,74145,2.7,No,B,4037
+4055,Kimberly,Kim,Kimberly Kim,kimberly_kim@outlook.com,+15215766647,Sales Associate,Customer Service,3010,City Center Flagship,Albuquerque,2011-03-16,13,56690,1.3,Active,Good,4040
+4056,Justin,Scott,Justin Scott,justinscott152@gmail.com,+15322308169,Senior Sales Associate,Customer Service,3024,Lakefront Outlet,San Antonio,07/18/2020,4,83331,7.1,N,3,4091
+4057,Stephanie,Nguyen,Stephanie Nguyen,stephanie_nguyen595@gmail.com,+16174176453,Sales Associate,Operations,3024,Lakefront Outlet,San Antonio,09/05/2016,8,86951,4.4,Terminated,3,4028
+4058,nicholas,  Evans ,Nicholas Evans,nicholas.evans@mail.com,+19388763328,Sales Associate,Customer Service,3009,Midtown Outlet,Charlotte,"Apr 20, 2014",10,107570,2.3,1,B,
+4059,Jacob,foster,Jacob Foster,jacob_foster@hotmail.com,412.798.4420,Store Manager,Sales,3007,Parkway Pop-Up,Philadelphia,01/08/2023,1,36866,4.1,Yes,Good,
+4060,Matthew,Mendoza,Matthew Mendoza,matthewmendoza@@@yahoo.com,+15454291407,Senior Sales Associate,Customer Service,3042,Highland Pop-Up,Kansas City,05/01/2015,9,62305,7.4,Y,5,4019
+4061,kathleen,Cruz,Kathleen Cruz,kathleencruz549@hotmail.com,348-263-7557,Sales Manager,Customer Service,3042,Highland Pop-Up,Kansas City,"Apr 10, 2016",8,55832,5.6,No,,4011
+4062,Sharon,Kelly,Sharon Kelly,sharon_kelly503@gmail.com,+16269091318,Store Manager,Operations,3011,North Gate Flagship,Memphis,05/31/2022,2,38948,5.9,Terminated,B,4060
+4063,Kathleen,Ruiz,Kathleen Ruiz,kathleen_ruiz427@protonmail.com,(994) 254-8110,Sales Manager,Operations,3036,Riverside Pop-Up,Chicago,08/15/2015,9,93508,4.8,N,Excellent,4018
+4064,Rebecca,MENDOZA,Rebecca Mendoza,rebecca.mendoza887@yahoo.com,+16342346483,Sales Consultant,Sales,3010,City Center Flagship,Albuquerque,2011/08/07,13,116397,2.4,No,C,4061
+4065,Deborah,Brooks,Deborah Brooks,deborah.brooks571@outlook.com,(888) 902-5424,Sales Consultant,Sales,3037,Grand Avenue Express,Memphis,2011-06-10,13,50919,5.0,Active,,
+4066,Sarah,  Stewart ,Sarah Stewart,sarah_stewart@gmail.com,492-259-5669,Regional Manager,Operations,3045,Downtown Hub Flagship,Dallas,"January 10, 2010",14,99428,5.1,N,C,4020
+4067,jason,  Hernandez ,Jason Hernandez,jasonhernandez@yahoo.com,954-570-1460,Sales Associate,Management,3019,City Center Standard,San Antonio,2011-03-16,13,74929,2.0,N,D,4098
+4068,ALEXANDER,MENDOZA,Alexander Mendoza,alexandermendoza177@icloud.com,+18176845407,Customer Advisor,Customer Service,3015,Lakefront Outlet,Fresno,2023/11/09,1,55019,5.2,Terminated,2,4096
+4069,Nancy,  Hall ,Nancy Hall,nancy.hall415@yahoo.com,936.416.8222,Sales Associate,Management,3049,Downtown Hub Flagship,Louisville,2013-05-24,11,82276,7.3,Yes,D,4079
+4070,Julie,Diaz,Julie Diaz,julie.diaz858@icloud.com,2906685934,Sales Associate,Management,3029,Eastside Plaza Flagship,Los Angeles,"November 14, 2018",6,107160,3.1,N,,4035
+4071,Shirley,Davis,Shirley Davis,shirley.davis579@outlook.com,582.983.4989,Sales Manager,Operations,3003,Parkway Pop-Up,Colorado Springs,"Sep 29, 2014",10,76224,5.1,Y,Good,4008
+4072,Deborah,Ruiz,Deborah Ruiz,deborahruiz@yahoo.com,7906212929,Regional Manager,Sales,3034,Parkway Outlet,San Francisco,2011/08/04,13,102022,5.6,Yes,3,
+4073,Jennifer,Martin,Jennifer Martin,jennifer.martin343@aol.com,+13677889471,Sales Representative,Sales,3049,Downtown Hub Flagship,Louisville,"Apr 25, 2013",11,118067,5.3,Terminated,A,4088
+4074,Brenda,Scott,Brenda Scott,brendascott941@protonmail.com,+13842825296,Senior Sales Associate,Operations,3047,Lakefront Pop-Up,Philadelphia,01/09/2020,4,71983,4.5,Terminated,A,4019
+4075,Jeffrey,Edwards,Jeffrey Edwards,jeffrey_edwards339@aol.com,(464) 662-5831,Regional Manager,Management,3012,South Park Pop-Up,Portland,2019-08-07,5,113221,1.8,Yes,2,4089
+4076,James,Ruiz,James Ruiz,james_ruiz@gmail.com,485.740.5691,Account Executive,Customer Service,3027,Downtown Hub Standard,Sacramento,13/05/2017,7,110914,6.0,1,Good,4009
+4077,Larry,  Phillips ,Larry Phillips,larry_phillips344@gmail.com,(437) 304-7205,Sales Manager,Customer Service,3027,Downtown Hub Standard,Sacramento,19/01/2013,11,49342,5.4,Yes,Excellent,4057
+4078,Joyce,Wood,Joyce Wood,joyce.wood@yahoo.com,(278) 414-9906,Account Executive,Customer Service,3012,South Park Pop-Up,Portland,"January 13, 2021",3,40835,7.3,Terminated,Excellent,
+4079,Joshua,Hall,Joshua Hall,joshuahall@hotmail.com,764-896-9556,Customer Advisor,Customer Service,3045,Downtown Hub Flagship,Dallas,2023-12-19,1,98932,7.6,N,2,4056
+4080,Frank,Wright,Frank Wright,frankwright861@protonmail.com,536-357-1728,Senior Sales Associate,Customer Service,3021,Lakefront Pop-Up,Columbus,2018/10/01,6,109244,5.7,N,5,
+4081,Jerry,Perez,Jerry Perez,jerry_perez952@mail.com,754-919-6536,Account Executive,Customer Service,3047,Lakefront Pop-Up,Philadelphia,"September 14, 2014",10,52885,4.2,Y,2,4001
+4082,cynthia,Bailey,Cynthia Bailey,cynthia.bailey@aol.com,+15559727033,Regional Manager,Management,3031,Midtown Standard,Tucson,30/01/2015,9,67210,2.2,Yes,D,4092
+4083,Steven,NELSON,Steven Nelson,steven.nelson795@outlook.com,8853293788,Customer Advisor,Operations,3004,City Center Express,Fresno,2014-10-11,10,76519,3.2,Active,Excellent,4020
+4084,Donna,Evans,Donna Evans,donna_evans@aol.com,(625) 688-9805,Customer Advisor,Operations,3022,North Gate Flagship,Oklahoma City,"Sep 09, 2021",3,111119,6.5,Terminated,3,4068
+4085,Ronald,Cox,Ronald Cox,ronaldcox@hotmail.com,838.272.3671,Sales Representative,Management,3022,North Gate Flagship,Oklahoma City,25-03-2010,14,70931,4.7,1,,4055
+4086,Samuel,  Ward ,Samuel Ward,samuel_ward25@outlook.com,331-935-1773,Regional Manager,Sales,3016,Uptown Pop-Up,Boston,"Nov 15, 2015",9,72997,1.8,N,,4098
+4087,mark,Young,Mark Young,mark.young@yahoo.com,423.411.8488,Regional Manager,Management,3035,Grand Avenue Express,Milwaukee,25/12/2017,7,87613,4.2,No,D,4066
+4088,Kevin,Carter,Kevin Carter,kevin_carter349@icloud.com,226-550-6311,Sales Consultant,Customer Service,3005,Grand Avenue Flagship,Cleveland,"March 16, 2018",6,111711,6.0,Y,A,4037
+4089,Mark,Richardson,Mark Richardson,mark_richardson@yahoo.com,5202982099,Sales Manager,Sales,3036,Riverside Pop-Up,Chicago,27-09-2017,7,53030,6.8,Active,2,
+4090,Jennifer,bennett,Jennifer Bennett,jenniferbennett@aol.com,393-946-6937,Sales Manager,Sales,3014,Highland Express,Columbus,2013/01/15,11,94073,2.2,Active,Excellent,4023
+4091,Laura,Robinson,Laura Robinson,laurarobinson@icloud.com,+18753686793,Customer Advisor,Sales,3050,Uptown Express,Philadelphia,"Jun 30, 2016",8,116408,1.2,1,4,
+4092,donald,martin,Donald Martin,donald.martin209@outlook.com,+17149277011,Senior Sales Associate,Customer Service,3042,Highland Pop-Up,Kansas City,04/15/2017,7,71647,5.2,1,2,4060
+4093,Susan,White,Susan White,susanwhite@yahoo.com,2402945751,Store Manager,Sales,3027,Downtown Hub Standard,Sacramento,01/26/2021,3,63354,5.3,Y,5,4068
+4094,Ronald,Gray,Ronald Gray,ronald.gray@yahoo.com,3965287431,Regional Manager,Sales,3038,Midtown Express,Tucson,31/03/2019,5,71586,7.7,1,3,4007
+4095,CAROLYN,Rodriguez,Carolyn Rodriguez,carolyn.rodriguez@protonmail.com,528-230-2835,Regional Manager,Customer Service,3046,Riverside Standard,Phoenix,2020-11-11,4,43151,6.3,Active,A,
+4096,Barbara,Allen,Barbara Allen,barbara_allen725@hotmail.com,(586) 974-4423,Sales Consultant,Sales,3032,Lakefront Flagship,San Diego,2021/08/24,3,94226,2.4,No,5,4012
+4097,Maria,foster,Maria Foster,maria.foster778@outlook.com,(608) 672-1372,Customer Advisor,Management,3043,Crossroads Express,Atlanta,26/03/2011,13,73347,7.4,1,C,4032
+4098,TYLER,Young,Tyler Young,tyler.young@protonmail.com,2674801795,Sales Consultant,Customer Service,3009,Midtown Outlet,Charlotte,11/23/2014,10,92452,2.3,Terminated,Excellent,4052
+4099,Diane,Morales,Diane Morales,diane_morales@protonmail.com,737-532-9875,Customer Advisor,Management,3035,Grand Avenue Express,Milwaukee,"Jul 29, 2016",8,69396,2.9,Terminated,Good,
+4100,Sharon,Brown,Sharon Brown,sharonbrown728@outlook.com,776-850-4154,Regional Manager,Sales,3037,Grand Avenue Express,Memphis,2014-10-26,10,72739,2.8,Active,D,4040
