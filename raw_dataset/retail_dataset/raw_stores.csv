@@ -1,0 +1,51 @@
+store_id,store_name,store_type,address,city,state,state_full,zip_code,country,region,district,phone,manager_name,opened_date,sq_footage,num_employees,annual_rent_usd,is_active,has_parking,has_cafe
+3001,North Gate Express,Standard,4395 Market St,Baltimore,Maryland,Maryland,19429,US,Northeast,District-10,6126519673,Jeffrey Walker,2021-03-17,2632,77,138289,Active,FALSE,1
+3002,Downtown Hub Flagship,Outlet,3141 Oak Ave Apt 48,Jacksonville,FL,Florida,72311,United States,South,District-3,736-487-9871,Michelle Foster,"November 13, 2019",6485,66,230052,1,TRUE,Y
+3003,Parkway Pop-Up,Express,7142 High St,Colorado Springs,Colorado,Colorado,93069,United States,West,District-4,(507) 766-1082,Brian Lewis,"Nov 03, 2014",8930,52,446578,1,No,0
+3004,City Center Express,Express,4280 Lake Dr,Fresno,CA,California,42118,United States,West,District-7,696-473-7601,Angela Moore,"Jan 29, 2006",11903,100,138113,1,FALSE,Yes
+3005,Grand Avenue Flagship,Flagship,9819 Broadway Apt 34,Cleveland,Ohio,Ohio,55747,US,Midwest,District-9,573-955-1697,David Rivera,"Mar 14, 2012",22266,112,374121,Yes,TRUE,N
+3006,Parkway Outlet,Outlet,5574 River Rd,Los Angeles,CA,California,30803,US,West,District-6,607.689.9388,Andrew Myers,2013-11-14,15608,76,349558,Y,No,Yes
+3007,Parkway Pop-Up,Pop-Up,1640 Market St,Philadelphia,PA,Pennsylvania,59105,US,NORTHEAST,District-10,893.904.5543,Richard Flores,2018/07/20,6413,48,138007,Y,No,Yes
+3008,Lakefront Standard,Pop-Up,4007 School Rd,Cleveland,OH,Ohio,84758,US,Midwest,District-6,(796) 237-8887,Timothy Adams,"Oct 19, 2011",21078,38,370075,Yes,FALSE,Yes
+3009,Midtown Outlet,Pop-Up,7713 Mill Rd,Charlotte,NC,North Carolina,63808,United States,  South ,District-10,+14729861880,Rebecca Ruiz,29-05-2010,4688,49,140367,Active,TRUE,No
+3010,City Center Flagship,Flagship,1799 Cedar Blvd,Albuquerque,New Mexico,New Mexico,70600,US,West,District-5,446.879.2175,Patrick Morgan,11/07/2015,6667,50,221513,1,TRUE,Yes
+3011,North Gate Flagship,Standard,5614 Lake Dr,Memphis,Tennessee,Tennessee,73936,US,SOUTH,District-9,+15368647129,Sandra Richardson,03-12-2019,5969,35,481256,Yes,TRUE,Yes
+3012,South Park Pop-Up,Flagship,9537 Forest Ln,Portland,OR,Oregon,73936,US,west,District-7,6122453545,Tyler King,"Feb 02, 2019",4852,104,131406,1,N,N
+3013,Uptown Express,Outlet,31 Hill Rd Apt 7,Columbus,OH,Ohio,87712,US,midwest,District-8,885-804-9014,Donna Thomas,21-06-2017,24384,45,329843,Active,Y,1
+3014,Highland Express,Express,6594 Oak Ave Apt 2,Columbus,OH,Ohio,60895,USA,MIDWEST,District-8,(556) 830-1511,Heather Wilson,"Oct 31, 2014",2155,54,271178,Active,TRUE,Y
+3015,Lakefront Outlet,Pop-Up,2918 School Rd,Fresno,California,California,62149,United States,West,District-4,+18807627950,Rebecca Gray,10-08-2010,7486,106,254624,1,N,Yes
+3016,Uptown Pop-Up,Pop-Up,6677 Oak Ave,Boston,MA,Massachusetts,27411,United States,Northeast,District-4,436-553-2744,Frank Smith,02-09-2006,7211,11,346460,1,Yes,N
+3017,Parkway Express,Pop-Up,3715 Sunset Dr,Fresno,California,California,39493,US,West,District-8,9872645391,Robert Sanchez,2020/10/12,22874,6,378228,Y,No,0
+3018,Midtown Express,Outlet,5977 Union St,Charlotte,NC,North Carolina,13301,United States,South,District-7,4429468714,Kimberly Price,2022/06/17,3238,23,494705,1,No,1
+3019,City Center Standard,Standard,3214 Pine Rd Apt 41,San Antonio,Texas,Texas,52240,USA,south,District-2,7997009954,Joyce Jackson,2012/06/22,21273,115,190502,1,Yes,No
+3020,Parkway Express,Outlet,6100 Broadway Apt 24,San Francisco,California,California,51553,US,west,District-9,299.991.9721,David Ramirez,27/07/2013,7146,70,39589,Active,N,Y
+3021,Lakefront Pop-Up,Flagship,9718 Washington Blvd,Columbus,Ohio,Ohio,66208,United States,midwest,District-5,+17082825262,Debra Moore,2008-09-20,3441,38,377013,Yes,N,N
+3022,North Gate Flagship,Flagship,1824 Pine Rd,Oklahoma City,OK,Oklahoma,61008,USA,South,District-7,(498) 679-8911,Catherine Kelly,28/03/2005,22672,90,283319,1,Y,1
+3023,Midtown Outlet,Outlet,2366 Commerce Dr,Indianapolis,IN,Indiana,65190,United States,Midwest,District-3,(296) 710-3413,Andrew Cooper,2016/09/28,17913,55,324080,Y,FALSE,Yes
+3024,Lakefront Outlet,Pop-Up,3644 Oak Ave Apt 43,San Antonio,TX,Texas,48977,United States,South,District-8,+15053112365,John Adams,"Feb 07, 2021",8559,82,387423,Y,No,Yes
+3025,Downtown Hub Pop-Up,Outlet,254 Park Ave,Colorado Springs,CO,Colorado,96770,USA,West,District-2,7652707123,Emma Gonzalez,19/03/2009,18852,23,333865,1,No,Y
+3026,North Gate Standard,Flagship,5442 Park Ave Apt 16,Albuquerque,New Mexico,New Mexico,62163,United States,West,District-7,(203) 343-3854,Jeffrey Kelly,2021/06/26,1821,75,401111,1,Yes,Yes
+3027,Downtown Hub Standard,Pop-Up,3800 Washington Blvd,Sacramento,CA,California,40250,United States,West,District-2,+12046186932,Donald Adams,23/11/2006,11207,48,163022,1,TRUE,N
+3028,City Center Flagship,Standard,1336 Hill Rd Apt 49,Boston,MA,Massachusetts,81182,USA,Northeast,District-10,923-693-1195,Amanda Ross,10/07/2018,4275,68,288444,Y,No,0
+3029,Eastside Plaza Flagship,Express,6731 School Rd,Los Angeles,CA,California,85121,US,WEST,District-5,915.591.1078,Susan Gomez,"September 07, 2010",8597,102,362709,Active,N,N
+3030,Riverside Pop-Up,Express,1890 Union St,Milwaukee,Wisconsin,Wisconsin,69966,US,  Midwest ,District-7,486.429.6081,Christine Alvarez,2018/03/03,24461,63,384587,Yes,Y,0
+3031,Midtown Standard,Flagship,3730 Park Ave Apt 38,Tucson,Arizona,Arizona,69138,US,West,District-5,548.319.1005,Brenda Scott,2016/12/18,2415,80,189105,1,FALSE,N
+3032,Lakefront Flagship,Express,6341 Main St,San Diego,California,California,31259,US,WEST,District-10,9987976896,Janet Hill,16/09/2015,4845,18,86362,Y,No,1
+3033,Riverside Express,Outlet,5932 Hill Rd,Tucson,AZ,Arizona,54750,US,West,District-3,596.899.4442,Eric Baker,"Jan 08, 2011",1810,102,136544,Y,TRUE,1
+3034,Parkway Outlet,Pop-Up,5716 Commerce Dr,San Francisco,California,California,59670,United States,West,District-7,269-423-9509,Jason Peterson,2015-09-08,21473,103,482094,1,No,No
+3035,Grand Avenue Express,Outlet,670 High St Apt 37,Milwaukee,Wisconsin,Wisconsin,63250,USA,Midwest,District-8,(271) 886-2399,Ryan Ross,07-05-2010,5037,21,320402,1,N,N
+3036,Riverside Pop-Up,Standard,4710 Washington Blvd Apt 13,Chicago,Illinois,Illinois,41700,USA,Midwest,District-4,(458) 486-7210,Aaron Phillips,2020-11-20,13381,77,165575,Yes,FALSE,Y
+3037,Grand Avenue Express,Standard,3125 River Rd,Memphis,Tennessee,Tennessee,52351,USA,south,District-9,(551) 448-8903,John Carter,11-12-2010,18401,118,464125,Active,Yes,1
+3038,Midtown Express,Standard,1748 Cedar Blvd,Tucson,Arizona,Arizona,78194,USA,West,District-3,742-206-6308,Ryan Evans,19-01-2022,5325,51,204599,Y,No,1
+3039,Lakefront Pop-Up,Outlet,8919 Valley Rd Apt 12,Baltimore,MD,Maryland,87344,USA,  Northeast ,District-8,2352956341,Rebecca Turner,"September 07, 2009",19896,89,99058,1,TRUE,1
+3040,Westfield Mall Pop-Up,Outlet,3326 Broadway Apt 11,Tucson,Arizona,Arizona,84368,US,West,District-8,882.791.7427,Joshua Anderson,2014-07-31,8682,29,428585,Yes,TRUE,1
+3041,Downtown Hub Outlet,Flagship,318 River Rd Apt 3,Sacramento,CA,California,73919,US,west,District-1,(350) 897-3608,David Castillo,21-12-2015,10750,51,172391,Y,No,Yes
+3042,Highland Pop-Up,Standard,1117 Oak Ave,Kansas City,MO,Missouri,64401,USA,Midwest,District-2,5643757647,Cynthia Allen,03/10/2011,2664,34,484935,1,Y,No
+3043,Crossroads Express,Express,8895 Washington Blvd Apt 37,Atlanta,Georgia,Georgia,76543,US,South,District-7,+17479241171,Michael Lopez,28-10-2010,15595,81,110493,Yes,N,No
+3044,City Center Express,Pop-Up,5608 School Rd,Fresno,California,California,70332,USA,WEST,District-1,+19393098082,Helen Morris,01/05/2020,1907,84,97699,Active,Y,1
+3045,Downtown Hub Flagship,Pop-Up,2536 Union St,Dallas,TX,Texas,41231,USA,South,District-1,+14757894239,Scott Baker,05/04/2016,20444,18,210182,Active,Yes,Y
+3046,Riverside Standard,Pop-Up,7269 Maple Dr,Phoenix,AZ,Arizona,12542,US,West,District-2,5173875899,Joyce Reyes,"May 06, 2010",14501,25,232101,Yes,Yes,1
+3047,Lakefront Pop-Up,Standard,1149 Pine Rd,Philadelphia,PA,Pennsylvania,71581,United States,Northeast,District-8,691.375.5225,Matthew Brooks,11/10/2011,21632,118,209625,Active,TRUE,No
+3048,Highland Standard,Pop-Up,6167 Forest Ln,Kansas City,MO,Missouri,63228,United States,Midwest,District-1,360-828-1768,Paul Morgan,2019-07-09,21994,42,95725,Active,No,1
+3049,Downtown Hub Flagship,Flagship,9300 Hill Rd Apt 5,Louisville,KY,Kentucky,56443,US,South,District-3,615-591-3267,Timothy King,04/28/2018,2083,33,246316,Yes,Y,1
+3050,Uptown Express,Flagship,1643 Mill Rd,Philadelphia,PA,Pennsylvania,24251,United States,Northeast,District-7,+15182675237,Brian Turner,2017/10/27,1417,117,36042,Y,TRUE,Yes

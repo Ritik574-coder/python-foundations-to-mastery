@@ -1,0 +1,102 @@
+customer_key  customer_id  customer_number  first_name  last_name   country        marital_status  gender      birth_date  created_date
+------------  -----------  ---------------  ----------  ----------  -------------  --------------  ----------  ----------  ------------
+1             11000        AW00011000       Jon         Yang        Australia      Married         Male        1971-10-06  2025-10-06  
+2             11001        AW00011001       Eugene      Huang       Australia      Single          Male        1976-05-10  2025-10-06  
+3             11002        AW00011002       Ruben       Torres      Australia      Married         Male        1971-02-09  2025-10-06  
+4             11003        AW00011003       Christy     Zhu         Australia      Single          Female      1973-08-14  2025-10-06  
+5             11004        AW00011004       Elizabeth   Johnson     Australia      Single          Female      1979-08-05  2025-10-06  
+6             11005        AW00011005       Julio       Ruiz        Australia      Single          Male        1976-08-01  2025-10-06  
+7             11006        AW00011006       Janet       Alvarez     Australia      Single          Female      1976-12-02  2025-10-06  
+8             11007        AW00011007       Marco       Mehta       Australia      Married         Male        1969-11-06  2025-10-06  
+9             11008        AW00011008       Rob         Verhoff     Australia      Single          Female      1975-07-04  2025-10-06  
+10            11009        AW00011009       Shannon     Carlson     Australia      Single          Male        1969-09-29  2025-10-06  
+11            11010        AW00011010       Jacquelyn   Suarez      Australia      Single          Female      1969-08-05  2025-10-06  
+12            11011        AW00011011       Curtis      Lu          Australia      Married         Male        1969-05-03  2025-10-06  
+13            11012        AW00011012       Lauren      Walker      United States  Married         Female      1979-01-14  2025-10-06  
+14            11013        AW00011013       Ian         Jenkins     United States  Married         Male        1979-08-03  2025-10-06  
+15            11014        AW00011014       Sydney      Bennett     United States  Single          Female      1973-11-06  2025-10-06  
+16            11015        AW00011015       Chloe       Young       United States  Single          Female      1984-08-26  2025-10-06  
+17            11016        AW00011016       Wyatt       Hill        United States  Married         Male        1984-10-25  2025-10-07  
+18            11017        AW00011017       Shannon     Wang        Australia      Single          Female      1949-12-24  2025-10-07  
+19            11018        AW00011018       Clarence    Rai         Australia      Single          Male        1955-10-06  2025-10-07  
+20            11019        AW00011019       Luke        Lal         Canada         Single          Male        1983-09-04  2025-10-07  
+21            11020        AW00011020       Jordan      King        Canada         Single          Male        1984-03-19  2025-10-07  
+22            11021        AW00011021       Destiny     Wilson      United States  Single          Female      1984-03-02  2025-10-07  
+23            11022        AW00011022       Ethan       Zhang       United States  Married         Male        1984-04-10  2025-10-07  
+24            11023        AW00011023       Seth        Edwards     United States  Married         Male        1984-04-09  2025-10-07  
+25            11024        AW00011024       Russell     Xie         United States  Married         Male        1984-03-16  2025-10-07  
+26            11025        AW00011025       Alejandro   Beck        Australia      Married         Male        1951-06-22  2025-10-07  
+27            11026        AW00011026       Harold      Sai         Australia      Single          Male        1951-10-01  2025-10-07  
+28            11027        AW00011027       Jessie      Zhao        Australia      Married         Male        1952-06-05  2025-10-07  
+29            11028        AW00011028       Jill        Jimenez     Australia      Married         Female      1951-10-09  2025-10-07  
+30            11029        AW00011029       Jimmy       Moreno      Australia      Married         Male        1952-06-19  2025-10-07  
+31            11030        AW00011030       Bethany     Yuan        Australia      Married         Female      1958-02-18  2025-10-07  
+32            11031        AW00011031       Theresa     Ramos       Australia      Married         Female      1953-02-18  2025-10-07  
+33            11032        AW00011032       Denise      Stone       Australia      Married         Female      1952-12-08  2025-10-07  
+34            11033        AW00011033       Jaime       Nath        Australia      Married         Male        1958-09-19  2025-10-07  
+35            11034        AW00011034       Ebony       Gonzalez    Australia      Married         Female      1952-12-16  2025-10-07  
+36            11035        AW00011035       Wendy       Dominguez   Australia      Married         Female      1953-08-23  2025-10-07  
+37            11036        AW00011036       Jennifer    Russell     United States  Married         Female      1984-06-16  2025-10-07  
+38            11037        AW00011037       Chloe       Garcia      Canada         Single          Female      1983-05-27  2025-10-07  
+39            11038        AW00011038       Diana       Hernandez   Australia      Married         Female      1953-09-20  2025-10-07  
+40            11039        AW00011039       Marc        Martin      Australia      Married         Male        1954-06-16  2025-10-07  
+41            11040        AW00011040       Jesse       Murphy      United States  Married         Male        1983-01-29  2025-10-07  
+42            11041        AW00011041       Amanda      Carter      United States  Married         Female      1983-04-15  2025-10-07  
+43            11042        AW00011042       Megan       Sanchez     United States  Married         Female      1982-12-11  2025-10-07  
+44            11043        AW00011043       Nathan      Simmons     United States  Married         Male        1981-08-23  2025-10-07  
+45            11044        AW00011044       Adam        Flores      Australia      Married         Male        1954-11-21  2025-10-07  
+46            11045        AW00011045       Leonard     Nara        Australia      Single          Male        1955-11-16  2025-10-07  
+47            11046        AW00011046       Christine   Yuan        Australia      Married         Female      1955-09-19  2025-10-07  
+48            11047        AW00011047       Jaclyn      Lu          Australia      Married         Female      1955-08-27  2025-10-07  
+49            11048        AW00011048       Jeremy      Powell      Australia      Married         Male        1956-05-21  2025-10-07  
+50            11049        AW00011049       Carol       Rai         United States  Single          Female      1986-01-15  2025-10-07  
+51            11050        AW00011050       Alan        Zheng       Australia      Married         Male        1957-03-06  2025-10-07  
+52            11051        AW00011051       Daniel      Johnson     Australia      Single          Male        1957-01-31  2025-10-07  
+53            11052        AW00011052       Heidi       Lopez       Australia      Single          Female      1957-02-03  2025-10-07  
+54            11053        AW00011053       Ana         Price       United States  Married         Female      1986-02-17  2025-10-07  
+55            11054        AW00011054       Deanna      Munoz       Australia      Married         Female      1957-09-07  2025-10-07  
+56            11055        AW00011055       Gilbert     Raje        Australia      Married         Male        1957-09-02  2025-10-07  
+57            11056        AW00011056       Michele     Nath        Australia      Married         Female      1958-10-01  2025-10-07  
+58            11057        AW00011057       Carl        Andersen    Australia      Married         Male        1970-04-07  2025-10-07  
+59            11058        AW00011058       Marc        Diaz        Australia      Married         Male        1965-04-23  2025-10-07  
+60            11059        AW00011059       Ashlee      Andersen    Australia      Single          Female      1959-09-29  2025-10-07  
+61            11060        AW00011060       Jon         Zhou        Australia      Married         Male        1959-09-14  2025-10-07  
+62            11061        AW00011061       Todd        Gao         Australia      Married         Male        1976-02-20  2025-10-07  
+63            11062        AW00011062       Noah        Powell      United States  Married         Male        1981-03-01  2025-10-07  
+64            11063        AW00011063       Angela      Murphy      United States  Single          Female      1980-10-04  2025-10-07  
+65            11064        AW00011064       Chase       Reed        United States  Married         Male        1981-06-05  2025-10-07  
+66            11065        AW00011065       Jessica     Henderson   United States  Married         Female      1979-04-08  2025-10-07  
+67            11066        AW00011066       Grace       Butler      United States  Married         Female      1979-05-27  2025-10-07  
+68            11067        AW00011067       Caleb       Carter      United States  Single          Male        1982-03-25  2025-10-07  
+69            11068        AW00011068       Tiffany     Liang       Australia      Single          Female      1966-09-19  2025-10-07  
+70            11069        AW00011069       Carolyn     Navarro     Australia      Single          Female      1966-09-17  2025-10-07  
+71            11070        AW00011070       Willie      Raji        Australia      Married         Male        1960-10-02  2025-10-07  
+72            11071        AW00011071       Linda       Serrano     Australia      Single          Female      1960-12-23  2025-10-07  
+73            11072        AW00011072       Casey       Luo         Australia      Single          Female      1960-08-05  2025-10-07  
+74            11073        AW00011073       Amy         Ye          Australia      Single          Female      1962-02-11  2025-10-07  
+75            11074        AW00011074       Levi        Arun        Australia      Single          Male        1962-02-25  2025-10-07  
+76            11075        AW00011075       Felicia     Jimenez     Australia      Single          Female      1963-05-16  2025-10-07  
+77            11076        AW00011076       Blake       Anderson    Australia      Single          Male        1963-01-10  2025-10-07  
+78            11077        AW00011077       Leah        Ye          Australia      Single          Female      1963-03-19  2025-10-07  
+79            11078        AW00011078       Gina        Martin      Canada         Single          Female      1985-01-06  2025-10-07  
+80            11079        AW00011079       Donald      Gonzalez    Australia      Single          Male        1970-03-07  2025-10-07  
+81            11080        AW00011080       Damien      Chander     Australia      Married         Male        1965-01-13  2025-10-07  
+82            11081        AW00011081       Savannah    Baker       United States  Married         Female      1972-01-21  2025-10-07  
+83            11082        AW00011082       Angela      Butler      United States  Single          Female      1972-02-01  2025-10-07  
+84            11083        AW00011083       Alyssa      Cox         United States  Married         Female      1977-03-11  2025-10-07  
+85            11084        AW00011084       Lucas       Phillips    United States  Single          Male        1963-03-12  2025-10-07  
+86            11085        AW00011085       Emily       Johnson     United States  Single          Female      1963-01-16  2025-10-07  
+87            11086        AW00011086       Ryan        Brown       United States  Married         Male        1963-06-22  2025-10-07  
+88            11087        AW00011087       Tamara      Liang       United States  Married         Female      1963-04-02  2025-10-07  
+89            11088        AW00011088       Hunter      Davis       United States  Married         Male        1963-05-25  2025-10-07  
+90            11089        AW00011089       Abigail     Price       United States  Single          Female      1962-08-05  2025-10-07  
+91            11090        AW00011090       Trevor      Bryant      United States  Single          Male        1968-12-13  2025-10-07  
+92            11091        AW00011091       Dalton      Perez       Canada         Married         Male        1962-10-02  2025-10-07  
+93            11092        AW00011092       Cheryl      Diaz        Australia      Married         Female      1972-11-02  2025-10-07  
+94            11093        AW00011093       Aimee       He          Australia      Married         Female      1978-09-06  2025-10-07  
+95            11094        AW00011094       Cedric      Ma          Australia      Single          Male        1967-09-29  2025-10-07  
+96            11095        AW00011095       Chad        Kumar       Australia      Single          Male        1968-02-29  2025-10-07  
+97            11096        AW00011096       Andr├⌐s     Anand       Australia      Married         Male        1968-02-07  2025-10-07  
+98            11097        AW00011097       Edwin       Nara        Australia      Married         Male        1972-10-23  2025-10-07  
+99            11098        AW00011098       Mallory     Rubio       Australia      Single          Female      1966-10-29  2025-10-07  
+100           11099        AW00011099       Adam        Ross        Australia      Married         Male        1966-09-05  2025-10-07  
