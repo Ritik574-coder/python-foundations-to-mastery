@@ -1,0 +1,3575 @@
+[
+  {
+    "product_id": 478,
+    "category_id": "AC_BC",
+    "product_key": "BC-M005",
+    "category": "Accessories",
+    "subcategory": "Bottles and Cages",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 479,
+    "category_id": "AC_BC",
+    "product_key": "BC-R205",
+    "category": "Accessories",
+    "subcategory": "Bottles and Cages",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 477,
+    "category_id": "AC_BC",
+    "product_key": "WB-H098",
+    "category": "Accessories",
+    "subcategory": "Bottles and Cages",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 483,
+    "category_id": "AC_BR",
+    "product_key": "RA-H123",
+    "category": "Accessories",
+    "subcategory": "Bike Racks",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 486,
+    "category_id": "AC_BS",
+    "product_key": "ST-1401",
+    "category": "Accessories",
+    "subcategory": "Bike Stands",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 484,
+    "category_id": "AC_CL",
+    "product_key": "CL-9009",
+    "category": "Accessories",
+    "subcategory": "Cleaners",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 485,
+    "category_id": "AC_FE",
+    "product_key": "FE-6654",
+    "category": "Accessories",
+    "subcategory": "Fenders",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 215,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 216,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 217,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 220,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509-B",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 221,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509-B",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 222,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509-B",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 212,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509-R",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 213,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509-R",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 214,
+    "category_id": "AC_HE",
+    "product_key": "HL-U509-R",
+    "category": "Accessories",
+    "subcategory": "Helmets",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 487,
+    "category_id": "AC_HP",
+    "product_key": "HY-1023-70",
+    "category": "Accessories",
+    "subcategory": "Hydration Packs",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 451,
+    "category_id": "AC_LI",
+    "product_key": "LT-H902",
+    "category": "Accessories",
+    "subcategory": "Lights",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 452,
+    "category_id": "AC_LI",
+    "product_key": "LT-H903",
+    "category": "Accessories",
+    "subcategory": "Lights",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 450,
+    "category_id": "AC_LI",
+    "product_key": "LT-T990",
+    "category": "Accessories",
+    "subcategory": "Lights",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 447,
+    "category_id": "AC_LO",
+    "product_key": "LO-C100",
+    "category": "Accessories",
+    "subcategory": "Locks",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 446,
+    "category_id": "AC_PA",
+    "product_key": "PA-T100",
+    "category": "Accessories",
+    "subcategory": "Panniers",
+    "product_line": "Touring",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 448,
+    "category_id": "AC_PU",
+    "product_key": "PU-0452",
+    "category": "Accessories",
+    "subcategory": "Pumps",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 449,
+    "category_id": "AC_PU",
+    "product_key": "PU-M044",
+    "category": "Accessories",
+    "subcategory": "Pumps",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 480,
+    "category_id": "AC_TT",
+    "product_key": "PK-7098",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 535,
+    "category_id": "AC_TT",
+    "product_key": "TI-M267",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 536,
+    "category_id": "AC_TT",
+    "product_key": "TI-M602",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 537,
+    "category_id": "AC_TT",
+    "product_key": "TI-M823",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 538,
+    "category_id": "AC_TT",
+    "product_key": "TI-R092",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 539,
+    "category_id": "AC_TT",
+    "product_key": "TI-R628",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 540,
+    "category_id": "AC_TT",
+    "product_key": "TI-R982",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 541,
+    "category_id": "AC_TT",
+    "product_key": "TI-T723",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 528,
+    "category_id": "AC_TT",
+    "product_key": "TT-M928",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 529,
+    "category_id": "AC_TT",
+    "product_key": "TT-R982",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 530,
+    "category_id": "AC_TT",
+    "product_key": "TT-T092",
+    "category": "Accessories",
+    "subcategory": "Tires and Tubes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 596,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18B-40",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 597,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18B-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 598,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18B-44",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 599,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18B-48",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 600,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18B-52",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 591,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18S-40",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 592,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18S-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 593,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18S-44",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 594,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18S-48",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 595,
+    "category_id": "BI_MB",
+    "product_key": "BK-M18S-52",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 587,
+    "category_id": "BI_MB",
+    "product_key": "BK-M38S-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 588,
+    "category_id": "BI_MB",
+    "product_key": "BK-M38S-40",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 589,
+    "category_id": "BI_MB",
+    "product_key": "BK-M38S-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 590,
+    "category_id": "BI_MB",
+    "product_key": "BK-M38S-46",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 364,
+    "category_id": "BI_MB",
+    "product_key": "BK-M47B-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 365,
+    "category_id": "BI_MB",
+    "product_key": "BK-M47B-40",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 366,
+    "category_id": "BI_MB",
+    "product_key": "BK-M47B-44",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 367,
+    "category_id": "BI_MB",
+    "product_key": "BK-M47B-48",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 358,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68B-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 359,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68B-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 360,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68B-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 361,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68B-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 362,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68B-46",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 363,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68B-46",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 352,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68S-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 353,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68S-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 354,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68S-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 355,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68S-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 356,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68S-46",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 357,
+    "category_id": "BI_MB",
+    "product_key": "BK-M68S-46",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 348,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82B-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 349,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82B-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 350,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82B-44",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 351,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82B-48",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 344,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82S-38",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 345,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82S-42",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 346,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82S-44",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 347,
+    "category_id": "BI_MB",
+    "product_key": "BK-M82S-48",
+    "category": "Bikes",
+    "subcategory": "Mountain Bikes",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 604,
+    "category_id": "BI_RB",
+    "product_key": "BK-R19B-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 605,
+    "category_id": "BI_RB",
+    "product_key": "BK-R19B-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 606,
+    "category_id": "BI_RB",
+    "product_key": "BK-R19B-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 584,
+    "category_id": "BI_RB",
+    "product_key": "BK-R19B-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 338,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 339,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 340,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 341,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 342,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 343,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 332,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 333,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 334,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-60",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 335,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-60",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 336,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-62",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 337,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50B-62",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 326,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 327,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 328,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 329,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 330,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 331,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 320,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 321,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 322,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-60",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 323,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-60",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 324,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-62",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 325,
+    "category_id": "BI_RB",
+    "product_key": "BK-R50R-62",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 381,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-38",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 382,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-38",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 383,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-40",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 384,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-40",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 385,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-42",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 386,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-42",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 387,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 388,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 389,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 390,
+    "category_id": "BI_RB",
+    "product_key": "BK-R64Y-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 317,
+    "category_id": "BI_RB",
+    "product_key": "BK-R68R-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 318,
+    "category_id": "BI_RB",
+    "product_key": "BK-R68R-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 319,
+    "category_id": "BI_RB",
+    "product_key": "BK-R68R-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 315,
+    "category_id": "BI_RB",
+    "product_key": "BK-R68R-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 316,
+    "category_id": "BI_RB",
+    "product_key": "BK-R68R-60",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 580,
+    "category_id": "BI_RB",
+    "product_key": "BK-R79Y-40",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 581,
+    "category_id": "BI_RB",
+    "product_key": "BK-R79Y-42",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 582,
+    "category_id": "BI_RB",
+    "product_key": "BK-R79Y-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 583,
+    "category_id": "BI_RB",
+    "product_key": "BK-R79Y-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 373,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 374,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 375,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 376,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 377,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 378,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 379,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 380,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89B-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 368,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89R-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 369,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89R-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 370,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89R-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 371,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89R-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 372,
+    "category_id": "BI_RB",
+    "product_key": "BK-R89R-58",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 311,
+    "category_id": "BI_RB",
+    "product_key": "BK-R93R-44",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 312,
+    "category_id": "BI_RB",
+    "product_key": "BK-R93R-48",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 313,
+    "category_id": "BI_RB",
+    "product_key": "BK-R93R-52",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 314,
+    "category_id": "BI_RB",
+    "product_key": "BK-R93R-56",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 310,
+    "category_id": "BI_RB",
+    "product_key": "BK-R93R-62",
+    "category": "Bikes",
+    "subcategory": "Road Bikes",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 585,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18U-44",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 586,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18U-50",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 565,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18U-54",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 566,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18U-58",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 567,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18U-62",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 568,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18Y-44",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 569,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18Y-50",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 570,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18Y-54",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 571,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18Y-58",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 572,
+    "category_id": "BI_TB",
+    "product_key": "BK-T18Y-62",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 577,
+    "category_id": "BI_TB",
+    "product_key": "BK-T44U-46",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 578,
+    "category_id": "BI_TB",
+    "product_key": "BK-T44U-50",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 579,
+    "category_id": "BI_TB",
+    "product_key": "BK-T44U-54",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 560,
+    "category_id": "BI_TB",
+    "product_key": "BK-T44U-60",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 573,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79U-46",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 574,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79U-50",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 575,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79U-54",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 576,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79U-60",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 561,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79Y-46",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 562,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79Y-50",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 563,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79Y-54",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 564,
+    "category_id": "BI_TB",
+    "product_key": "BK-T79Y-60",
+    "category": "Bikes",
+    "subcategory": "Touring Bikes",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 461,
+    "category_id": "CL_BS",
+    "product_key": "SB-M891-L",
+    "category": "Clothing",
+    "subcategory": "Bib-Shorts",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 460,
+    "category_id": "CL_BS",
+    "product_key": "SB-M891-M",
+    "category": "Clothing",
+    "subcategory": "Bib-Shorts",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 459,
+    "category_id": "CL_BS",
+    "product_key": "SB-M891-S",
+    "category": "Clothing",
+    "subcategory": "Bib-Shorts",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 223,
+    "category_id": "CL_CA",
+    "product_key": "CA-1098",
+    "category": "Clothing",
+    "subcategory": "Caps",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 224,
+    "category_id": "CL_CA",
+    "product_key": "CA-1098",
+    "category": "Clothing",
+    "subcategory": "Caps",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 225,
+    "category_id": "CL_CA",
+    "product_key": "CA-1098",
+    "category": "Clothing",
+    "subcategory": "Caps",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 470,
+    "category_id": "CL_GL",
+    "product_key": "GL-F110-L",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 469,
+    "category_id": "CL_GL",
+    "product_key": "GL-F110-M",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 468,
+    "category_id": "CL_GL",
+    "product_key": "GL-F110-S",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 466,
+    "category_id": "CL_GL",
+    "product_key": "GL-H102-L",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 467,
+    "category_id": "CL_GL",
+    "product_key": "GL-H102-L",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 464,
+    "category_id": "CL_GL",
+    "product_key": "GL-H102-M",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 465,
+    "category_id": "CL_GL",
+    "product_key": "GL-H102-M",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 462,
+    "category_id": "CL_GL",
+    "product_key": "GL-H102-S",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 463,
+    "category_id": "CL_GL",
+    "product_key": "GL-H102-S",
+    "category": "Clothing",
+    "subcategory": "Gloves",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 232,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-L",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 233,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-L",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 234,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-L",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 229,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-M",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 230,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-M",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 231,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-M",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 226,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-S",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 227,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-S",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 228,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-S",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 235,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-X",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 236,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-X",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 237,
+    "category_id": "CL_JE",
+    "product_key": "LJ-0192-X",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 490,
+    "category_id": "CL_JE",
+    "product_key": "SJ-0194-L",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 489,
+    "category_id": "CL_JE",
+    "product_key": "SJ-0194-M",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 488,
+    "category_id": "CL_JE",
+    "product_key": "SJ-0194-S",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 491,
+    "category_id": "CL_JE",
+    "product_key": "SJ-0194-X",
+    "category": "Clothing",
+    "subcategory": "Jerseys",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 454,
+    "category_id": "CL_SH",
+    "product_key": "SH-M897-L",
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 453,
+    "category_id": "CL_SH",
+    "product_key": "SH-M897-M",
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 445,
+    "category_id": "CL_SH",
+    "product_key": "SH-M897-S",
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 455,
+    "category_id": "CL_SH",
+    "product_key": "SH-M897-X",
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 476,
+    "category_id": "CL_SH",
+    "product_key": "SH-W890-L",
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 475,
+    "category_id": "CL_SH",
+    "product_key": "SH-W890-M",
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 474,
+    "category_id": "CL_SH",
+    "product_key": "SH-W890-S",
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 219,
+    "category_id": "CL_SO",
+    "product_key": "SO-B909-L",
+    "category": "Clothing",
+    "subcategory": "Socks",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 218,
+    "category_id": "CL_SO",
+    "product_key": "SO-B909-M",
+    "category": "Clothing",
+    "subcategory": "Socks",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 482,
+    "category_id": "CL_SO",
+    "product_key": "SO-R809-L",
+    "category": "Clothing",
+    "subcategory": "Socks",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 481,
+    "category_id": "CL_SO",
+    "product_key": "SO-R809-M",
+    "category": "Clothing",
+    "subcategory": "Socks",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 458,
+    "category_id": "CL_TI",
+    "product_key": "TG-W091-L",
+    "category": "Clothing",
+    "subcategory": "Tights",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 457,
+    "category_id": "CL_TI",
+    "product_key": "TG-W091-M",
+    "category": "Clothing",
+    "subcategory": "Tights",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 456,
+    "category_id": "CL_TI",
+    "product_key": "TG-W091-S",
+    "category": "Clothing",
+    "subcategory": "Tights",
+    "product_line": "Sport",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 473,
+    "category_id": "CL_VE",
+    "product_key": "VE-C304-L",
+    "category": "Clothing",
+    "subcategory": "Vests",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 472,
+    "category_id": "CL_VE",
+    "product_key": "VE-C304-M",
+    "category": "Clothing",
+    "subcategory": "Vests",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 471,
+    "category_id": "CL_VE",
+    "product_key": "VE-C304-S",
+    "category": "Clothing",
+    "subcategory": "Vests",
+    "product_line": "Sport",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 601,
+    "category_id": "CO_BB",
+    "product_key": "BB-7421",
+    "category": "Components",
+    "subcategory": "Bottom Brackets",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 602,
+    "category_id": "CO_BB",
+    "product_key": "BB-8107",
+    "category": "Components",
+    "subcategory": "Bottom Brackets",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 603,
+    "category_id": "CO_BB",
+    "product_key": "BB-9108",
+    "category": "Components",
+    "subcategory": "Bottom Brackets",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 555,
+    "category_id": "CO_BR",
+    "product_key": "FB-9873",
+    "category": "Components",
+    "subcategory": "Brakes",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 514,
+    "category_id": "CO_BR",
+    "product_key": "RB-9231",
+    "category": "Components",
+    "subcategory": "Brakes",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 559,
+    "category_id": "CO_CH",
+    "product_key": "CH-0234",
+    "category": "Components",
+    "subcategory": "Chains",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 556,
+    "category_id": "CO_CS",
+    "product_key": "CS-4759",
+    "category": "Components",
+    "subcategory": "Cranksets",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 557,
+    "category_id": "CO_CS",
+    "product_key": "CS-6583",
+    "category": "Components",
+    "subcategory": "Cranksets",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 558,
+    "category_id": "CO_CS",
+    "product_key": "CS-9183",
+    "category": "Components",
+    "subcategory": "Cranksets",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 552,
+    "category_id": "CO_DE",
+    "product_key": "FD-2342",
+    "category": "Components",
+    "subcategory": "Derailleurs",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 501,
+    "category_id": "CO_DE",
+    "product_key": "RD-2308",
+    "category": "Components",
+    "subcategory": "Derailleurs",
+    "product_line": "Unknown",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 391,
+    "category_id": "CO_FO",
+    "product_key": "FK-1639",
+    "category": "Components",
+    "subcategory": "Forks",
+    "product_line": "Unknown",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 392,
+    "category_id": "CO_FO",
+    "product_key": "FK-5136",
+    "category": "Components",
+    "subcategory": "Forks",
+    "product_line": "Unknown",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 393,
+    "category_id": "CO_FO",
+    "product_key": "FK-9939",
+    "category": "Components",
+    "subcategory": "Forks",
+    "product_line": "Unknown",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 397,
+    "category_id": "CO_HB",
+    "product_key": "HB-M243",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 398,
+    "category_id": "CO_HB",
+    "product_key": "HB-M243",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 399,
+    "category_id": "CO_HB",
+    "product_key": "HB-M763",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 400,
+    "category_id": "CO_HB",
+    "product_key": "HB-M763",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 401,
+    "category_id": "CO_HB",
+    "product_key": "HB-M918",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 402,
+    "category_id": "CO_HB",
+    "product_key": "HB-M918",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 403,
+    "category_id": "CO_HB",
+    "product_key": "HB-R504",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 404,
+    "category_id": "CO_HB",
+    "product_key": "HB-R504",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 405,
+    "category_id": "CO_HB",
+    "product_key": "HB-R720",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 406,
+    "category_id": "CO_HB",
+    "product_key": "HB-R720",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 407,
+    "category_id": "CO_HB",
+    "product_key": "HB-R956",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 408,
+    "category_id": "CO_HB",
+    "product_key": "HB-R956",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 553,
+    "category_id": "CO_HB",
+    "product_key": "HB-T721",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 554,
+    "category_id": "CO_HB",
+    "product_key": "HB-T928",
+    "category": "Components",
+    "subcategory": "Handlebars",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 394,
+    "category_id": "CO_HS",
+    "product_key": "HS-0296",
+    "category": "Components",
+    "subcategory": "Headsets",
+    "product_line": "Unknown",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 395,
+    "category_id": "CO_HS",
+    "product_key": "HS-2451",
+    "category": "Components",
+    "subcategory": "Headsets",
+    "product_line": "Unknown",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 396,
+    "category_id": "CO_HS",
+    "product_key": "HS-3479",
+    "category": "Components",
+    "subcategory": "Headsets",
+    "product_line": "Unknown",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 550,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21B-40",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 531,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21B-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 532,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21B-44",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 533,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21B-48",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 534,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21B-52",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 551,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21S-40",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 524,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21S-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 525,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21S-44",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 526,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21S-48",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 527,
+    "category_id": "CO_MF",
+    "product_key": "FR-M21S-52",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 409,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63B-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 426,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63B-40",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 427,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63B-44",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 428,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63B-48",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 549,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63S-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 511,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63S-40",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 512,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63S-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 513,
+    "category_id": "CO_MF",
+    "product_key": "FR-M63S-46",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 304,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 305,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 306,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 296,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 297,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 298,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 299,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-44",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 301,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-46",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 302,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-46",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 303,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-46",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 300,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94B-48",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 307,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 308,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 309,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-38",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 288,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 289,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 290,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-42",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 291,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-44",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 293,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-46",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 294,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-46",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 295,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-46",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 292,
+    "category_id": "CO_MF",
+    "product_key": "FR-M94S-52",
+    "category": "Components",
+    "subcategory": "Mountain Frames",
+    "product_line": "Mountain",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 542,
+    "category_id": "CO_PE",
+    "product_key": "PD-M282",
+    "category": null,
+    "subcategory": null,
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 543,
+    "category_id": "CO_PE",
+    "product_key": "PD-M340",
+    "category": null,
+    "subcategory": null,
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 544,
+    "category_id": "CO_PE",
+    "product_key": "PD-M562",
+    "category": null,
+    "subcategory": null,
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 545,
+    "category_id": "CO_PE",
+    "product_key": "PD-R347",
+    "category": null,
+    "subcategory": null,
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 546,
+    "category_id": "CO_PE",
+    "product_key": "PD-R563",
+    "category": null,
+    "subcategory": null,
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 547,
+    "category_id": "CO_PE",
+    "product_key": "PD-R853",
+    "category": null,
+    "subcategory": null,
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 548,
+    "category_id": "CO_PE",
+    "product_key": "PD-T852",
+    "category": null,
+    "subcategory": null,
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 279,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 280,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 281,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 282,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 283,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 284,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 285,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 286,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 287,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 253,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 254,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 255,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 256,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-60",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 257,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-60",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 258,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-60",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 259,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 260,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 261,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38B-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 262,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 263,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 264,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 265,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 266,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 267,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 268,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 269,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 270,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-60",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 271,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-60",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 272,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 273,
+    "category_id": "CO_RF",
+    "product_key": "FR-R38R-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 274,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72R-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 275,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72R-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 276,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72R-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 277,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72R-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 278,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72R-60",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 417,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-38",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 418,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-38",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 429,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-40",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 430,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-40",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 431,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-42",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 432,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-42",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 433,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 434,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 435,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 436,
+    "category_id": "CO_RF",
+    "product_key": "FR-R72Y-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 439,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 440,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 441,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 442,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 443,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 444,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 210,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2003-07-01T00:00:00"
+  },
+  {
+    "product_id": 437,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 438,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92B-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 241,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 242,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 243,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-44",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 244,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 245,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 246,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-48",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 247,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 248,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 249,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-52",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 250,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-56",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 251,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-56",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 252,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-56",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 211,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-58",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2003-07-01T00:00:00"
+  },
+  {
+    "product_id": 238,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2011-07-01T00:00:00"
+  },
+  {
+    "product_id": 239,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 240,
+    "category_id": "CO_RF",
+    "product_key": "FR-R92R-62",
+    "category": "Components",
+    "subcategory": "Road Frames",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 515,
+    "category_id": "CO_SA",
+    "product_key": "SE-M236",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 516,
+    "category_id": "CO_SA",
+    "product_key": "SE-M798",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 517,
+    "category_id": "CO_SA",
+    "product_key": "SE-M940",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Mountain",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 518,
+    "category_id": "CO_SA",
+    "product_key": "SE-R581",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 519,
+    "category_id": "CO_SA",
+    "product_key": "SE-R908",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 520,
+    "category_id": "CO_SA",
+    "product_key": "SE-R995",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Road",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 521,
+    "category_id": "CO_SA",
+    "product_key": "SE-T312",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 522,
+    "category_id": "CO_SA",
+    "product_key": "SE-T762",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 523,
+    "category_id": "CO_SA",
+    "product_key": "SE-T924",
+    "category": "Components",
+    "subcategory": "Saddles",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 510,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67U-44",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 502,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67U-50",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 503,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67U-54",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 504,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67U-58",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 505,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67U-62",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 506,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67Y-44",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 507,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67Y-50",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 508,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67Y-54",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 509,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67Y-58",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 493,
+    "category_id": "CO_TF",
+    "product_key": "FR-T67Y-62",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 497,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98U-46",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 498,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98U-50",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 499,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98U-54",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 500,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98U-60",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 494,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98Y-46",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 495,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98Y-50",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 496,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98Y-54",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 492,
+    "category_id": "CO_TF",
+    "product_key": "FR-T98Y-60",
+    "category": "Components",
+    "subcategory": "Touring Frames",
+    "product_line": "Touring",
+    "product_start_date": "2013-07-01T00:00:00"
+  },
+  {
+    "product_id": 410,
+    "category_id": "CO_WH",
+    "product_key": "FW-M423",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 411,
+    "category_id": "CO_WH",
+    "product_key": "FW-M762",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 412,
+    "category_id": "CO_WH",
+    "product_key": "FW-M928",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 413,
+    "category_id": "CO_WH",
+    "product_key": "FW-R623",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 414,
+    "category_id": "CO_WH",
+    "product_key": "FW-R762",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 415,
+    "category_id": "CO_WH",
+    "product_key": "FW-R820",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 416,
+    "category_id": "CO_WH",
+    "product_key": "FW-T905",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Touring",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 419,
+    "category_id": "CO_WH",
+    "product_key": "RW-M423",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 420,
+    "category_id": "CO_WH",
+    "product_key": "RW-M762",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 421,
+    "category_id": "CO_WH",
+    "product_key": "RW-M928",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Mountain",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 422,
+    "category_id": "CO_WH",
+    "product_key": "RW-R623",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 423,
+    "category_id": "CO_WH",
+    "product_key": "RW-R762",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 424,
+    "category_id": "CO_WH",
+    "product_key": "RW-R820",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Road",
+    "product_start_date": "2012-07-01T00:00:00"
+  },
+  {
+    "product_id": 425,
+    "category_id": "CO_WH",
+    "product_key": "RW-T905",
+    "category": "Components",
+    "subcategory": "Wheels",
+    "product_line": "Touring",
+    "product_start_date": "2012-07-01T00:00:00"
+  }
+]
