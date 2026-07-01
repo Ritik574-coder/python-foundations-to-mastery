@@ -1,0 +1,21 @@
+customer_id,name,email,phone,city,state,country,signup_date,segment
+C001,John Smith,john.smith@email.com,555-0101,New York,NY,USA,2023-01-15,Premium
+C002,Jane Doe,jane.doe@email.com,555-0102,Los Angeles,CA,USA,2023-02-20,Standard
+C003,Bob Johnson,bob.j@email.com,555-0103,Chicago,IL,USA,2023-03-10,Premium
+C004,Alice Brown,alice.b@email.com,555-0104,Houston,TX,USA,2023-04-05,Standard
+C005,Charlie Wilson,charlie.w@email.com,555-0105,Phoenix,AZ,USA,2023-05-18,Standard
+C006,Diana Lee,diana.l@email.com,555-0106,Philadelphia,PA,USA,2023-06-22,Premium
+C007,Edward Davis,edward.d@email.com,555-0107,San Antonio,TX,USA,2023-07-30,Standard
+C008,Fiona Garcia,fiona.g@email.com,555-0108,San Diego,CA,USA,2023-08-12,Premium
+C009,George Martinez,george.m@email.com,555-0109,Dallas,TX,USA,2023-09-05,Standard
+C010,Hannah Anderson,hannah.a@email.com,555-0110,San Jose,CA,USA,2023-10-18,Premium
+C011,Ivan Thompson,ivan.t@email.com,555-0111,Austin,TX,USA,2023-11-25,Standard
+C012,Julia Jackson,julia.j@email.com,555-0112,Jacksonville,FL,USA,2023-12-30,Premium
+C013,Kevin White,kevin.w@email.com,555-0113,Fort Worth,TX,USA,2024-01-08,Standard
+C014,Laura Harris,laura.h@email.com,555-0114,Columbus,OH,USA,2024-02-14,Standard
+C015,Michael Clark,michael.c@email.com,555-0115,San Francisco,CA,USA,2024-03-20,Premium
+C016,Nancy Lewis,nancy.l@email.com,555-0116,Charlotte,NC,USA,2024-04-28,Standard
+C017,Oscar Robinson,oscar.r@email.com,555-0117,Indianapolis,IN,USA,2024-05-15,Premium
+C018,Patricia Walker,patricia.w@email.com,555-0118,Seattle,WA,USA,2024-06-22,Standard
+C019,Quentin Hall,quentin.h@email.com,555-0119,Denver,CO,USA,2024-07-30,Premium
+C020,Rachel Young,rachel.y@email.com,555-0120,Boston,MA,USA,2024-08-18,Standard

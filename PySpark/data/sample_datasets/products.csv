@@ -1,0 +1,29 @@
+product_id,product_name,category,brand,price,cost,stock_quantity,created_date
+P101,Wireless Mouse,Electronics, TechBrand,29.99,12.50,500,2023-01-01
+P102,Bluetooth Keyboard,Electronics, TechBrand,49.99,22.00,300,2023-01-15
+P103,USB-C Hub,Electronics, ConnectPro,19.99,8.50,1000,2023-02-01
+P104,4K Monitor,Electronics, DisplayMax,99.99,65.00,150,2023-02-15
+P105,Webcam HD,Electronics, ClearView,34.99,15.00,400,2023-03-01
+P106,Desk Lamp,Home Office,BrightLight,24.99,10.00,600,2023-03-15
+P107,Standing Desk,Home Office,ErgoWork,149.99,85.00,100,2023-04-01
+P108,Ergonomic Chair,Home Office,ComfortPlus,39.99,18.00,250,2023-04-15
+P109,Notebook,Stationery,PaperCraft,59.99,25.00,800,2023-05-01
+P110,Premium Pen Set,Stationery,WriteRight,29.99,12.00,500,2023-05-15
+P111,Wireless Charger,Electronics, PowerUp,79.99,35.00,350,2023-06-01
+P112,Phone Case,Accessories, ShieldTech,19.99,5.00,2000,2023-06-15
+P113,Smart Watch,Electronics, TechBrand,199.99,120.00,200,2023-07-01
+P114,Screen Protector,Accessories, ClearView,44.99,15.00,1500,2023-07-15
+P115,Portable Speaker,Electronics, SoundMax,34.99,15.00,400,2023-08-01
+P116,Laptop Stand,Home Office,ErgoWork,89.99,40.00,200,2023-08-15
+P117,Wireless Earbuds,Electronics, SoundMax,54.99,25.00,600,2023-09-01
+P118,External SSD,Electronics, DataStore,69.99,35.00,300,2023-09-15
+P119,Desk Organizer,Home Office,NeatSpace,24.99,10.00,500,2023-10-01
+P120,Monitor Arm,Home Office,ErgoWork,129.99,60.00,150,2023-10-15
+P121,Keyboard Wrist Rest,Accessories, ComfortPlus,39.99,15.00,400,2023-11-01
+P122,Sticky Notes,Stationery,PaperCraft,14.99,3.00,3000,2023-11-15
+P123,Webcam Light,Electronics, BrightLight,249.99,120.00,100,2023-12-01
+P124,Desk Mat,Home Office,NeatSpace,59.99,25.00,350,2023-12-15
+P125,Cable Management Kit,Accessories, ConnectPro,79.99,30.00,250,2024-01-01
+P126,Notebook Stand,Home Office,ErgoWork,29.99,12.00,600,2024-01-15
+P127,Premium Headphones,Electronics, SoundMax,149.99,70.00,200,2024-02-01
+P128,Wireless Presentation Remote,Electronics, TechBrand,44.99,18.00,300,2024-02-15
