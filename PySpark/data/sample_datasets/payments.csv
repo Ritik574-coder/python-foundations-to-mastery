@@ -1,0 +1,26 @@
+payment_id,order_id,amount,payment_date,payment_method,status,transaction_fee
+PAY001,ORD001,59.98,2024-01-10,Credit Card,Completed,1.80
+PAY002,ORD002,49.99,2024-01-12,PayPal,Completed,1.50
+PAY003,ORD003,59.97,2024-01-15,Debit Card,Completed,0.90
+PAY004,ORD005,69.98,2024-01-20,PayPal,Completed,2.10
+PAY005,ORD006,29.99,2024-01-22,Credit Card,Completed,0.90
+PAY006,ORD007,99.96,2024-01-25,Debit Card,Completed,1.50
+PAY007,ORD009,79.98,2024-02-01,PayPal,Completed,2.40
+PAY008,ORD010,59.99,2024-02-05,Credit Card,Completed,1.80
+PAY009,ORD011,89.97,2024-02-08,Debit Card,Completed,1.35
+PAY010,ORD013,79.99,2024-02-15,Credit Card,Completed,2.40
+PAY011,ORD014,79.96,2024-02-18,Debit Card,Completed,1.20
+PAY012,ORD015,199.99,2024-02-22,Credit Card,Completed,6.00
+PAY013,ORD016,89.98,2024-02-25,PayPal,Completed,2.70
+PAY014,ORD017,104.97,2024-03-01,Credit Card,Completed,3.15
+PAY015,ORD019,109.98,2024-03-08,PayPal,Completed,3.30
+PAY016,ORD020,69.99,2024-03-12,Credit Card,Completed,2.10
+PAY017,ORD021,74.97,2024-03-15,Debit Card,Completed,1.12
+PAY018,ORD022,129.99,2024-03-18,Credit Card,Completed,3.90
+PAY019,ORD023,79.98,2024-03-22,PayPal,Completed,2.40
+PAY020,ORD024,59.96,2024-03-25,Debit Card,Completed,0.90
+PAY021,ORD025,249.99,2024-03-28,Credit Card,Completed,7.50
+PAY022,ORD026,119.98,2024-04-01,PayPal,Completed,3.60
+PAY023,ORD028,89.97,2024-04-08,Debit Card,Completed,1.35
+PAY024,ORD029,149.99,2024-04-12,PayPal,Completed,4.50
+PAY025,ORD030,89.98,2024-04-15,Credit Card,Completed,2.70
