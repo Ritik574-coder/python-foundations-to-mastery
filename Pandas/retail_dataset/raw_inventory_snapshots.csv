@@ -1,0 +1,561 @@
+snapshot_date,product_id,product_name,sku,category,stock_on_hand,stock_reserved,stock_available,reorder_level,unit_cost,unit_price,inventory_value,warehouse_location,store_id
+29-09-2020,2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,175,21,,45,$66.91,149.99,,WH-C2,3009
+"September 29, 2020",2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,191,15,,29,298.38,699.99,,WH-B2,
+29/09/2020,2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,351,11,,25,645.70,1249.99,,WH-C1,3035
+29/09/2020,2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,11,12,,39,12.29,34.99,,wh-b1,3045
+29/09/2020,2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,151,22,,34,53.87,89.99,,WH-C1,3033
+29/09/2020,2006,4K Webcam 1080p,SKU-2006-7909,electronics,43,50,,49,$33.39,79.99,,wh-b1,3029
+"Sep 29, 2020",2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,335,22,,6,24.14,59.99,,WH-B1,3017
+29/09/2020,2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,393,46,,43,91.70,$199.99,,WH-A2,3042
+2020-09-29,2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,431,25,,10,72.43,$129.99,,WH-A1,3050
+2020/09/29,2010,External SSD 1TB,SKU-2010-1970,Electronics,364,33,,20,47.21,119.99,,WH-B1,3033
+09/29/2020,2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,297,30,,40,$38.92,89.99,,WH-C2,
+"September 29, 2020",2012,Women's Yoga Pants,SKU-2012-5183,Clothing,196,19,,44,18.21,49.99,,WH-C2,
+29/09/2020,2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,269,3,,14,13.94,34.99,,WH-C1,3025
+"Sep 29, 2020",2014,Women's Winter Jacket,SKU-2014-3549,Clothing,500,7,,25,47.58,129.99,,WH-C2,
+"Sep 29, 2020",2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,461,39,,46,$17.29,44.99,,WH-C2,3019
+"Sep 29, 2020",2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,24,27,,45,34.85,64.99,,WH-C1,3046
+"Sep 29, 2020",2017,Sports Backpack 30L,SKU-2017-5600,bags,7,8,,47,20.28,54.99,,WH-A1,3039
+"September 29, 2020",2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,364,45,,37,$9.23,$24.99,,WH-B1,3033
+"Sep 29, 2020",2019,Gym Gloves Workout,SKU-2019-9734,Clothing,377,13,,12,7.40,$19.99,,WH-A2,3001
+2020-09-29,2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,417,24,,31,7.52,14.99,,WH-C2,3038
+"Sep 29, 2020",2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,442,19,,50,135.30,249.99,,WH-C1,
+"September 29, 2020",2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,495,38,,39,37.88,79.99,,WH-C2,3049
+29-09-2020,2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,360,7,,30,42.83,99.99,,WH-A2,
+"Sep 29, 2020",2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,239,11,,15,38.14,69.99,,WH-B2,3011
+29-09-2020,2025,Blender High Performance,SKU-2025-9530,Kitchen,152,49,,44,49.21,129.99,,WH-B2,3018
+29-09-2020,2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,280,3,,31,$14.59,29.99,,WH-A1,3016
+"September 29, 2020",2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,133,32,,30,51.28,$129.99,,wh-a1,3008
+2020-09-29,2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,72,9,,24,17.48,39.99,,wh-a1,3015
+09/29/2020,2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,183,45,,25,$81.61,$149.99,,WH-C2,3001
+2020-09-29,2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,162,37,,27,171.29,349.99,,WH-C1,3026
+"September 29, 2020",2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,173,43,,42,17.14,39.99,,wh-b1,3044
+29-09-2020,2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,337,20,,32,12.53,24.99,,WH-B2,3021
+29-09-2020,2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,73,18,,20,178.09,299.99,,WH-A2,3033
+09/29/2020,2034,Camping Tent 4-Person,SKU-2034-5579,Sports,428,32,,49,97.31,189.99,,wh-a1,3017
+"September 29, 2020",2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,166,18,,44,49.28,$139.99,,WH-B1,
+2020-09-29,2036,Foam Roller 18-inch,SKU-2036-8868,Sports,86,21,,15,$10.70,29.99,,wh-b1,3029
+2020/09/29,2037,Jump Rope Speed,SKU-2037-3077,SPORTS,234,16,,37,8.33,14.99,,WH-A2,3044
+29-09-2020,2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,493,45,,29,14.26,34.99,,WH-A1,3044
+29-09-2020,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,254,28,,18,$33.92,59.99,,wh-b1,3043
+29/09/2020,2040,Sleeping Bag -20F,SKU-2040-5501,Sports,184,1,,32,$34.30,89.99,,wh-b1,
+2020-09-29,2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,185,38,,35,$7.53,$19.99,,WH-B1,3030
+2020/09/29,2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,276,10,,22,25.05,$54.99,,WH-A1,3024
+2020/09/29,2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,271,12,,24,16.43,29.99,,WH-A1,3024
+"Sep 29, 2020",2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,33,5,,29,22.84,49.99,,WH-A1,3044
+"Sep 29, 2020",2045,Hair Dryer Professional,SKU-2045-9252,Beauty,317,30,,35,37.87,69.99,,WH-B1,3004
+"Sep 29, 2020",2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,138,14,,10,10.09,$24.99,,WH-B2,3049
+"Sep 29, 2020",2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,398,2,,36,7.23,16.99,,wh-b1,3038
+2020/09/29,2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,353,13,,23,$6.66,12.99,,WH-A1,
+2020-09-29,2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,287,46,,22,6.40,$14.99,,WH-C1,3024
+2020-09-29,2050,Digital Bathroom Scale,SKU-2050-7743,Health,438,24,,6,21.22,$39.99,,wh-b1,3006
+"September 29, 2020",2051,Hardcover Notebook A5,SKU-2051-9972,Office,373,1,,30,5.72,12.99,,WH-C2,3034
+2020/09/29,2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,341,37,,30,4.59,8.99,,WH-B1,3028
+09/29/2020,2053,Desk Organizer Bamboo,SKU-2053-5558,Office,90,48,,9,10.20,24.99,,WH-A1,3027
+29/09/2020,2054,Stapler Heavy Duty,SKU-2054-5278,office,85,7,,11,8.54,$19.99,,WH-C2,3019
+29/09/2020,2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,341,43,,17,$4.06,$9.99,,WH-B2,3049
+"Sep 29, 2020",2056,Mechanical Pencil Set,SKU-2056-6371,Office,333,48,,9,$6.44,14.99,,WH-A2,3025
+29/09/2020,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,87,39,,21,18.60,$39.99,,WH-A1,3003
+2020-09-29,2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,443,41,,10,$23.50,44.99,,wh-b1,3027
+2020/09/29,2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,415,3,,25,$5.59,$12.99,,WH-C1,3031
+"Sep 29, 2020",2060,Whiteboard 24x36,SKU-2060-5372,Office,287,5,,11,21.56,$49.99,,WH-B2,3020
+"Sep 29, 2020",2061,Action Figure Collector Series,SKU-2061-9248,Toys,403,23,,45,12.59,24.99,,wh-b1,3049
+"September 29, 2020",2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,288,25,,45,$19.29,39.99,,WH-A2,3016
+2020-09-29,2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,170,23,,46,27.94,59.99,,wh-a1,
+29/09/2020,2064,Remote Control Car Racing,SKU-2064-6588,Toys,170,28,,42,21.10,49.99,,WH-B1,3047
+2020-09-29,2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,432,42,,13,10.13,$19.99,,WH-C2,3023
+2020/09/29,2066,Doll with Accessories,SKU-2066-6394,Toys,268,2,,25,14.11,29.99,,WH-A1,3029
+2020-09-29,2067,Card Game Family Fun,SKU-2067-7698,Toys,285,47,,30,8.07,$14.99,,wh-b1,3018
+2020-09-29,2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,465,32,,12,$10.13,19.99,,WH-B1,
+29/09/2020,2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,250,47,,26,41.11,$89.99,,WH-B1,3012
+2020/09/29,2070,Science Kit Chemistry,SKU-2070-2054,Toys,46,33,,15,18.23,34.99,,wh-b1,3029
+12/29/2020,2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,358,2,,45,66.91,149.99,,WH-A2,3047
+"December 29, 2020",2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,476,24,,29,298.38,699.99,,WH-A2,3042
+12/29/2020,2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,211,28,,25,645.70,1249.99,,WH-A1,3011
+"December 29, 2020",2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,195,49,,39,12.29,$34.99,,WH-A2,3012
+"Dec 29, 2020",2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,138,40,,34,53.87,$89.99,,wh-a1,3046
+"Dec 29, 2020",2006,4K Webcam 1080p,SKU-2006-7909,electronics,389,17,,49,33.39,$79.99,,wh-a1,3044
+12/29/2020,2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,294,47,,6,24.14,$59.99,,wh-b1,3040
+2020/12/29,2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,304,48,,43,91.70,199.99,,WH-B1,3013
+29-12-2020,2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,182,10,,10,$72.43,129.99,,WH-C1,3009
+29/12/2020,2010,External SSD 1TB,SKU-2010-1970,Electronics,423,46,,20,$47.21,119.99,,WH-A1,3003
+29-12-2020,2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,202,8,,40,38.92,89.99,,WH-A1,3016
+"Dec 29, 2020",2012,Women's Yoga Pants,SKU-2012-5183,Clothing,359,21,,44,18.21,49.99,,WH-A1,3011
+2020-12-29,2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,361,12,,14,13.94,34.99,,WH-A2,
+12/29/2020,2014,Women's Winter Jacket,SKU-2014-3549,Clothing,195,0,,25,$47.58,129.99,,WH-B2,3032
+2020/12/29,2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,314,12,,46,$17.29,$44.99,,WH-C1,3012
+"December 29, 2020",2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,456,38,,45,34.85,64.99,,wh-a1,3031
+29/12/2020,2017,Sports Backpack 30L,SKU-2017-5600,bags,116,50,,47,20.28,54.99,,WH-C2,
+2020/12/29,2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,397,0,,37,$9.23,24.99,,WH-B2,3032
+"December 29, 2020",2019,Gym Gloves Workout,SKU-2019-9734,Clothing,425,36,,12,7.40,$19.99,,WH-C1,3004
+2020/12/29,2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,241,47,,31,7.52,14.99,,WH-B2,3014
+2020-12-29,2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,454,11,,50,135.30,249.99,,WH-C1,3028
+29-12-2020,2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,494,34,,39,37.88,79.99,,WH-C2,
+29/12/2020,2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,398,6,,30,42.83,99.99,,WH-C1,3033
+2020-12-29,2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,73,28,,15,38.14,69.99,,WH-B1,3045
+29/12/2020,2025,Blender High Performance,SKU-2025-9530,Kitchen,438,6,,44,49.21,$129.99,,WH-C1,3010
+29-12-2020,2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,375,20,,31,14.59,29.99,,WH-C2,
+"December 29, 2020",2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,315,1,,30,51.28,129.99,,WH-C2,3003
+"December 29, 2020",2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,315,12,,24,$17.48,$39.99,,WH-A1,3043
+"December 29, 2020",2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,133,16,,25,81.61,$149.99,,WH-A1,3028
+29/12/2020,2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,461,42,,27,171.29,349.99,,wh-b1,
+29/12/2020,2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,35,1,,42,$17.14,$39.99,,wh-b1,3032
+"Dec 29, 2020",2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,244,30,,32,$12.53,24.99,,WH-A2,
+12/29/2020,2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,229,32,,20,178.09,299.99,,WH-C1,
+"December 29, 2020",2034,Camping Tent 4-Person,SKU-2034-5579,Sports,299,14,,49,97.31,$189.99,,WH-B2,
+2020/12/29,2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,229,10,,44,49.28,139.99,,WH-C1,
+2020-12-29,2036,Foam Roller 18-inch,SKU-2036-8868,Sports,73,28,,15,10.70,29.99,,WH-B1,3012
+"December 29, 2020",2037,Jump Rope Speed,SKU-2037-3077,SPORTS,28,15,,37,8.33,14.99,,WH-C2,3018
+29/12/2020,2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,0,46,,29,$14.26,34.99,,WH-A1,3004
+2020/12/29,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,358,50,,18,$33.92,$59.99,,WH-B2,3010
+29/12/2020,2040,Sleeping Bag -20F,SKU-2040-5501,Sports,5,42,,32,$34.30,$89.99,,WH-A2,3017
+"December 29, 2020",2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,163,13,,35,7.53,19.99,,WH-A2,3018
+29/12/2020,2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,316,44,,22,25.05,$54.99,,WH-A1,3032
+"Dec 29, 2020",2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,181,39,,24,16.43,29.99,,wh-a1,3034
+29-12-2020,2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,491,42,,29,22.84,$49.99,,WH-A2,
+2020/12/29,2045,Hair Dryer Professional,SKU-2045-9252,Beauty,261,36,,35,37.87,69.99,,WH-C2,3018
+29-12-2020,2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,497,39,,10,10.09,24.99,,WH-B1,3045
+29-12-2020,2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,392,7,,36,7.23,$16.99,,WH-B1,
+29/12/2020,2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,222,19,,23,6.66,$12.99,,WH-A2,3040
+12/29/2020,2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,280,4,,22,$6.40,$14.99,,wh-b1,3005
+2020-12-29,2050,Digital Bathroom Scale,SKU-2050-7743,Health,487,10,,6,21.22,39.99,,wh-b1,
+29-12-2020,2051,Hardcover Notebook A5,SKU-2051-9972,Office,158,22,,30,$5.72,12.99,,wh-b1,3035
+29-12-2020,2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,19,2,,30,4.59,8.99,,wh-b1,3009
+"Dec 29, 2020",2053,Desk Organizer Bamboo,SKU-2053-5558,Office,8,15,,9,10.20,24.99,,WH-C2,
+29/12/2020,2054,Stapler Heavy Duty,SKU-2054-5278,office,355,14,,11,$8.54,19.99,,WH-B2,
+"December 29, 2020",2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,43,12,,17,4.06,9.99,,WH-B1,
+2020/12/29,2056,Mechanical Pencil Set,SKU-2056-6371,Office,337,13,,9,$6.44,14.99,,WH-C2,3011
+29-12-2020,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,118,22,,21,18.60,$39.99,,wh-a1,3018
+"Dec 29, 2020",2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,314,4,,10,$23.50,44.99,,WH-B2,3048
+"December 29, 2020",2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,102,17,,25,5.59,$12.99,,WH-A1,3001
+29-12-2020,2060,Whiteboard 24x36,SKU-2060-5372,Office,366,37,,11,21.56,$49.99,,WH-B1,3039
+"December 29, 2020",2061,Action Figure Collector Series,SKU-2061-9248,Toys,479,25,,45,12.59,$24.99,,wh-b1,3045
+2020/12/29,2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,379,7,,45,19.29,39.99,,WH-B1,3033
+12/29/2020,2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,55,36,,46,$27.94,59.99,,WH-B2,3035
+2020/12/29,2064,Remote Control Car Racing,SKU-2064-6588,Toys,63,47,,42,$21.10,49.99,,WH-B2,3001
+"December 29, 2020",2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,116,49,,13,10.13,19.99,,WH-A2,3046
+2020-12-29,2066,Doll with Accessories,SKU-2066-6394,Toys,82,7,,25,$14.11,29.99,,wh-b1,3009
+29/12/2020,2067,Card Game Family Fun,SKU-2067-7698,Toys,286,32,,30,8.07,14.99,,WH-B1,3034
+"December 29, 2020",2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,464,27,,12,10.13,19.99,,WH-C2,3027
+"Dec 29, 2020",2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,459,13,,26,41.11,89.99,,wh-b1,
+"December 29, 2020",2070,Science Kit Chemistry,SKU-2070-2054,Toys,213,2,,15,18.23,$34.99,,WH-C2,3014
+"October 29, 2021",2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,121,47,,45,$66.91,$149.99,,WH-B1,
+10/29/2021,2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,444,43,,29,298.38,699.99,,wh-a1,3014
+"October 29, 2021",2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,439,49,,25,645.70,"$1,249.99",,WH-B2,3020
+29/10/2021,2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,136,4,,39,12.29,34.99,,WH-C2,3005
+"October 29, 2021",2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,54,21,,34,53.87,89.99,,WH-B1,
+2021/10/29,2006,4K Webcam 1080p,SKU-2006-7909,electronics,165,49,,49,33.39,$79.99,,WH-A2,3026
+29-10-2021,2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,428,24,,6,24.14,59.99,,WH-C2,3026
+29/10/2021,2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,214,45,,43,91.70,$199.99,,WH-C2,3049
+"October 29, 2021",2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,74,32,,10,72.43,$129.99,,WH-C1,3019
+"October 29, 2021",2010,External SSD 1TB,SKU-2010-1970,Electronics,275,37,,20,$47.21,119.99,,wh-b1,3017
+2021-10-29,2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,86,22,,40,38.92,89.99,,WH-A2,3040
+10/29/2021,2012,Women's Yoga Pants,SKU-2012-5183,Clothing,214,16,,44,$18.21,49.99,,WH-B2,3026
+"Oct 29, 2021",2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,56,17,,14,13.94,34.99,,wh-b1,3017
+10/29/2021,2014,Women's Winter Jacket,SKU-2014-3549,Clothing,262,19,,25,$47.58,$129.99,,wh-b1,3020
+"Oct 29, 2021",2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,237,22,,46,17.29,$44.99,,WH-A1,3043
+29/10/2021,2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,262,12,,45,34.85,64.99,,WH-C1,3006
+29/10/2021,2017,Sports Backpack 30L,SKU-2017-5600,bags,31,30,,47,$20.28,54.99,,wh-a1,3009
+2021-10-29,2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,455,35,,37,9.23,24.99,,WH-A2,3030
+29/10/2021,2019,Gym Gloves Workout,SKU-2019-9734,Clothing,10,43,,12,7.40,$19.99,,WH-C2,3013
+29-10-2021,2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,268,5,,31,$7.52,14.99,,WH-B2,3006
+29-10-2021,2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,63,16,,50,135.30,249.99,,WH-A1,3020
+2021/10/29,2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,32,42,,39,$37.88,79.99,,wh-b1,3005
+29/10/2021,2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,51,42,,30,42.83,99.99,,WH-C2,3035
+10/29/2021,2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,474,20,,15,38.14,$69.99,,WH-A1,3029
+2021/10/29,2025,Blender High Performance,SKU-2025-9530,Kitchen,421,6,,44,49.21,129.99,,wh-a1,3032
+"Oct 29, 2021",2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,108,42,,31,14.59,29.99,,wh-a1,3002
+2021-10-29,2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,477,15,,30,$51.28,129.99,,WH-B2,3004
+2021/10/29,2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,279,43,,24,$17.48,39.99,,WH-C1,
+29/10/2021,2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,69,46,,25,81.61,149.99,,WH-A1,
+"October 29, 2021",2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,308,49,,27,171.29,$349.99,,WH-A2,3011
+"Oct 29, 2021",2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,293,31,,42,$17.14,$39.99,,WH-A2,3050
+2021/10/29,2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,329,44,,32,12.53,24.99,,WH-B1,3030
+29-10-2021,2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,359,20,,20,178.09,299.99,,WH-B2,
+2021-10-29,2034,Camping Tent 4-Person,SKU-2034-5579,Sports,169,38,,49,$97.31,189.99,,WH-A2,3028
+"October 29, 2021",2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,338,1,,44,49.28,139.99,,wh-b1,
+10/29/2021,2036,Foam Roller 18-inch,SKU-2036-8868,Sports,232,24,,15,10.70,29.99,,WH-C1,3028
+10/29/2021,2037,Jump Rope Speed,SKU-2037-3077,SPORTS,92,7,,37,8.33,$14.99,,wh-b1,3023
+2021/10/29,2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,381,28,,29,14.26,$34.99,,WH-C1,3018
+2021/10/29,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,268,25,,18,33.92,59.99,,WH-C1,3038
+29-10-2021,2040,Sleeping Bag -20F,SKU-2040-5501,Sports,118,39,,32,$34.30,$89.99,,WH-B1,3043
+29-10-2021,2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,17,30,,35,7.53,19.99,,wh-b1,3027
+2021-10-29,2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,117,22,,22,25.05,54.99,,WH-B1,
+2021/10/29,2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,24,41,,24,16.43,$29.99,,wh-a1,
+"Oct 29, 2021",2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,74,15,,29,22.84,49.99,,WH-A2,3014
+"October 29, 2021",2045,Hair Dryer Professional,SKU-2045-9252,Beauty,207,1,,35,37.87,69.99,,WH-B1,3048
+29-10-2021,2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,87,12,,10,10.09,24.99,,WH-B1,
+2021/10/29,2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,50,36,,36,7.23,16.99,,wh-a1,3005
+2021/10/29,2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,444,32,,23,6.66,12.99,,WH-B2,3002
+10/29/2021,2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,460,46,,22,$6.40,$14.99,,WH-B2,3004
+29/10/2021,2050,Digital Bathroom Scale,SKU-2050-7743,Health,461,20,,6,21.22,$39.99,,WH-C2,
+"Oct 29, 2021",2051,Hardcover Notebook A5,SKU-2051-9972,Office,384,9,,30,5.72,12.99,,WH-B1,3032
+"Oct 29, 2021",2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,134,20,,30,$4.59,8.99,,wh-a1,3007
+2021-10-29,2053,Desk Organizer Bamboo,SKU-2053-5558,Office,395,26,,9,$10.20,24.99,,WH-A2,3022
+"October 29, 2021",2054,Stapler Heavy Duty,SKU-2054-5278,office,287,5,,11,8.54,19.99,,WH-C1,
+29-10-2021,2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,402,50,,17,4.06,$9.99,,wh-b1,3041
+"October 29, 2021",2056,Mechanical Pencil Set,SKU-2056-6371,Office,285,12,,9,$6.44,14.99,,WH-C2,3015
+2021/10/29,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,2,15,,21,18.60,$39.99,,wh-b1,3021
+10/29/2021,2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,162,14,,10,23.50,44.99,,wh-b1,3027
+2021/10/29,2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,95,13,,25,5.59,12.99,,wh-a1,3046
+"October 29, 2021",2060,Whiteboard 24x36,SKU-2060-5372,Office,226,29,,11,21.56,$49.99,,WH-C2,3009
+"Oct 29, 2021",2061,Action Figure Collector Series,SKU-2061-9248,Toys,477,40,,45,12.59,24.99,,WH-B2,3043
+2021-10-29,2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,364,39,,45,19.29,$39.99,,WH-A2,3039
+"Oct 29, 2021",2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,302,4,,46,27.94,59.99,,WH-A2,3002
+10/29/2021,2064,Remote Control Car Racing,SKU-2064-6588,Toys,295,25,,42,21.10,49.99,,WH-B1,3032
+29-10-2021,2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,279,15,,13,10.13,$19.99,,WH-B2,3017
+"October 29, 2021",2066,Doll with Accessories,SKU-2066-6394,Toys,392,35,,25,14.11,$29.99,,WH-C1,3010
+29/10/2021,2067,Card Game Family Fun,SKU-2067-7698,Toys,64,36,,30,8.07,14.99,,wh-a1,3046
+"October 29, 2021",2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,181,31,,12,10.13,19.99,,WH-C1,
+"October 29, 2021",2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,390,18,,26,$41.11,89.99,,WH-B1,
+10/29/2021,2070,Science Kit Chemistry,SKU-2070-2054,Toys,118,25,,15,18.23,34.99,,wh-a1,3001
+2022/01/14,2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,110,15,,45,66.91,$149.99,,wh-b1,
+14-01-2022,2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,82,1,,29,298.38,699.99,,WH-C1,3007
+14-01-2022,2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,219,35,,25,$645.70,1249.99,,wh-b1,3023
+2022/01/14,2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,152,14,,39,$12.29,34.99,,wh-a1,3038
+14-01-2022,2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,421,28,,34,53.87,89.99,,WH-A2,3027
+2022/01/14,2006,4K Webcam 1080p,SKU-2006-7909,electronics,100,14,,49,$33.39,$79.99,,wh-a1,3031
+14-01-2022,2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,91,21,,6,$24.14,59.99,,WH-B1,3024
+14/01/2022,2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,432,35,,43,91.70,199.99,,wh-a1,3033
+2022-01-14,2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,409,11,,10,72.43,129.99,,WH-B2,3044
+14/01/2022,2010,External SSD 1TB,SKU-2010-1970,Electronics,175,8,,20,47.21,$119.99,,WH-C2,3043
+"January 14, 2022",2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,227,25,,40,38.92,$89.99,,WH-B2,3008
+2022-01-14,2012,Women's Yoga Pants,SKU-2012-5183,Clothing,86,25,,44,$18.21,49.99,,WH-B1,3021
+01/14/2022,2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,495,17,,14,13.94,$34.99,,WH-B2,3008
+"Jan 14, 2022",2014,Women's Winter Jacket,SKU-2014-3549,Clothing,341,47,,25,47.58,129.99,,WH-C2,
+"January 14, 2022",2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,356,40,,46,$17.29,44.99,,WH-B2,3018
+2022/01/14,2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,0,16,,45,34.85,64.99,,WH-B1,3042
+"Jan 14, 2022",2017,Sports Backpack 30L,SKU-2017-5600,bags,87,5,,47,$20.28,$54.99,,WH-B2,3005
+14/01/2022,2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,258,49,,37,$9.23,24.99,,WH-C2,3027
+2022/01/14,2019,Gym Gloves Workout,SKU-2019-9734,Clothing,390,12,,12,7.40,$19.99,,WH-A2,3014
+01/14/2022,2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,101,47,,31,7.52,14.99,,wh-b1,3035
+14-01-2022,2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,209,11,,50,135.30,249.99,,WH-C2,
+2022-01-14,2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,172,6,,39,$37.88,79.99,,WH-C1,
+14-01-2022,2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,280,15,,30,$42.83,99.99,,WH-A2,3024
+"Jan 14, 2022",2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,463,33,,15,$38.14,69.99,,wh-b1,3028
+14/01/2022,2025,Blender High Performance,SKU-2025-9530,Kitchen,356,0,,44,$49.21,129.99,,wh-a1,3043
+"Jan 14, 2022",2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,75,20,,31,$14.59,$29.99,,WH-C2,3018
+14-01-2022,2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,290,33,,30,51.28,129.99,,WH-C1,3029
+14/01/2022,2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,145,28,,24,$17.48,39.99,,WH-A2,
+"Jan 14, 2022",2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,267,30,,25,81.61,149.99,,WH-C2,
+01/14/2022,2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,21,2,,27,171.29,$349.99,,wh-a1,3013
+01/14/2022,2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,287,26,,42,17.14,39.99,,wh-a1,3035
+2022-01-14,2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,318,21,,32,12.53,$24.99,,WH-A2,3020
+"Jan 14, 2022",2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,382,3,,20,178.09,299.99,,WH-A1,3001
+"Jan 14, 2022",2034,Camping Tent 4-Person,SKU-2034-5579,Sports,425,49,,49,97.31,$189.99,,wh-a1,3013
+2022-01-14,2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,279,35,,44,49.28,$139.99,,WH-C2,3028
+"January 14, 2022",2036,Foam Roller 18-inch,SKU-2036-8868,Sports,81,26,,15,10.70,29.99,,WH-B1,3039
+14-01-2022,2037,Jump Rope Speed,SKU-2037-3077,SPORTS,139,46,,37,8.33,14.99,,WH-A1,
+14-01-2022,2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,357,30,,29,14.26,34.99,,WH-C2,
+2022-01-14,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,434,19,,18,33.92,$59.99,,WH-C2,3045
+"January 14, 2022",2040,Sleeping Bag -20F,SKU-2040-5501,Sports,237,29,,32,34.30,$89.99,,WH-C1,
+2022-01-14,2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,430,22,,35,$7.53,19.99,,WH-B1,
+14-01-2022,2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,362,29,,22,25.05,$54.99,,WH-C2,3021
+2022/01/14,2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,240,5,,24,16.43,29.99,,WH-C1,3033
+2022-01-14,2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,313,35,,29,$22.84,49.99,,wh-b1,
+"Jan 14, 2022",2045,Hair Dryer Professional,SKU-2045-9252,Beauty,420,21,,35,37.87,$69.99,,WH-A1,
+14/01/2022,2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,137,13,,10,10.09,$24.99,,WH-C1,
+2022/01/14,2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,428,46,,36,$7.23,16.99,,WH-C1,3037
+14-01-2022,2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,199,19,,23,6.66,12.99,,wh-a1,3035
+2022-01-14,2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,74,42,,22,$6.40,14.99,,WH-B1,3038
+2022/01/14,2050,Digital Bathroom Scale,SKU-2050-7743,Health,470,7,,6,21.22,39.99,,WH-C1,3023
+"Jan 14, 2022",2051,Hardcover Notebook A5,SKU-2051-9972,Office,35,23,,30,$5.72,$12.99,,WH-B1,3023
+01/14/2022,2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,373,5,,30,$4.59,8.99,,WH-C2,3040
+"January 14, 2022",2053,Desk Organizer Bamboo,SKU-2053-5558,Office,270,15,,9,10.20,$24.99,,WH-C2,3036
+2022-01-14,2054,Stapler Heavy Duty,SKU-2054-5278,office,41,39,,11,$8.54,$19.99,,WH-B2,
+"January 14, 2022",2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,278,20,,17,4.06,9.99,,WH-C2,3023
+"Jan 14, 2022",2056,Mechanical Pencil Set,SKU-2056-6371,Office,353,5,,9,6.44,$14.99,,WH-B2,3041
+2022-01-14,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,285,37,,21,18.60,$39.99,,WH-B2,3003
+"January 14, 2022",2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,265,13,,10,$23.50,44.99,,WH-A2,3003
+"January 14, 2022",2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,470,37,,25,5.59,$12.99,,WH-B2,3029
+"January 14, 2022",2060,Whiteboard 24x36,SKU-2060-5372,Office,435,48,,11,$21.56,49.99,,WH-B1,3025
+01/14/2022,2061,Action Figure Collector Series,SKU-2061-9248,Toys,329,39,,45,12.59,24.99,,WH-A1,3011
+01/14/2022,2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,311,4,,45,19.29,39.99,,WH-B1,3038
+14/01/2022,2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,348,0,,46,27.94,59.99,,wh-b1,3023
+2022/01/14,2064,Remote Control Car Racing,SKU-2064-6588,Toys,367,37,,42,21.10,49.99,,WH-A1,3011
+14/01/2022,2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,416,11,,13,$10.13,$19.99,,WH-C1,
+01/14/2022,2066,Doll with Accessories,SKU-2066-6394,Toys,460,21,,25,14.11,$29.99,,wh-a1,3041
+"January 14, 2022",2067,Card Game Family Fun,SKU-2067-7698,Toys,240,6,,30,$8.07,14.99,,wh-a1,3048
+14/01/2022,2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,390,0,,12,10.13,$19.99,,wh-a1,3048
+"January 14, 2022",2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,123,42,,26,41.11,$89.99,,WH-B1,3036
+01/14/2022,2070,Science Kit Chemistry,SKU-2070-2054,Toys,277,22,,15,$18.23,34.99,,WH-A1,3023
+"Jul 03, 2022",2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,142,29,,45,66.91,149.99,,WH-A1,3027
+03/07/2022,2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,427,12,,29,$298.38,699.99,,wh-b1,3043
+03-07-2022,2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,365,17,,25,$645.70,1249.99,,wh-b1,3003
+03-07-2022,2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,77,3,,39,$12.29,34.99,,WH-B1,3001
+03/07/2022,2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,372,20,,34,53.87,89.99,,WH-B2,3028
+07/03/2022,2006,4K Webcam 1080p,SKU-2006-7909,electronics,411,37,,49,$33.39,$79.99,,WH-B1,3050
+07/03/2022,2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,34,37,,6,24.14,59.99,,wh-b1,3048
+"July 03, 2022",2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,332,0,,43,91.70,199.99,,wh-b1,3011
+2022-07-03,2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,463,20,,10,$72.43,129.99,,WH-C2,3008
+"July 03, 2022",2010,External SSD 1TB,SKU-2010-1970,Electronics,460,40,,20,47.21,$119.99,,WH-A2,
+03-07-2022,2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,204,44,,40,38.92,89.99,,WH-A2,3024
+03-07-2022,2012,Women's Yoga Pants,SKU-2012-5183,Clothing,413,14,,44,18.21,49.99,,WH-B1,3026
+"Jul 03, 2022",2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,354,1,,14,$13.94,34.99,,WH-B1,3030
+03/07/2022,2014,Women's Winter Jacket,SKU-2014-3549,Clothing,234,13,,25,47.58,$129.99,,wh-b1,3039
+03/07/2022,2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,31,0,,46,$17.29,44.99,,wh-a1,
+03-07-2022,2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,484,6,,45,34.85,64.99,,WH-A2,3010
+03/07/2022,2017,Sports Backpack 30L,SKU-2017-5600,bags,197,30,,47,$20.28,54.99,,WH-A2,3020
+"July 03, 2022",2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,331,47,,37,9.23,24.99,,wh-a1,3016
+2022-07-03,2019,Gym Gloves Workout,SKU-2019-9734,Clothing,421,0,,12,7.40,19.99,,WH-B1,
+"Jul 03, 2022",2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,395,39,,31,$7.52,14.99,,wh-a1,3017
+07/03/2022,2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,308,13,,50,135.30,$249.99,,wh-a1,3044
+2022-07-03,2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,115,36,,39,37.88,79.99,,wh-a1,3006
+"Jul 03, 2022",2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,138,43,,30,42.83,$99.99,,WH-B1,3001
+"July 03, 2022",2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,126,7,,15,38.14,69.99,,WH-B2,3009
+"Jul 03, 2022",2025,Blender High Performance,SKU-2025-9530,Kitchen,12,3,,44,$49.21,129.99,,WH-B1,3016
+2022-07-03,2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,440,42,,31,$14.59,$29.99,,wh-b1,3018
+"July 03, 2022",2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,417,33,,30,51.28,$129.99,,wh-b1,3005
+03/07/2022,2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,350,39,,24,17.48,39.99,,WH-C2,3032
+07/03/2022,2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,81,15,,25,$81.61,149.99,,WH-B2,3015
+2022/07/03,2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,44,1,,27,171.29,349.99,,WH-A1,3004
+2022-07-03,2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,118,9,,42,17.14,39.99,,WH-C1,
+03-07-2022,2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,485,43,,32,12.53,$24.99,,wh-b1,3030
+03/07/2022,2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,419,45,,20,178.09,$299.99,,WH-A2,3042
+07/03/2022,2034,Camping Tent 4-Person,SKU-2034-5579,Sports,480,38,,49,97.31,189.99,,WH-B1,
+2022-07-03,2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,22,38,,44,49.28,139.99,,wh-b1,3029
+07/03/2022,2036,Foam Roller 18-inch,SKU-2036-8868,Sports,76,11,,15,10.70,$29.99,,wh-b1,3047
+2022-07-03,2037,Jump Rope Speed,SKU-2037-3077,SPORTS,288,44,,37,8.33,$14.99,,WH-A2,3042
+03/07/2022,2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,46,22,,29,14.26,34.99,,WH-B2,
+2022/07/03,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,302,4,,18,33.92,$59.99,,wh-a1,3034
+03/07/2022,2040,Sleeping Bag -20F,SKU-2040-5501,Sports,332,22,,32,$34.30,89.99,,wh-a1,
+"July 03, 2022",2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,76,41,,35,7.53,19.99,,wh-a1,3027
+03-07-2022,2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,381,50,,22,$25.05,54.99,,wh-b1,3012
+2022/07/03,2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,145,24,,24,16.43,29.99,,WH-C1,
+07/03/2022,2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,88,11,,29,22.84,49.99,,WH-A2,3023
+03-07-2022,2045,Hair Dryer Professional,SKU-2045-9252,Beauty,119,47,,35,37.87,69.99,,WH-C1,
+07/03/2022,2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,436,2,,10,$10.09,24.99,,wh-a1,
+03/07/2022,2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,260,37,,36,7.23,16.99,,WH-B1,
+07/03/2022,2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,118,28,,23,6.66,$12.99,,wh-a1,3030
+"July 03, 2022",2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,456,43,,22,6.40,14.99,,WH-B1,3003
+2022/07/03,2050,Digital Bathroom Scale,SKU-2050-7743,Health,64,46,,6,$21.22,39.99,,wh-b1,3035
+2022/07/03,2051,Hardcover Notebook A5,SKU-2051-9972,Office,256,17,,30,$5.72,$12.99,,WH-C1,3037
+03/07/2022,2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,380,12,,30,$4.59,8.99,,wh-b1,
+"July 03, 2022",2053,Desk Organizer Bamboo,SKU-2053-5558,Office,309,31,,9,10.20,$24.99,,WH-B1,3024
+03-07-2022,2054,Stapler Heavy Duty,SKU-2054-5278,office,327,8,,11,8.54,19.99,,WH-A2,3003
+"Jul 03, 2022",2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,468,29,,17,4.06,$9.99,,WH-A1,3014
+03/07/2022,2056,Mechanical Pencil Set,SKU-2056-6371,Office,173,0,,9,6.44,14.99,,WH-C2,
+2022/07/03,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,360,28,,21,18.60,39.99,,WH-B2,3012
+"Jul 03, 2022",2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,460,25,,10,23.50,$44.99,,WH-C2,
+2022/07/03,2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,289,31,,25,$5.59,$12.99,,WH-B1,3038
+2022/07/03,2060,Whiteboard 24x36,SKU-2060-5372,Office,452,31,,11,21.56,49.99,,wh-b1,3045
+"July 03, 2022",2061,Action Figure Collector Series,SKU-2061-9248,Toys,402,2,,45,12.59,24.99,,wh-a1,3036
+"Jul 03, 2022",2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,114,37,,45,$19.29,39.99,,wh-a1,3014
+07/03/2022,2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,158,1,,46,$27.94,59.99,,WH-B1,3049
+07/03/2022,2064,Remote Control Car Racing,SKU-2064-6588,Toys,389,4,,42,21.10,$49.99,,WH-A2,3019
+03/07/2022,2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,147,15,,13,10.13,19.99,,WH-C2,3028
+2022/07/03,2066,Doll with Accessories,SKU-2066-6394,Toys,212,24,,25,14.11,29.99,,WH-A2,
+03/07/2022,2067,Card Game Family Fun,SKU-2067-7698,Toys,471,22,,30,8.07,$14.99,,WH-C2,3027
+2022/07/03,2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,331,34,,12,$10.13,19.99,,WH-C2,3035
+"Jul 03, 2022",2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,479,40,,26,41.11,89.99,,WH-C1,3034
+2022-07-03,2070,Science Kit Chemistry,SKU-2070-2054,Toys,481,31,,15,18.23,34.99,,WH-A2,3021
+2024-05-04,2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,417,12,,45,66.91,149.99,,WH-C2,3018
+05/04/2024,2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,214,0,,29,$298.38,699.99,,wh-b1,3008
+04/05/2024,2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,34,20,,25,$645.70,1249.99,,WH-A1,3041
+2024/05/04,2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,5,36,,39,12.29,34.99,,WH-A1,3006
+2024-05-04,2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,200,3,,34,$53.87,89.99,,WH-A2,3030
+"May 04, 2024",2006,4K Webcam 1080p,SKU-2006-7909,electronics,385,4,,49,33.39,79.99,,wh-a1,
+2024/05/04,2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,226,11,,6,$24.14,$59.99,,WH-C1,3005
+"May 04, 2024",2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,135,24,,43,91.70,$199.99,,WH-B1,3043
+05/04/2024,2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,490,3,,10,72.43,$129.99,,WH-C2,3024
+04/05/2024,2010,External SSD 1TB,SKU-2010-1970,Electronics,210,40,,20,47.21,$119.99,,wh-a1,3045
+2024/05/04,2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,203,16,,40,$38.92,$89.99,,WH-A1,3013
+"May 04, 2024",2012,Women's Yoga Pants,SKU-2012-5183,Clothing,106,7,,44,$18.21,49.99,,wh-b1,3040
+2024/05/04,2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,378,29,,14,13.94,34.99,,WH-B2,3020
+"May 04, 2024",2014,Women's Winter Jacket,SKU-2014-3549,Clothing,310,6,,25,47.58,129.99,,WH-A2,3008
+"May 04, 2024",2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,365,4,,46,17.29,$44.99,,WH-A1,3010
+2024-05-04,2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,10,35,,45,34.85,64.99,,wh-a1,3031
+05/04/2024,2017,Sports Backpack 30L,SKU-2017-5600,bags,421,44,,47,20.28,54.99,,WH-A2,
+"May 04, 2024",2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,197,12,,37,9.23,24.99,,WH-A2,3031
+04-05-2024,2019,Gym Gloves Workout,SKU-2019-9734,Clothing,240,31,,12,7.40,19.99,,wh-a1,3034
+2024/05/04,2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,110,25,,31,7.52,14.99,,WH-C1,
+"May 04, 2024",2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,453,36,,50,$135.30,249.99,,WH-C2,3028
+"May 04, 2024",2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,280,43,,39,37.88,$79.99,,WH-B2,3008
+2024-05-04,2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,329,34,,30,42.83,$99.99,,WH-B1,
+05/04/2024,2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,78,37,,15,38.14,$69.99,,WH-B2,3011
+2024-05-04,2025,Blender High Performance,SKU-2025-9530,Kitchen,84,22,,44,49.21,129.99,,WH-B2,3009
+04-05-2024,2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,394,10,,31,14.59,29.99,,WH-B1,3028
+"May 04, 2024",2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,210,0,,30,51.28,$129.99,,wh-a1,3019
+2024/05/04,2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,324,41,,24,$17.48,39.99,,WH-C2,3050
+04/05/2024,2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,335,48,,25,81.61,149.99,,WH-A2,
+04/05/2024,2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,316,16,,27,171.29,349.99,,WH-C2,3007
+"May 04, 2024",2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,61,49,,42,17.14,$39.99,,WH-B1,3024
+2024-05-04,2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,15,22,,32,12.53,24.99,,WH-A1,3013
+"May 04, 2024",2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,416,35,,20,$178.09,299.99,,WH-A2,3050
+"May 04, 2024",2034,Camping Tent 4-Person,SKU-2034-5579,Sports,318,15,,49,97.31,189.99,,WH-C2,3037
+"May 04, 2024",2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,173,14,,44,$49.28,139.99,,WH-A2,
+"May 04, 2024",2036,Foam Roller 18-inch,SKU-2036-8868,Sports,84,21,,15,10.70,29.99,,WH-C2,3045
+"May 04, 2024",2037,Jump Rope Speed,SKU-2037-3077,SPORTS,83,14,,37,8.33,$14.99,,wh-a1,
+"May 04, 2024",2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,460,45,,29,14.26,$34.99,,WH-C2,3036
+04-05-2024,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,351,15,,18,33.92,$59.99,,WH-C2,3032
+"May 04, 2024",2040,Sleeping Bag -20F,SKU-2040-5501,Sports,380,45,,32,34.30,89.99,,WH-C2,3003
+2024/05/04,2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,272,43,,35,7.53,19.99,,WH-A1,
+05/04/2024,2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,182,40,,22,$25.05,54.99,,WH-B1,
+05/04/2024,2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,288,18,,24,16.43,29.99,,WH-B1,3041
+"May 04, 2024",2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,95,40,,29,22.84,49.99,,WH-A1,3023
+04-05-2024,2045,Hair Dryer Professional,SKU-2045-9252,Beauty,236,7,,35,37.87,69.99,,WH-A2,3004
+04/05/2024,2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,288,24,,10,10.09,24.99,,WH-B1,3013
+2024/05/04,2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,286,34,,36,$7.23,16.99,,WH-B1,3041
+04-05-2024,2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,255,41,,23,6.66,$12.99,,wh-b1,3033
+"May 04, 2024",2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,5,32,,22,$6.40,14.99,,wh-b1,3038
+04/05/2024,2050,Digital Bathroom Scale,SKU-2050-7743,Health,236,26,,6,21.22,$39.99,,WH-B2,3048
+"May 04, 2024",2051,Hardcover Notebook A5,SKU-2051-9972,Office,288,5,,30,5.72,12.99,,WH-B1,3043
+05/04/2024,2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,85,36,,30,4.59,$8.99,,WH-A1,3033
+05/04/2024,2053,Desk Organizer Bamboo,SKU-2053-5558,Office,194,31,,9,$10.20,24.99,,WH-C2,3012
+"May 04, 2024",2054,Stapler Heavy Duty,SKU-2054-5278,office,225,6,,11,8.54,19.99,,wh-a1,3001
+2024-05-04,2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,315,15,,17,$4.06,9.99,,WH-A2,
+05/04/2024,2056,Mechanical Pencil Set,SKU-2056-6371,Office,150,31,,9,6.44,14.99,,wh-b1,3037
+05/04/2024,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,397,45,,21,$18.60,39.99,,wh-a1,3020
+05/04/2024,2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,480,39,,10,$23.50,44.99,,WH-B2,3024
+"May 04, 2024",2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,407,9,,25,5.59,12.99,,WH-C2,
+05/04/2024,2060,Whiteboard 24x36,SKU-2060-5372,Office,127,8,,11,21.56,$49.99,,WH-A2,3002
+04-05-2024,2061,Action Figure Collector Series,SKU-2061-9248,Toys,161,39,,45,$12.59,$24.99,,WH-C1,3022
+05/04/2024,2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,217,23,,45,19.29,39.99,,wh-a1,3005
+05/04/2024,2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,259,6,,46,$27.94,59.99,,WH-B2,3010
+04/05/2024,2064,Remote Control Car Racing,SKU-2064-6588,Toys,320,34,,42,21.10,49.99,,WH-A1,3027
+"May 04, 2024",2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,472,17,,13,10.13,19.99,,WH-C2,3010
+04/05/2024,2066,Doll with Accessories,SKU-2066-6394,Toys,167,25,,25,14.11,$29.99,,WH-A1,3007
+04-05-2024,2067,Card Game Family Fun,SKU-2067-7698,Toys,200,42,,30,$8.07,14.99,,WH-B1,3046
+04/05/2024,2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,3,30,,12,$10.13,19.99,,WH-A1,3029
+04/05/2024,2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,182,11,,26,$41.11,89.99,,WH-C2,
+"May 04, 2024",2070,Science Kit Chemistry,SKU-2070-2054,Toys,498,1,,15,$18.23,34.99,,WH-A1,3038
+"July 10, 2024",2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,221,12,,45,66.91,149.99,,WH-C2,
+2024/07/10,2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,72,44,,29,298.38,699.99,,WH-B2,3016
+2024/07/10,2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,439,14,,25,$645.70,"1,249.99",,WH-B1,3002
+07/10/2024,2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,326,26,,39,12.29,34.99,,WH-A2,3030
+07/10/2024,2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,333,34,,34,$53.87,89.99,,WH-A1,3027
+10-07-2024,2006,4K Webcam 1080p,SKU-2006-7909,electronics,188,34,,49,$33.39,79.99,,WH-C1,3040
+2024/07/10,2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,458,43,,6,24.14,59.99,,WH-C1,3040
+10-07-2024,2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,345,32,,43,91.70,$199.99,,wh-b1,3033
+"July 10, 2024",2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,282,13,,10,72.43,129.99,,WH-B1,3008
+10-07-2024,2010,External SSD 1TB,SKU-2010-1970,Electronics,347,10,,20,47.21,119.99,,WH-B1,
+07/10/2024,2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,499,11,,40,38.92,$89.99,,wh-a1,3013
+"Jul 10, 2024",2012,Women's Yoga Pants,SKU-2012-5183,Clothing,467,11,,44,18.21,49.99,,WH-A1,3044
+2024/07/10,2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,468,35,,14,13.94,34.99,,WH-B1,3040
+10-07-2024,2014,Women's Winter Jacket,SKU-2014-3549,Clothing,75,32,,25,$47.58,$129.99,,wh-a1,3012
+"Jul 10, 2024",2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,158,4,,46,$17.29,$44.99,,wh-a1,3038
+10-07-2024,2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,109,49,,45,34.85,$64.99,,WH-A2,3031
+"July 10, 2024",2017,Sports Backpack 30L,SKU-2017-5600,bags,219,14,,47,20.28,54.99,,WH-C1,
+10-07-2024,2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,48,21,,37,$9.23,$24.99,,WH-C1,3008
+"July 10, 2024",2019,Gym Gloves Workout,SKU-2019-9734,Clothing,282,21,,12,7.40,19.99,,wh-b1,
+2024/07/10,2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,169,30,,31,7.52,14.99,,WH-C1,
+"Jul 10, 2024",2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,54,19,,50,$135.30,249.99,,WH-A1,3046
+10-07-2024,2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,328,32,,39,$37.88,79.99,,wh-a1,3036
+2024/07/10,2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,143,43,,30,42.83,99.99,,WH-B1,3045
+07/10/2024,2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,148,26,,15,$38.14,69.99,,WH-B1,3002
+10/07/2024,2025,Blender High Performance,SKU-2025-9530,Kitchen,451,12,,44,49.21,129.99,,WH-C2,3008
+2024/07/10,2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,407,30,,31,14.59,29.99,,WH-B1,3035
+07/10/2024,2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,359,33,,30,51.28,$129.99,,wh-b1,3017
+"July 10, 2024",2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,433,5,,24,$17.48,$39.99,,WH-C2,3014
+10-07-2024,2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,387,8,,25,81.61,149.99,,WH-B1,3036
+2024-07-10,2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,52,22,,27,171.29,349.99,,wh-a1,
+10/07/2024,2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,151,28,,42,$17.14,$39.99,,WH-B1,
+"Jul 10, 2024",2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,149,27,,32,12.53,24.99,,WH-C1,
+2024/07/10,2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,403,1,,20,178.09,$299.99,,WH-B1,
+"July 10, 2024",2034,Camping Tent 4-Person,SKU-2034-5579,Sports,39,38,,49,97.31,189.99,,WH-B2,3034
+2024/07/10,2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,186,36,,44,49.28,139.99,,WH-B2,
+07/10/2024,2036,Foam Roller 18-inch,SKU-2036-8868,Sports,25,43,,15,10.70,29.99,,wh-a1,3038
+2024-07-10,2037,Jump Rope Speed,SKU-2037-3077,SPORTS,376,49,,37,8.33,14.99,,WH-C2,
+"Jul 10, 2024",2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,237,29,,29,14.26,$34.99,,WH-C2,3029
+2024/07/10,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,163,28,,18,33.92,$59.99,,WH-B2,3014
+"Jul 10, 2024",2040,Sleeping Bag -20F,SKU-2040-5501,Sports,483,26,,32,34.30,89.99,,WH-B2,3015
+2024-07-10,2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,197,43,,35,$7.53,$19.99,,WH-A2,3041
+07/10/2024,2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,56,0,,22,25.05,54.99,,WH-C1,3023
+"Jul 10, 2024",2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,294,50,,24,16.43,29.99,,WH-B1,3007
+2024/07/10,2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,408,13,,29,22.84,$49.99,,WH-C2,3042
+"July 10, 2024",2045,Hair Dryer Professional,SKU-2045-9252,Beauty,177,12,,35,37.87,$69.99,,WH-A2,3033
+07/10/2024,2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,250,17,,10,10.09,24.99,,WH-C1,3037
+10-07-2024,2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,163,29,,36,7.23,16.99,,wh-b1,3023
+"Jul 10, 2024",2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,357,5,,23,$6.66,12.99,,WH-C1,3016
+10/07/2024,2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,343,40,,22,6.40,$14.99,,wh-b1,3037
+07/10/2024,2050,Digital Bathroom Scale,SKU-2050-7743,Health,2,17,,6,21.22,39.99,,WH-A2,
+"July 10, 2024",2051,Hardcover Notebook A5,SKU-2051-9972,Office,163,37,,30,5.72,12.99,,WH-C1,3036
+"July 10, 2024",2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,476,35,,30,$4.59,$8.99,,WH-A2,3008
+10-07-2024,2053,Desk Organizer Bamboo,SKU-2053-5558,Office,222,40,,9,10.20,24.99,,WH-B2,3048
+"July 10, 2024",2054,Stapler Heavy Duty,SKU-2054-5278,office,98,47,,11,8.54,19.99,,WH-C1,3005
+2024/07/10,2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,465,12,,17,$4.06,$9.99,,WH-A2,3011
+10/07/2024,2056,Mechanical Pencil Set,SKU-2056-6371,Office,404,16,,9,6.44,$14.99,,WH-C2,3027
+10/07/2024,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,323,32,,21,18.60,39.99,,WH-B2,3034
+07/10/2024,2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,450,27,,10,$23.50,44.99,,WH-C2,3026
+07/10/2024,2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,299,23,,25,5.59,$12.99,,wh-b1,3043
+"Jul 10, 2024",2060,Whiteboard 24x36,SKU-2060-5372,Office,206,21,,11,21.56,49.99,,wh-a1,3036
+2024-07-10,2061,Action Figure Collector Series,SKU-2061-9248,Toys,462,48,,45,12.59,24.99,,WH-A1,3037
+"July 10, 2024",2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,227,41,,45,19.29,39.99,,WH-A2,3035
+10-07-2024,2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,157,12,,46,27.94,59.99,,WH-A2,
+"Jul 10, 2024",2064,Remote Control Car Racing,SKU-2064-6588,Toys,471,8,,42,$21.10,49.99,,WH-B2,3031
+"Jul 10, 2024",2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,479,41,,13,10.13,19.99,,WH-A1,3037
+"July 10, 2024",2066,Doll with Accessories,SKU-2066-6394,Toys,24,50,,25,14.11,29.99,,WH-C2,3024
+10/07/2024,2067,Card Game Family Fun,SKU-2067-7698,Toys,27,24,,30,$8.07,14.99,,WH-A2,3005
+2024-07-10,2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,376,23,,12,10.13,19.99,,WH-C1,3026
+07/10/2024,2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,333,45,,26,41.11,89.99,,WH-B1,3003
+2024/07/10,2070,Science Kit Chemistry,SKU-2070-2054,Toys,209,19,,15,18.23,34.99,,WH-B2,3017
+"October 28, 2024",2001,Wireless Bluetooth Headphones,SKU-2001-7938,Electronics,38,22,,45,$66.91,149.99,,WH-A1,
+2024/10/28,2002,Smart LED TV 55-inch,SKU-2002-4412,Electronics,491,32,,29,298.38,699.99,,wh-b1,
+10/28/2024,2003,Laptop 15.6 inch Core i7,SKU-2003-8028,Electronics,337,33,,25,645.70,1249.99,,WH-B1,3011
+10/28/2024,2004,USB-C Fast Charger 65W,SKU-2004-5125,Electronics,344,2,,39,12.29,34.99,,WH-B1,3006
+28-10-2024,2005,Mechanical Gaming Keyboard,SKU-2005-4228,Electronics,252,17,,34,53.87,89.99,,wh-a1,3013
+"Oct 28, 2024",2006,4K Webcam 1080p,SKU-2006-7909,electronics,27,11,,49,33.39,$79.99,,WH-B1,3040
+2024-10-28,2007,Portable Bluetooth Speaker,SKU-2007-6416,Electronics,341,20,,6,24.14,59.99,,wh-b1,
+2024-10-28,2008,Smartwatch Fitness Tracker,SKU-2008-6735,electronics,341,47,,43,91.70,$199.99,,wh-b1,3038
+2024-10-28,2009,Noise Cancelling Earbuds,SKU-2009-2763,electronics,492,34,,10,72.43,129.99,,WH-A2,3032
+28-10-2024,2010,External SSD 1TB,SKU-2010-1970,Electronics,439,37,,20,47.21,119.99,,WH-A2,3004
+28-10-2024,2011,Running Shoes Men Size 10,SKU-2011-2637,Footwear,392,35,,40,38.92,89.99,,wh-a1,3016
+2024/10/28,2012,Women's Yoga Pants,SKU-2012-5183,Clothing,175,42,,44,18.21,$49.99,,wh-b1,3002
+28/10/2024,2013,Men's Casual Polo Shirt,SKU-2013-3568,Clothing,64,5,,14,13.94,$34.99,,WH-A2,3009
+2024-10-28,2014,Women's Winter Jacket,SKU-2014-3549,Clothing,283,20,,25,$47.58,129.99,,WH-A2,3030
+28-10-2024,2015,Kids Soccer Cleats,SKU-2015-4219,Footwear,122,16,,46,17.29,$44.99,,wh-b1,3034
+"Oct 28, 2024",2016,Denim Jeans Slim Fit,SKU-2016-5459,Clothing,480,16,,45,$34.85,$64.99,,WH-C2,3034
+2024/10/28,2017,Sports Backpack 30L,SKU-2017-5600,bags,325,30,,47,$20.28,54.99,,WH-A2,3033
+10/28/2024,2018,Baseball Cap Adjustable,SKU-2018-2408,Clothing,10,31,,37,9.23,24.99,,WH-C1,3014
+2024/10/28,2019,Gym Gloves Workout,SKU-2019-9734,Clothing,390,3,,12,7.40,19.99,,WH-B2,3004
+28/10/2024,2020,Athletic Crew Socks 6-Pack,SKU-2020-8195,Clothing,177,3,,31,7.52,14.99,,WH-B2,3045
+28/10/2024,2021,Stainless Steel Cookware Set 10pc,SKU-2021-9597,Kitchen,229,16,,50,$135.30,$249.99,,WH-A2,3025
+2024/10/28,2022,Coffee Maker 12-Cup,SKU-2022-5885,Kitchen,179,33,,39,37.88,$79.99,,wh-a1,3025
+"October 28, 2024",2023,Air Fryer 5.8 Quart,SKU-2023-1048,  Kitchen ,144,39,,30,42.83,99.99,,WH-C2,3043
+"October 28, 2024",2024,Non-Stick Pan Set 3-Piece,SKU-2024-5329,  Kitchen ,79,9,,15,$38.14,69.99,,WH-A2,3050
+28-10-2024,2025,Blender High Performance,SKU-2025-9530,Kitchen,459,33,,44,$49.21,129.99,,wh-a1,3023
+2024-10-28,2026,Cutting Board Set Bamboo,SKU-2026-1154,kitchen,315,42,,31,14.59,29.99,,WH-B1,3005
+2024/10/28,2027,Instant Pot 8 Quart,SKU-2027-4461,Kitchen,179,25,,30,51.28,129.99,,WH-A1,3006
+10/28/2024,2028,Wine Glass Set 12-Piece,SKU-2028-2259,Kitchen,215,6,,24,17.48,39.99,,WH-C2,3007
+"October 28, 2024",2029,Knife Set 15-Piece,SKU-2029-3026,Kitchen,147,20,,25,81.61,149.99,,wh-b1,3023
+28-10-2024,2030,Stand Mixer 5 Quart,SKU-2030-4078,Kitchen,13,24,,27,$171.29,349.99,,WH-C1,
+"October 28, 2024",2031,Yoga Mat Non-Slip,SKU-2031-6532,SPORTS,473,17,,42,17.14,39.99,,WH-A2,
+28/10/2024,2032,Resistance Bands Set 5-Pack,SKU-2032-9326,Sports,253,40,,32,$12.53,24.99,,WH-C1,3050
+"October 28, 2024",2033,Adjustable Dumbbells 50lb,SKU-2033-9605,Sports,455,3,,20,$178.09,299.99,,WH-A1,3047
+2024/10/28,2034,Camping Tent 4-Person,SKU-2034-5579,Sports,185,14,,49,97.31,189.99,,wh-b1,3012
+"October 28, 2024",2035,Hiking Boots Waterproof,SKU-2035-6241,Footwear,472,25,,44,49.28,139.99,,WH-B1,3022
+2024-10-28,2036,Foam Roller 18-inch,SKU-2036-8868,Sports,482,48,,15,$10.70,29.99,,WH-B2,
+"Oct 28, 2024",2037,Jump Rope Speed,SKU-2037-3077,SPORTS,228,47,,37,8.33,14.99,,WH-C1,
+28-10-2024,2038,Water Bottle 32oz Insulated,SKU-2038-9318,Sports,188,28,,29,14.26,34.99,,WH-A1,3021
+2024/10/28,2039,Trekking Poles Adjustable,SKU-2039-1135,Sports,164,46,,18,33.92,$59.99,,WH-B1,3026
+2024-10-28,2040,Sleeping Bag -20F,SKU-2040-5501,Sports,208,8,,32,34.30,$89.99,,WH-B2,3026
+"Oct 28, 2024",2041,Vitamin C 1000mg 90 Tablets,SKU-2041-1431,health,216,39,,35,7.53,19.99,,WH-B1,3033
+"Oct 28, 2024",2042,Protein Powder Whey 5lb,SKU-2042-7028,Health,250,48,,22,25.05,$54.99,,WH-C1,3025
+2024-10-28,2043,Moisturizing Face Cream SPF30,SKU-2043-8727,Beauty,241,15,,24,16.43,29.99,,WH-C1,3021
+"Oct 28, 2024",2044,Electric Toothbrush Rechargeable,SKU-2044-5710,health,295,38,,29,22.84,49.99,,WH-C2,
+2024/10/28,2045,Hair Dryer Professional,SKU-2045-9252,Beauty,337,26,,35,$37.87,69.99,,WH-B1,3001
+2024-10-28,2046,Multivitamin Daily 120ct,SKU-2046-2719,Health,324,45,,10,10.09,24.99,,WH-B2,3012
+28/10/2024,2047,Sunscreen SPF 50 Spray,SKU-2047-1674,Health,398,28,,36,$7.23,$16.99,,WH-B2,3018
+2024-10-28,2048,Face Wash Gentle Cleanser,SKU-2048-1450,Beauty,320,10,,23,$6.66,$12.99,,WH-C1,3020
+28-10-2024,2049,Shampoo Argan Oil 16oz,SKU-2049-4407,BEAUTY,88,12,,22,6.40,14.99,,WH-B2,
+"Oct 28, 2024",2050,Digital Bathroom Scale,SKU-2050-7743,Health,303,26,,6,21.22,39.99,,wh-a1,3015
+"Oct 28, 2024",2051,Hardcover Notebook A5,SKU-2051-9972,Office,54,36,,30,$5.72,12.99,,WH-B1,
+10/28/2024,2052,Ballpoint Pens 12-Pack,SKU-2052-7281,OFFICE,370,12,,30,4.59,8.99,,WH-A1,3011
+"Oct 28, 2024",2053,Desk Organizer Bamboo,SKU-2053-5558,Office,411,12,,9,10.20,$24.99,,WH-B2,3027
+28/10/2024,2054,Stapler Heavy Duty,SKU-2054-5278,office,371,11,,11,8.54,19.99,,wh-a1,3032
+"October 28, 2024",2055,Sticky Notes 12-Pack,SKU-2055-5955,Office,96,46,,17,4.06,9.99,,wh-a1,3048
+"October 28, 2024",2056,Mechanical Pencil Set,SKU-2056-6371,Office,350,1,,9,6.44,14.99,,WH-A1,3001
+2024/10/28,2057,Wireless Mouse Ergonomic,SKU-2057-9974,Office,321,0,,21,18.60,39.99,,WH-C2,3043
+"Oct 28, 2024",2058,Desk Lamp LED Adjustable,SKU-2058-2037,Office,382,12,,10,$23.50,$44.99,,WH-B2,3036
+2024/10/28,2059,Folder Organizer 10-Pack,SKU-2059-2635,OFFICE,467,10,,25,5.59,12.99,,WH-A2,3024
+10/28/2024,2060,Whiteboard 24x36,SKU-2060-5372,Office,52,6,,11,$21.56,49.99,,WH-C1,3021
+28-10-2024,2061,Action Figure Collector Series,SKU-2061-9248,Toys,451,2,,45,12.59,$24.99,,wh-a1,3037
+2024-10-28,2062,Board Game Strategy 2-6 Players,SKU-2062-6656,toys,441,39,,45,$19.29,39.99,,wh-b1,3004
+28-10-2024,2063,LEGO Building Set 500pcs,SKU-2063-6728,Toys,232,34,,46,$27.94,$59.99,,WH-C2,
+2024-10-28,2064,Remote Control Car Racing,SKU-2064-6588,Toys,491,12,,42,21.10,49.99,,wh-b1,3020
+2024/10/28,2065,Puzzle 1000 Pieces Landscape,SKU-2065-4893,Toys,105,26,,13,10.13,$19.99,,WH-C2,3005
+28/10/2024,2066,Doll with Accessories,SKU-2066-6394,Toys,198,15,,25,14.11,29.99,,WH-A1,3020
+28-10-2024,2067,Card Game Family Fun,SKU-2067-7698,Toys,76,44,,30,8.07,14.99,,wh-a1,3011
+2024/10/28,2068,Stuffed Animal Bear 18-inch,SKU-2068-4040,Toys,327,38,,12,10.13,$19.99,,WH-A2,3003
+"October 28, 2024",2069,Telescope Beginner 70mm,SKU-2069-4584,Toys,397,16,,26,41.11,$89.99,,WH-A2,3030
+2024-10-28,2070,Science Kit Chemistry,SKU-2070-2054,Toys,156,44,,15,18.23,34.99,,wh-a1,

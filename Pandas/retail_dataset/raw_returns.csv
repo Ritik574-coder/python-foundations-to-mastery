@@ -1,0 +1,601 @@
+return_id,original_txn_id,original_order_id,customer_id,customer_name,product_id,product_name,quantity_returned,return_date,return_reason,refund_amount,refund_method,return_channel,restocked,return_status,handled_by_emp_id,notes
+6001,TXN-10005000-13378,10005000,1285,Heather Moore,2009,Noise Cancelling Earbuds,1,08/22/2020,Defective product,303.70,store credit,mobile,0,Processed,4028,Customer very unhappy
+6002,TXN-10004097-10888,10004097,1252,Laura Gray,2041,Vitamin C 1000mg 90 Tablets,9,19/10/2023,DAMAGED,$95.12,Cash,in-store,0,Rejected,4062,
+6003,TXN-10007741-20734,10007741,1531,Daniel Hill,2026,Cutting Board Set Bamboo,1,07/26/2023,Defective product,22.71,Store Credit,in-store,Yes,PROCESSED,4016,
+6004,TXN-10007003-18774,10007003,1129,Prof. Larry Rodriguez,2040,Sleeping Bag -20F,3,11-04-2021,wrong size,$156.04,Original Payment,phone,1,Rejected,4042,
+6005,TXN-10005639-15112,10005639,1260,Karen Anderson,2066,Doll with Accessories,1,11/08/2022,Changed mind,31.28,Cash,Catalog,0,Rejected,4090,Exchange offered
+6006,TXN-10001281-3418,10001281,1593,Mr. Thomas Peterson,2031,Yoga Mat Non-Slip,2,2024/10/27,Better price found,47.32,Cash,Web,1,Rejected,4070,
+6007,TXN-10002964-7898,10002964,1054,Shirley Murphy,2006,4K Webcam 1080p,1,"Nov 14, 2024",Damaged in shipping,32.04,store credit,In-Store,N,processed,4022,Item arrived broken
+6008,TXN-10007461-20003,10007461,1151,Dr. William Williams,2069,Telescope Beginner 70mm,1,2022-06-06,,600.79,store credit,Mobile App,1,Pending,4060,Item arrived broken
+6009,TXN-10007077-18992,10007077,1456,Dr. Aaron Rivera,2033,Adjustable Dumbbells 50lb,3,29-02-2024,Not as described,707.83,Cash,Phone,1,Rejected,4080,Accepted without receipt
+6010,TXN-10000235-611,10000235,1191,Ms. Diane Jackson,2024,Non-Stick Pan Set 3-Piece,1,"Sep 30, 2024",Not as described,51.71,Store Credit,IN STORE,No,PROCESSED,4069,Exchange offered
+6011,TXN-10007792-20847,10007792,1065,Dorothy Jackson,2042,Protein Powder Whey 5lb,1,2024/12/08,Wrong item,95.60,Store Credit,online,Y,Rejected,4056,
+6012,TXN-10003197-8480,10003197,1416,Prof. Raymond Watson,2040,Sleeping Bag -20F,1,"Sep 01, 2024",changed mind,$56.73,original payment,online,0,pending,4029,Exchange offered
+6013,TXN-10007495-20094,10007495,1061,Mrs. Patricia Morris,2057,Wireless Mouse Ergonomic,2,"Jan 12, 2022",Better price found,$41.11,Original Payment,In-Store,No,Rejected,4002,
+6014,TXN-10002475-6586,10002475,1387,Dr. Cynthia Jimenez,2025,Blender High Performance,8,2022/02/10,Defective,755.70,Cash,ONLINE,No,Pending,4060,
+6015,TXN-10003552-9423,10003552,1286,Jonathan Wilson,2055,Sticky Notes 12-Pack,1,02-01-2023,wrong size,21.36,Store Credit,Online,0,pending,4073,
+6016,TXN-10005954-15997,10005954,9209,Lisa Martin,2051,Hardcover Notebook A5,2,05/07/2021,Changed mind,$11.87,store credit,catalog,1,pending,4060,
+6017,TXN-10004151-11032,10004151,1390,Jeffrey Gonzalez,2048,Face Wash Gentle Cleanser,1,05/10/2020,,$9.79,Store Credit,Web,1,processed,4001,
+6018,TXN-10002924-7798,10002924,1382,Ashley Castillo,2035,Hiking Boots Waterproof,2,2021-01-02,wrong size,410.49,Store Credit,Mobile,Yes,pending,4014,Exchange offered
+6019,TXN-10006972-18687,10006972,1251,Donna Richardson,2064,Remote Control Car Racing,4,05/12/2024,Defective product,115.93,store credit,in-store,1,Pending,4044,Customer very unhappy
+6020,TXN-10004884-13062,10004884,1236,Robert Ross,2033,Adjustable Dumbbells 50lb,3,28/07/2020,changed mind,496.66,store credit,In-Store,0,Rejected,4017,
+6021,TXN-10003165-8417,10003165,1274,Aaron Adams,2015,Kids Soccer Cleats,1,29/04/2024,Better price found,21.07,store credit,PHONE,0,Rejected,4028,Exchange offered
+6022,TXN-10004346-11579,10004346,9896,Mary Ruiz,2043,Moisturizing Face Cream SPF30,1,"October 29, 2022",Wrong item,19.66,original payment,Store,1,Rejected,4036,
+6023,TXN-10000044-106,10000044,9741,Brenda Johnson,2048,Face Wash Gentle Cleanser,1,"July 19, 2021",DAMAGED,16.38,original payment,catalog,N,Processed,4005,
+6024,TXN-10003405-9009,10003405,1407,Alexander Mitchell,2031,Yoga Mat Non-Slip,1,"Sep 17, 2022",Not as described,24.89,store credit,Store,Yes,pending,4015,
+6025,TXN-10004179-11117,10004179,9288,Lisa Peterson,2055,Sticky Notes 12-Pack,3,19/11/2021,wrong size,23.26,store credit,online,Y,processed,4006,
+6026,TXN-10000921-2487,10000921,1065,Dorothy Jackson,2037,Jump Rope Speed,2,2022-12-31,Wrong item,28.84,store credit,Online,No,PROCESSED,4032,
+6027,TXN-10006664-17900,10006664,1005,Debra Wood,2042,Protein Powder Whey 5lb,1,"Nov 28, 2020",,22.49,Store Credit,Catalog,N,Processed,4058,Exchange offered
+6028,TXN-10002432-6483,10002432,1595,Amy Castillo,2040,Sleeping Bag -20F,1,"Jan 18, 2023",changed mind,239.05,Store Credit,PHONE,Y,pending,4095,
+6029,TXN-10005337-14319,10005337,1077,Daniel Price,2021,Stainless Steel Cookware Set 10pc,2,08/24/2023,Better price found,167.57,Original Payment,PHONE,No,Rejected,4079,Item arrived broken
+6030,TXN-10002591-6885,10002591,1597,Nicole Thompson,2024,Non-Stick Pan Set 3-Piece,1,03-04-2024,DAMAGED,$47.03,original payment,In-Store,Yes,processed,4095,
+6031,TXN-10002441-6507,10002441,9879,Deborah King,2009,Noise Cancelling Earbuds,2,2020-10-10,wrong size,295.95,Original Payment,catalog,Yes,PROCESSED,4039,Partial refund issued
+6032,TXN-10007059-18932,10007059,1412,Dr. Sarah Jones,2025,Blender High Performance,1,11/09/2023,wrong size,$82.10,Cash,APP,Y,Rejected,4067,Item arrived broken
+6033,TXN-10003028-8059,10003028,1318,Dr. Richard Murphy,2008,Smartwatch Fitness Tracker,1,2022/07/05,Changed mind,86.06,store credit,in-store,No,pending,4038,
+6034,TXN-10004084-10861,10004084,1313,Daniel Gomez,2003,Laptop 15.6 inch Core i7,1,04/23/2020,changed mind,$745.26,store credit,catalog,Yes,processed,4082,
+6035,TXN-10006711-18020,10006711,1401,Thomas Walker,2069,Telescope Beginner 70mm,1,04/16/2024,DAMAGED,27.82,Cash,mobile,No,PROCESSED,4070,return processed ok
+6036,TXN-10006258-16796,10006258,9100,Deborah Mendoza,2003,Laptop 15.6 inch Core i7,1,2022/03/20,Damaged in shipping,652.39,store credit,Catalog,No,Rejected,4010,Accepted without receipt
+6037,TXN-10003452-9139,10003452,1143,Jennifer Roberts,2044,Electric Toothbrush Rechargeable,3,01/04/2022,Not as described,$93.71,Original Payment,Online,No,Pending,4001,Accepted without receipt
+6038,TXN-10006896-18500,10006896,1542,Mrs. Sharon Gomez,2044,Electric Toothbrush Rechargeable,1,"Apr 29, 2021",wrong size,52.68,Store Credit,APP,Y,pending,4098,Exchange offered
+6039,TXN-10004555-12152,10004555,1371,Patrick Taylor,2016,Denim Jeans Slim Fit,1,2024-06-15,changed mind,37.00,Original Payment,Mobile,1,Processed,4018,
+6040,TXN-10003555-9437,10003555,1306,Ms. Mark Allen,2034,Camping Tent 4-Person,2,12/12/2022,Not as described,189.24,original payment,catalog,Y,Rejected,4008,Item arrived broken
+6041,TXN-10007844-21002,10007844,1099,Nicholas Nelson,2039,Trekking Poles Adjustable,1,"August 29, 2024",,219.77,Original Payment,mobile,0,Pending,4089,
+6042,TXN-10003229-8559,10003229,9922,Ms. Donna Jackson,2064,Remote Control Car Racing,1,"Aug 26, 2021",Defective product,15.66,Store Credit,In-Store,1,PROCESSED,4064,
+6043,TXN-10007767-20796,10007767,1245,Sarah Mitchell,2004,USB-C Fast Charger 65W,5,12/04/2023,,122.02,Cash,ONLINE,Yes,Processed,4048,
+6044,TXN-10006558-17607,10006558,1047,Christine Allen,2045,Hair Dryer Professional,2,07/11/2023,wrong size,$95.63,Store Credit,Online,Y,pending,4084,Exchange offered
+6045,TXN-10005380-14438,10005380,1224,Ms. Eric Williams,2066,Doll with Accessories,2,"Mar 11, 2020",wrong size,30.83,Store Credit,Online,1,Processed,4095,Accepted without receipt
+6046,TXN-10006969-18675,10006969,1337,Mr. Mark Morris,2013,Men's Casual Polo Shirt,1,2023/04/20,Damaged in shipping,$18.62,Original Payment,APP,0,processed,4062,
+6047,TXN-10001600-4252,10001600,1013,Mrs. Kevin Cooper,2033,Adjustable Dumbbells 50lb,2,2021/03/22,Defective product,441.90,store credit,Web,Yes,Processed,4014,return processed ok
+6048,TXN-10006561-17615,10006561,1083,Kathleen Cook,2065,Puzzle 1000 Pieces Landscape,1,"February 29, 2024",Not as described,$20.82,Cash,Web,Y,pending,4087,
+6049,TXN-10004032-10736,10004032,1265,Mr. Donna Richardson,2048,Face Wash Gentle Cleanser,1,"Mar 20, 2021",Defective product,10.71,original payment,Mobile,Yes,Pending,4067,
+6050,TXN-10000785-2135,10000785,1066,Richard Watson,2008,Smartwatch Fitness Tracker,1,2020/05/31,Defective product,86.63,Store Credit,Store,N,pending,4018,Exchange offered
+6051,TXN-10001061-2842,10001061,1199,Debra Rodriguez,2003,Laptop 15.6 inch Core i7,1,17/08/2021,Defective product,999.85,Original Payment,Web,No,Processed,4091,
+6052,TXN-10004744-12686,10004744,9100,Deborah Mendoza,2028,Wine Glass Set 12-Piece,1,"November 02, 2021",Better price found,$361.36,original payment,IN STORE,Yes,processed,4055,return processed ok
+6053,TXN-10006711-18021,10006711,1401,Thomas Walker,2002,Smart LED TV 55-inch,1,10/03/2023,Damaged in shipping,"1,738.76",Store Credit,online,N,Pending,4089,
+6054,TXN-10003100-8258,10003100,1066,Richard Watson,2045,Hair Dryer Professional,1,2022-05-29,Defective product,93.58,Store Credit,Catalog,0,Pending,4009,
+6055,TXN-10001030-2758,10001030,1344,Heather Lopez,2025,Blender High Performance,2,12/25/2020,,179.98,Store Credit,phone,Yes,Pending,4005,Partial refund issued
+6056,TXN-10004677-12503,10004677,1034,Ryan Cruz,2046,Multivitamin Daily 120ct,1,"Dec 13, 2022",Better price found,$15.65,store credit,Catalog,Y,Pending,4063,Exchange offered
+6057,TXN-10000413-1114,10000413,1518,Prof. Cynthia Diaz,2006,4K Webcam 1080p,1,2020/03/22,Defective product,$35.52,Cash,Store,1,Pending,4099,
+6058,TXN-10007065-18950,10007065,1229,Mrs. Julie Morris,2045,Hair Dryer Professional,6,2022/05/20,Better price found,$314.96,Original Payment,APP,No,processed,4094,Customer very unhappy
+6059,TXN-10002939-7840,10002939,1176,Gregory Turner,2054,Stapler Heavy Duty,1,18-07-2021,DAMAGED,$10.97,original payment,Online,0,pending,4087,
+6060,TXN-10005869-15738,10005869,1087,Prof. William Garcia,2022,Coffee Maker 12-Cup,1,01/27/2022,Defective product,36.99,original payment,in-store,Y,Pending,4057,
+6061,TXN-10002051-5422,10002051,1426,Katherine Perez,2036,Foam Roller 18-inch,2,09-05-2021,DAMAGED,152.53,Store Credit,Store,Y,processed,4009,Accepted without receipt
+6062,TXN-10001610-4278,10001610,1527,Ms. Julie Morris,2016,Denim Jeans Slim Fit,3,28-07-2022,Damaged in shipping,193.56,store credit,ONLINE,0,Pending,4008,
+6063,TXN-10004289-11436,10004289,1558,Mr. Patricia Cruz,2053,Desk Organizer Bamboo,1,29-09-2022,Not as described,23.89,Store Credit,Mobile,No,Rejected,4051,
+6064,TXN-10006570-17635,10006570,1567,Donald Moore,2007,Portable Bluetooth Speaker,1,"Dec 01, 2022",,28.39,Store Credit,IN STORE,N,Pending,4075,
+6065,TXN-10002896-7722,10002896,1519,Mrs. Jeffrey Cox,2030,Stand Mixer 5 Quart,3,10/11/2021,Not as described,994.10,original payment,APP,Y,Rejected,4084,
+6066,TXN-10004737-12665,10004737,1152,Betty Clark,2006,4K Webcam 1080p,1,04-01-2023,changed mind,48.90,Cash,Mobile App,1,Rejected,4053,Item arrived broken
+6067,TXN-10000538-1436,10000538,1485,Ms. Debra Flores,2027,Instant Pot 8 Quart,1,08/24/2021,DAMAGED,43.98,Store Credit,Mobile,0,Rejected,4036,
+6068,TXN-10002738-7310,10002738,1360,Prof. Justin Nelson,2063,LEGO Building Set 500pcs,1,"January 15, 2024",Wrong item,$88.79,store credit,online,1,PROCESSED,4018,Partial refund issued
+6069,TXN-10004098-10891,10004098,1163,Justin Ortiz,2015,Kids Soccer Cleats,1,05-08-2022,Defective,$26.24,Original Payment,In-Store,Y,PROCESSED,4016,Partial refund issued
+6070,TXN-10003136-8349,10003136,9922,Ms. Donna Jackson,2023,Air Fryer 5.8 Quart,1,07/14/2022,Defective product,45.40,Cash,ONLINE,N,Pending,4043,
+6071,TXN-10001179-3149,10001179,1363,Jose Allen,2050,Digital Bathroom Scale,1,01/07/2020,Better price found,22.68,Store Credit,APP,Y,processed,4069,
+6072,TXN-10006237-16723,10006237,1080,Mrs. Carolyn Bennett,2006,4K Webcam 1080p,2,2022/07/16,,$140.46,store credit,catalog,No,pending,4064,Partial refund issued
+6073,TXN-10001506-4021,10001506,1430,Mrs. Nancy Jackson,2054,Stapler Heavy Duty,2,01/18/2020,Not as described,34.62,Cash,Phone,1,Rejected,4010,Exchange offered
+6074,TXN-10002526-6711,10002526,1436,Joyce Wilson,2065,Puzzle 1000 Pieces Landscape,1,06-10-2022,,$7.72,store credit,Mobile App,1,Processed,4055,
+6075,TXN-10000089-226,10000089,1055,Mr. Barbara Bennett,2005,Mechanical Gaming Keyboard,1,08-11-2020,Not as described,83.73,Original Payment,Mobile,Yes,Pending,4075,return processed ok
+6076,TXN-10000702-1908,10000702,1164,Ms. Andrew Chavez,2015,Kids Soccer Cleats,1,"Nov 11, 2020",Better price found,43.42,original payment,In-Store,No,Rejected,4019,
+6077,TXN-10004319-11520,10004319,1304,Prof. Gary Williams,2066,Doll with Accessories,4,04/25/2021,Defective,37.62,store credit,catalog,Y,pending,4073,
+6078,TXN-10005406-14508,10005406,9100,Deborah Mendoza,2053,Desk Organizer Bamboo,1,08/03/2022,Defective,$19.17,Store Credit,online,N,PROCESSED,4081,
+6079,TXN-10003603-9578,10003603,1164,Ms. Andrew Chavez,2031,Yoga Mat Non-Slip,1,01/01/2024,Better price found,24.02,original payment,ONLINE,0,processed,4027,return processed ok
+6080,TXN-10005242-14054,10005242,1571,Benjamin Long,2053,Desk Organizer Bamboo,1,"Jan 04, 2024",Defective,12.69,original payment,mobile,0,processed,4053,
+6081,TXN-10003599-9557,10003599,1459,Prof. Jeffrey Castillo,2017,Sports Backpack 30L,1,"May 04, 2020",Defective product,30.88,Original Payment,ONLINE,Yes,processed,4094,Accepted without receipt
+6082,TXN-10000956-2578,10000956,1047,Christine Allen,2050,Digital Bathroom Scale,1,2020-09-17,Not as described,$32.39,Store Credit,IN STORE,No,pending,4030,Item arrived broken
+6083,TXN-10004081-10854,10004081,1160,William Murphy,2055,Sticky Notes 12-Pack,2,22/12/2020,DAMAGED,8.94,store credit,Store,Yes,Processed,4017,
+6084,TXN-10000503-1356,10000503,1239,Mr. Dennis Gomez,2063,LEGO Building Set 500pcs,1,"March 31, 2022",Defective,37.07,original payment,phone,1,Processed,4080,Item arrived broken
+6085,TXN-10001579-4196,10001579,1142,Cynthia Williams,2009,Noise Cancelling Earbuds,2,22-01-2024,DAMAGED,158.89,store credit,in-store,No,Pending,4072,
+6086,TXN-10001163-3106,10001163,1384,Ms. Mary Johnson,2046,Multivitamin Daily 120ct,1,07/03/2021,Damaged in shipping,35.58,Store Credit,Mobile,Yes,Processed,4060,
+6087,TXN-10006142-16459,10006142,1408,Dr. Gary Hernandez,2064,Remote Control Car Racing,1,02/02/2021,Better price found,45.08,store credit,IN STORE,Y,Rejected,4039,return processed ok
+6088,TXN-10004421-11801,10004421,1413,Mrs. Rebecca Thompson,2052,Ballpoint Pens 12-Pack,1,"Nov 02, 2024",Defective product,2.47,store credit,phone,No,Pending,4048,
+6089,TXN-10003947-10497,10003947,1433,Barbara Reed,2051,Hardcover Notebook A5,1,03/31/2022,Not as described,$6.28,Store Credit,APP,No,Pending,4097,Accepted without receipt
+6090,TXN-10004107-10914,10004107,1335,Ronald Diaz,2033,Adjustable Dumbbells 50lb,2,31-12-2024,Not as described,$735.17,Store Credit,Mobile,Y,Rejected,4008,Exchange offered
+6091,TXN-10003211-8516,10003211,1309,Heather Young,2004,USB-C Fast Charger 65W,1,"Jun 10, 2020",DAMAGED,32.47,Store Credit,ONLINE,No,Processed,4048,Customer very unhappy
+6092,TXN-10007174-19236,10007174,1156,Andrew Mitchell,2031,Yoga Mat Non-Slip,1,"Mar 09, 2023",wrong size,39.38,store credit,in-store,0,processed,4050,
+6093,TXN-10003893-10348,10003893,1109,Mr. Kevin Ruiz,2006,4K Webcam 1080p,1,2024-12-23,Defective product,27.98,Store Credit,In-Store,N,Processed,4035,Exchange offered
+6094,TXN-10007414-19875,10007414,1260,Karen Anderson,2008,Smartwatch Fitness Tracker,5,2022/03/14,wrong size,457.86,store credit,mobile,Yes,PROCESSED,4063,Customer very unhappy
+6095,TXN-10007379-19765,10007379,9463,Gary James,2004,USB-C Fast Charger 65W,2,08/21/2022,Better price found,41.93,original payment,Mobile App,1,pending,4036,
+6096,TXN-10000555-1490,10000555,1371,Patrick Taylor,2060,Whiteboard 24x36,1,"Sep 06, 2020",changed mind,$30.32,store credit,Store,1,Processed,4092,
+6097,TXN-10004234-11271,10004234,1454,Anna Evans,2065,Puzzle 1000 Pieces Landscape,1,"Jul 01, 2020",changed mind,14.95,Original Payment,Mobile App,Yes,processed,4020,
+6098,TXN-10006120-16409,10006120,1503,David Peterson,2038,Water Bottle 32oz Insulated,1,07/04/2024,,31.87,Original Payment,Online,0,processed,4094,Partial refund issued
+6099,TXN-10007482-20050,10007482,1246,Nicholas Scott,2070,Science Kit Chemistry,1,"Jun 18, 2022",Defective product,$132.67,original payment,ONLINE,1,PROCESSED,4058,
+6100,TXN-10001208-3228,10001208,1332,Aaron Green,2050,Digital Bathroom Scale,3,04-06-2024,Damaged in shipping,91.78,store credit,IN STORE,No,processed,4097,
+6101,TXN-10002815-7515,10002815,1157,Mrs. Jeffrey Ruiz,2050,Digital Bathroom Scale,2,25-07-2020,Better price found,27.47,Store Credit,online,N,Pending,4003,Accepted without receipt
+6102,TXN-10005570-14936,10005570,1459,Prof. Jeffrey Castillo,2023,Air Fryer 5.8 Quart,2,"September 19, 2023",Better price found,$106.57,Original Payment,phone,Yes,processed,4030,
+6103,TXN-10002727-7274,10002727,1245,Sarah Mitchell,2034,Camping Tent 4-Person,1,01/15/2022,wrong size,$133.34,Store Credit,catalog,0,processed,4056,
+6104,TXN-10000063-156,10000063,1081,Mrs. Catherine Rodriguez,2017,Sports Backpack 30L,4,2020/01/29,Not as described,$130.21,Cash,in-store,N,PROCESSED,4049,
+6105,TXN-10004765-12749,10004765,1421,Benjamin Garcia,2058,Desk Lamp LED Adjustable,1,2021-03-29,DAMAGED,$36.98,Store Credit,APP,Y,PROCESSED,4024,
+6106,TXN-10003647-9671,10003647,1586,Rachel Scott,2045,Hair Dryer Professional,3,05-10-2023,Damaged in shipping,$168.13,store credit,phone,Yes,pending,4026,
+6107,TXN-10005322-14286,10005322,1035,Dr. Nicholas Harris,2038,Water Bottle 32oz Insulated,1,"November 01, 2024",changed mind,$16.27,original payment,Online,1,PROCESSED,4048,Accepted without receipt
+6108,TXN-10001720-4570,10001720,1381,Dr. Dorothy Gutierrez,2062,Board Game Strategy 2-6 Players,1,23/01/2024,Defective product,$20.25,original payment,phone,N,PROCESSED,4016,Accepted without receipt
+6109,TXN-10002016-5350,10002016,1054,Shirley Murphy,2067,Card Game Family Fun,1,"December 13, 2021",,$6.85,Cash,phone,Yes,PROCESSED,4029,Exchange offered
+6110,TXN-10007763-20785,10007763,9323,Julie Lewis,2058,Desk Lamp LED Adjustable,1,09/09/2021,Defective,33.11,original payment,Phone,No,Pending,4003,Customer very unhappy
+6111,TXN-10004392-11728,10004392,1262,Ms. Anthony Carter,2010,External SSD 1TB,2,08/29/2020,,148.51,store credit,in-store,Yes,processed,4082,
+6112,TXN-10007991-21399,10007991,1459,Prof. Jeffrey Castillo,2016,Denim Jeans Slim Fit,1,2023/07/02,Better price found,141.25,Original Payment,mobile,1,PROCESSED,4020,Item arrived broken
+6113,TXN-10000257-683,10000257,1167,Larry Patel,2067,Card Game Family Fun,2,09/21/2022,Better price found,$129.82,Original Payment,Web,0,PROCESSED,4047,
+6114,TXN-10003527-9351,10003527,1030,Frank Gray,2021,Stainless Steel Cookware Set 10pc,1,2020-11-11,Changed mind,$149.03,original payment,Catalog,No,PROCESSED,4014,Partial refund issued
+6115,TXN-10001781-4711,10001781,1279,Timothy Reyes,2046,Multivitamin Daily 120ct,2,04/09/2020,,$30.16,Cash,Store,Yes,Processed,4014,
+6116,TXN-10004056-10785,10004056,1387,Dr. Cynthia Jimenez,2009,Noise Cancelling Earbuds,1,16-02-2023,Changed mind,239.58,original payment,catalog,0,PROCESSED,4081,
+6117,TXN-10000409-1098,10000409,1278,Dr. James Robinson,2052,Ballpoint Pens 12-Pack,1,"September 29, 2023",,12.33,Cash,Web,N,processed,4027,
+6118,TXN-10001841-4864,10001841,1252,Laura Gray,2050,Digital Bathroom Scale,3,2024-08-08,changed mind,92.32,Original Payment,Phone,Y,processed,4087,Item arrived broken
+6119,TXN-10001546-4115,10001546,1399,Emma Perez,2025,Blender High Performance,1,26-07-2022,Defective,47.55,original payment,online,Y,processed,4075,return processed ok
+6120,TXN-10000596-1603,10000596,1146,Heather Cooper,2003,Laptop 15.6 inch Core i7,5,2023/02/20,Wrong item,4502.61,original payment,Store,N,PROCESSED,4008,
+6121,TXN-10007913-21172,10007913,1589,Brandon James,2044,Electric Toothbrush Rechargeable,1,25-06-2020,Damaged in shipping,21.48,original payment,IN STORE,Yes,Pending,4051,
+6122,TXN-10002058-5440,10002058,1114,Prof. Jessica Torres,2053,Desk Organizer Bamboo,1,23/09/2023,Changed mind,10.58,store credit,Catalog,0,PROCESSED,4028,Exchange offered
+6123,TXN-10001496-3998,10001496,1070,Diane Wright,2046,Multivitamin Daily 120ct,2,2020/06/06,Changed mind,42.86,Cash,Mobile,Yes,processed,4051,
+6124,TXN-10007730-20712,10007730,1060,Julie Evans,2002,Smart LED TV 55-inch,2,2021-09-28,Not as described,529.21,Store Credit,Web,N,processed,4037,
+6125,TXN-10004694-12548,10004694,9100,Deborah Mendoza,2056,Mechanical Pencil Set,3,28-09-2024,DAMAGED,36.34,Store Credit,ONLINE,Y,Rejected,4050,Exchange offered
+6126,TXN-10007799-20875,10007799,1552,Tyler Collins,2004,USB-C Fast Charger 65W,2,2021/08/31,changed mind,47.69,Original Payment,online,Y,Pending,4059,Item arrived broken
+6127,TXN-10006151-16485,10006151,1380,Mr. Deborah James,2038,Water Bottle 32oz Insulated,1,2024-07-18,Defective product,17.32,store credit,ONLINE,0,processed,4048,Exchange offered
+6128,TXN-10000237-623,10000237,1285,Heather Moore,2056,Mechanical Pencil Set,1,2022-02-16,Not as described,$8.85,Original Payment,Phone,Yes,PROCESSED,4052,Exchange offered
+6129,TXN-10005593-14992,10005593,1338,Carol King,2037,Jump Rope Speed,1,05/03/2024,Defective product,9.73,Store Credit,Online,Y,Processed,4003,
+6130,TXN-10005177-13874,10005177,1473,Dr. Ashley Parker,2042,Protein Powder Whey 5lb,1,19/06/2022,wrong size,27.37,Store Credit,IN STORE,N,Rejected,4095,
+6131,TXN-10006974-18694,10006974,1176,Gregory Turner,2058,Desk Lamp LED Adjustable,1,2024-11-07,changed mind,$20.45,Original Payment,APP,1,Pending,4051,Customer very unhappy
+6132,TXN-10002110-5587,10002110,1533,Kathleen Taylor,2061,Action Figure Collector Series,1,27-06-2023,wrong size,23.71,original payment,catalog,1,processed,4084,Exchange offered
+6133,TXN-10006093-16335,10006093,1049,Prof. Cynthia Long,2048,Face Wash Gentle Cleanser,1,"February 15, 2021",DAMAGED,$4.43,store credit,Catalog,0,Rejected,4074,Exchange offered
+6134,TXN-10007894-21116,10007894,1413,Mrs. Rebecca Thompson,2011,Running Shoes Men Size 10,1,25/12/2024,wrong size,127.91,store credit,in-store,Y,Processed,4087,
+6135,TXN-10001686-4463,10001686,1040,Ms. Barbara Kelly,2033,Adjustable Dumbbells 50lb,1,2021/10/19,Not as described,$136.50,original payment,ONLINE,0,pending,4047,return processed ok
+6136,TXN-10003069-8172,10003069,1040,Ms. Barbara Kelly,2043,Moisturizing Face Cream SPF30,2,2021-10-18,Changed mind,26.32,original payment,Online,0,Processed,4019,Accepted without receipt
+6137,TXN-10005586-14977,10005586,1506,Jonathan Jackson,2013,Men's Casual Polo Shirt,3,19-09-2024,,69.09,original payment,Web,N,processed,4026,Item arrived broken
+6138,TXN-10007433-19926,10007433,1399,Emma Perez,2009,Noise Cancelling Earbuds,2,26/01/2021,Changed mind,72.98,Store Credit,Online,N,PROCESSED,4015,Exchange offered
+6139,TXN-10000309-819,10000309,1313,Daniel Gomez,2034,Camping Tent 4-Person,1,"October 04, 2020",Wrong item,55.70,Original Payment,Store,Yes,pending,4077,Customer very unhappy
+6140,TXN-10007609-20393,10007609,1301,Mr. Shirley Mitchell,2040,Sleeping Bag -20F,1,"Jul 19, 2022",Defective,79.85,Original Payment,In-Store,Y,Pending,4077,
+6141,TXN-10000202-527,10000202,1120,Richard Kim,2066,Doll with Accessories,1,04/12/2021,Changed mind,$24.15,Cash,in-store,1,processed,4008,
+6142,TXN-10007543-20225,10007543,1588,Mrs. Donna Lopez,2069,Telescope Beginner 70mm,1,"Jan 19, 2022",Wrong item,93.73,original payment,Online,No,Pending,4007,
+6143,TXN-10000207-544,10000207,1570,Ryan Walker,2001,Wireless Bluetooth Headphones,1,2020-07-09,DAMAGED,129.74,Original Payment,phone,1,pending,4050,
+6144,TXN-10000672-1830,10000672,1222,Mr. Charles Diaz,2017,Sports Backpack 30L,3,"Mar 13, 2022",Better price found,70.05,Cash,Mobile App,N,pending,4096,
+6145,TXN-10006753-18120,10006753,1312,Anthony Bailey,2062,Board Game Strategy 2-6 Players,2,2021-12-23,Wrong item,21.54,store credit,In-Store,No,Rejected,4070,Accepted without receipt
+6146,TXN-10007636-20471,10007636,1541,Prof. Rebecca Hughes,2047,Sunscreen SPF 50 Spray,8,2020/04/04,changed mind,79.26,Cash,In-Store,Yes,Processed,4033,Accepted without receipt
+6147,TXN-10007498-20102,10007498,1505,Julie Rivera,2001,Wireless Bluetooth Headphones,1,2022/02/28,Not as described,168.24,original payment,Phone,Yes,Rejected,4043,Customer very unhappy
+6148,TXN-10007051-18905,10007051,1595,Amy Castillo,2028,Wine Glass Set 12-Piece,2,2023-07-29,Not as described,35.16,Cash,Mobile,1,PROCESSED,4100,Item arrived broken
+6149,TXN-10002723-7264,10002723,1068,Prof. Jack Cox,2063,LEGO Building Set 500pcs,1,2020-03-05,Wrong item,25.50,Cash,Online,N,pending,4079,Customer very unhappy
+6150,TXN-10003025-8048,10003025,1546,Prof. Joyce Nguyen,2070,Science Kit Chemistry,1,2022-07-03,wrong size,59.06,store credit,Online,1,Rejected,4021,
+6151,TXN-10005410-14519,10005410,1325,Brenda Wood,2013,Men's Casual Polo Shirt,1,06-11-2023,Defective,$38.94,Cash,Catalog,No,pending,4056,
+6152,TXN-10007101-19057,10007101,1418,Jeffrey Garcia,2004,USB-C Fast Charger 65W,1,2024-07-20,wrong size,152.32,Cash,in-store,Y,Processed,4053,
+6153,TXN-10006987-18731,10006987,1502,Mary Rivera,2020,Athletic Crew Socks 6-Pack,1,02-06-2024,Damaged in shipping,6.04,Cash,IN STORE,No,Pending,4008,Accepted without receipt
+6154,TXN-10007385-19793,10007385,1239,Mr. Dennis Gomez,2038,Water Bottle 32oz Insulated,2,08/16/2024,wrong size,34.49,Store Credit,Mobile App,Yes,Rejected,4089,
+6155,TXN-10002736-7304,10002736,1183,Edward Baker,2020,Athletic Crew Socks 6-Pack,3,2023-02-07,wrong size,13.90,Store Credit,Web,1,Pending,4094,
+6156,TXN-10006264-16813,10006264,1416,Prof. Raymond Watson,2055,Sticky Notes 12-Pack,1,2024-10-27,Defective product,$4.00,Original Payment,in-store,No,pending,4003,
+6157,TXN-10004339-11563,10004339,1132,Richard Gutierrez,2050,Digital Bathroom Scale,1,"Jan 31, 2023",DAMAGED,33.00,original payment,phone,No,Pending,4010,
+6158,TXN-10000551-1480,10000551,1162,Jacob James,2032,Resistance Bands Set 5-Pack,1,"July 24, 2024",Defective product,20.69,Cash,In-Store,No,pending,4077,
+6159,TXN-10001982-5245,10001982,1573,Mrs. Daniel Sanders,2018,Baseball Cap Adjustable,1,04/22/2023,Defective,14.57,Store Credit,in-store,Yes,PROCESSED,4015,
+6160,TXN-10006666-17902,10006666,1402,Ms. Brian Brown,2043,Moisturizing Face Cream SPF30,1,"May 15, 2023",Changed mind,41.50,original payment,IN STORE,Yes,PROCESSED,4057,
+6161,TXN-10001605-4270,10001605,1514,Prof. Patricia Johnson,2055,Sticky Notes 12-Pack,7,10/11/2024,Defective product,36.62,Store Credit,IN STORE,Yes,Processed,4024,
+6162,TXN-10006995-18748,10006995,1144,Christine Williams,2032,Resistance Bands Set 5-Pack,3,"October 14, 2024",Better price found,74.11,Store Credit,Store,N,PROCESSED,4027,Customer very unhappy
+6163,TXN-10006702-17999,10006702,1212,George Long,2058,Desk Lamp LED Adjustable,1,"Sep 25, 2022",Not as described,32.13,Original Payment,Phone,N,Pending,4033,
+6164,TXN-10000125-324,10000125,1444,Cynthia Adams,2019,Gym Gloves Workout,1,2021/07/11,wrong size,$9.29,Cash,Mobile,1,Pending,4052,Partial refund issued
+6165,TXN-10007248-19440,10007248,1513,John Roberts,2016,Denim Jeans Slim Fit,1,"Jun 02, 2021",Defective,30.06,Original Payment,Phone,1,Processed,4038,
+6166,TXN-10001050-2812,10001050,1260,Karen Anderson,2037,Jump Rope Speed,1,"September 23, 2024",Wrong item,21.07,original payment,Mobile App,1,PROCESSED,4028,
+6167,TXN-10002444-6514,10002444,9952,Jose Richardson,2017,Sports Backpack 30L,1,2022/06/30,Changed mind,44.07,Store Credit,Phone,1,Rejected,4079,
+6168,TXN-10004210-11201,10004210,1571,Benjamin Long,2053,Desk Organizer Bamboo,1,04/19/2022,Defective,$25.95,Store Credit,Mobile App,1,pending,4077,
+6169,TXN-10007061-18941,10007061,1195,David Nguyen,2005,Mechanical Gaming Keyboard,1,10/05/2022,wrong size,75.10,Store Credit,Phone,1,pending,4030,
+6170,TXN-10002845-7588,10002845,1422,Frank Moore,2036,Foam Roller 18-inch,1,01/18/2022,Damaged in shipping,20.37,Cash,Mobile,Y,Rejected,4091,Item arrived broken
+6171,TXN-10007719-20678,10007719,1282,Donna King,2051,Hardcover Notebook A5,1,04/11/2022,wrong size,6.63,Original Payment,phone,No,Processed,4046,Partial refund issued
+6172,TXN-10000765-2073,10000765,1338,Carol King,2031,Yoga Mat Non-Slip,2,2023-02-03,Wrong item,27.08,original payment,online,Yes,Rejected,4019,
+6173,TXN-10007162-19199,10007162,1562,Mrs. Charles Turner,2002,Smart LED TV 55-inch,4,"April 22, 2022",Not as described,"1,657.63",original payment,In-Store,0,pending,4015,Accepted without receipt
+6174,TXN-10004464-11918,10004464,1453,Raymond Foster,2039,Trekking Poles Adjustable,1,"Nov 13, 2020",,26.23,store credit,Online,No,processed,4072,Accepted without receipt
+6175,TXN-10006078-16294,10006078,1468,Dr. Jerry Green,2057,Wireless Mouse Ergonomic,2,17/04/2021,Damaged in shipping,71.53,original payment,PHONE,Yes,pending,4071,Customer very unhappy
+6176,TXN-10000993-2677,10000993,1233,Prof. Nicole Jones,2019,Gym Gloves Workout,1,08/26/2024,wrong size,$6.32,store credit,phone,No,PROCESSED,4062,
+6177,TXN-10000199-516,10000199,1461,Ms. Ashley Thomas,2052,Ballpoint Pens 12-Pack,1,05/12/2021,,$6.74,Store Credit,PHONE,N,PROCESSED,4065,
+6178,TXN-10002902-7740,10002902,1007,Ms. Shirley Hernandez,2056,Mechanical Pencil Set,2,"November 30, 2021",DAMAGED,20.04,Store Credit,phone,N,Rejected,4021,
+6179,TXN-10007340-19668,10007340,1326,Mr. David Williams,2005,Mechanical Gaming Keyboard,2,09/04/2021,Wrong item,60.30,Cash,mobile,No,Rejected,4078,Exchange offered
+6180,TXN-10007983-21380,10007983,1537,Mrs. Brandon Thompson,2046,Multivitamin Daily 120ct,1,"October 02, 2021",Damaged in shipping,9.69,store credit,Mobile,N,PROCESSED,4099,Accepted without receipt
+6181,TXN-10004273-11384,10004273,1421,Benjamin Garcia,2066,Doll with Accessories,2,18-04-2020,DAMAGED,$27.00,Original Payment,in-store,Y,Rejected,4076,Accepted without receipt
+6182,TXN-10002287-6073,10002287,1341,Deborah Collins,2050,Digital Bathroom Scale,1,"June 03, 2023",Damaged in shipping,12.10,original payment,online,Yes,PROCESSED,4025,Partial refund issued
+6183,TXN-10006765-18151,10006765,1539,Mrs. Nicole Mendoza,2013,Men's Casual Polo Shirt,2,"Dec 16, 2020",wrong size,112.49,Cash,APP,0,Pending,4042,Accepted without receipt
+6184,TXN-10007195-19288,10007195,9321,Mr. Susan Richardson,2007,Portable Bluetooth Speaker,1,2021-05-04,,33.80,original payment,Online,0,processed,4094,Customer very unhappy
+6185,TXN-10005064-13555,10005064,1031,Mrs. Jerry Rogers,2061,Action Figure Collector Series,6,2022/11/14,changed mind,$178.39,Cash,Phone,N,pending,4098,Accepted without receipt
+6186,TXN-10004988-13346,10004988,1039,Jose Hernandez,2040,Sleeping Bag -20F,2,"December 03, 2024",Better price found,70.07,Original Payment,catalog,1,Pending,4041,Exchange offered
+6187,TXN-10007552-20246,10007552,1396,Ms. Robert Lee,2050,Digital Bathroom Scale,2,"Nov 09, 2022",,$46.40,original payment,APP,0,Rejected,4008,Accepted without receipt
+6188,TXN-10006045-16199,10006045,1274,Aaron Adams,2003,Laptop 15.6 inch Core i7,1,"December 04, 2020",Defective product,"$1,187.87",Store Credit,Online,N,pending,4011,return processed ok
+6189,TXN-10003431-9084,10003431,1463,Prof. Edward Hall,2063,LEGO Building Set 500pcs,1,2022/01/15,Defective,$20.71,Original Payment,In-Store,Y,Pending,4098,Partial refund issued
+6190,TXN-10003997-10639,10003997,1208,Donald Campbell,2028,Wine Glass Set 12-Piece,1,"July 31, 2022",Not as described,$116.92,original payment,Phone,0,Pending,4046,
+6191,TXN-10002086-5524,10002086,1308,Justin Ortiz,2017,Sports Backpack 30L,2,01/06/2023,Defective,$49.35,Original Payment,Phone,N,pending,4082,Partial refund issued
+6192,TXN-10005422-14545,10005422,1540,Christopher James,2058,Desk Lamp LED Adjustable,2,17-10-2022,changed mind,58.72,store credit,Store,N,Processed,4041,
+6193,TXN-10006541-17566,10006541,1588,Mrs. Donna Lopez,2010,External SSD 1TB,2,2022-11-29,Wrong item,$143.42,store credit,mobile,No,Pending,4072,Partial refund issued
+6194,TXN-10005344-14339,10005344,1550,Charles Williams,2061,Action Figure Collector Series,1,"October 12, 2020",wrong size,12.61,Original Payment,catalog,No,pending,4086,
+6195,TXN-10000437-1179,10000437,1553,Andrew Ross,2051,Hardcover Notebook A5,1,2023-05-12,Better price found,$7.59,Store Credit,Mobile App,N,Rejected,4017,Exchange offered
+6196,TXN-10002045-5408,10002045,1129,Prof. Larry Rodriguez,2013,Men's Casual Polo Shirt,1,"Jan 19, 2020",,21.05,Cash,Mobile App,Yes,Pending,4098,
+6197,TXN-10004792-12810,10004792,1384,Ms. Mary Johnson,2011,Running Shoes Men Size 10,1,2024-03-04,Better price found,$57.64,store credit,Mobile,Y,PROCESSED,4068,
+6198,TXN-10001451-3893,10001451,1202,Katherine Ross,2028,Wine Glass Set 12-Piece,1,2020/09/17,,22.32,store credit,APP,No,pending,4029,
+6199,TXN-10006451-17322,10006451,1459,Prof. Jeffrey Castillo,2014,Women's Winter Jacket,1,"Feb 20, 2024",wrong size,$170.40,Original Payment,Mobile App,No,Pending,4028,Accepted without receipt
+6200,TXN-10003303-8754,10003303,9741,Brenda Johnson,2029,Knife Set 15-Piece,5,2022/02/27,Damaged in shipping,407.88,Store Credit,Phone,Yes,processed,4081,
+6201,TXN-10007083-19013,10007083,1096,Donna Ramirez,2024,Non-Stick Pan Set 3-Piece,2,28-12-2020,DAMAGED,75.29,Cash,Catalog,No,pending,4026,
+6202,TXN-10007119-19103,10007119,9922,Ms. Donna Jackson,2040,Sleeping Bag -20F,1,"Oct 11, 2022",wrong size,117.37,original payment,mobile,Y,Processed,4098,
+6203,TXN-10004834-12934,10004834,1279,Timothy Reyes,2035,Hiking Boots Waterproof,1,22-08-2020,wrong size,$72.75,Original Payment,In-Store,No,pending,4095,
+6204,TXN-10002446-6518,10002446,1013,Mrs. Kevin Cooper,2009,Noise Cancelling Earbuds,1,04-06-2024,Defective,117.50,store credit,phone,Yes,Pending,4070,Accepted without receipt
+6205,TXN-10001709-4536,10001709,1532,James Kim,2023,Air Fryer 5.8 Quart,1,09/05/2024,changed mind,156.33,Store Credit,Mobile,1,processed,4030,
+6206,TXN-10003314-8784,10003314,1582,Paul Stewart,2011,Running Shoes Men Size 10,1,2023/05/21,,$110.66,Store Credit,In-Store,0,Pending,4072,
+6207,TXN-10004947-13236,10004947,1243,Benjamin Rodriguez,2043,Moisturizing Face Cream SPF30,1,"June 10, 2021",DAMAGED,13.32,Store Credit,Web,No,processed,4035,
+6208,TXN-10004099-10894,10004099,1182,Prof. Sarah Mitchell,2046,Multivitamin Daily 120ct,3,"Feb 16, 2021",changed mind,56.75,original payment,APP,Y,processed,4002,
+6209,TXN-10003567-9471,10003567,1314,Dr. Larry Reed,2050,Digital Bathroom Scale,1,"April 22, 2021",Wrong item,$16.83,Store Credit,ONLINE,1,processed,4032,return processed ok
+6210,TXN-10004439-11854,10004439,1368,Mrs. Pamela Foster,2033,Adjustable Dumbbells 50lb,1,"August 09, 2022",DAMAGED,$137.09,Cash,APP,No,pending,4022,Customer very unhappy
+6211,TXN-10005104-13665,10005104,1577,Dr. Jerry Walker,2028,Wine Glass Set 12-Piece,2,15-12-2022,Defective product,89.30,Original Payment,ONLINE,1,Processed,4043,Item arrived broken
+6212,TXN-10006075-16280,10006075,1401,Thomas Walker,2018,Baseball Cap Adjustable,5,2020/05/31,Defective,$100.07,Original Payment,Catalog,No,pending,4075,Customer very unhappy
+6213,TXN-10005243-14058,10005243,1170,Prof. Thomas Murphy,2013,Men's Casual Polo Shirt,5,13-07-2024,DAMAGED,$95.82,original payment,Online,Y,Pending,4088,Customer very unhappy
+6214,TXN-10003213-8520,10003213,9100,Deborah Mendoza,2048,Face Wash Gentle Cleanser,1,2021/05/18,wrong size,$7.50,store credit,PHONE,No,Processed,4061,
+6215,TXN-10001900-5032,10001900,1101,Mr. Amy Rivera,2047,Sunscreen SPF 50 Spray,1,"June 21, 2022",Defective product,$5.78,original payment,phone,0,PROCESSED,4044,
+6216,TXN-10007472-20030,10007472,1039,Jose Hernandez,2045,Hair Dryer Professional,1,2022/01/23,Defective,26.66,Cash,Mobile,No,Pending,4001,Partial refund issued
+6217,TXN-10006863-18407,10006863,9896,Mary Ruiz,2068,Stuffed Animal Bear 18-inch,1,"October 31, 2023",Not as described,14.33,Original Payment,APP,1,Pending,4064,Partial refund issued
+6218,TXN-10001721-4572,10001721,1396,Ms. Robert Lee,2046,Multivitamin Daily 120ct,1,02/24/2024,Defective,8.67,original payment,in-store,1,pending,4087,Item arrived broken
+6219,TXN-10002427-6468,10002427,1308,Justin Ortiz,2002,Smart LED TV 55-inch,1,"Jan 15, 2023",Wrong item,$866.16,Original Payment,IN STORE,N,pending,4041,
+6220,TXN-10004909-13136,10004909,1433,Barbara Reed,2068,Stuffed Animal Bear 18-inch,1,2020/01/27,changed mind,9.99,Store Credit,PHONE,1,Pending,4065,return processed ok
+6221,TXN-10002228-5906,10002228,1483,Jennifer Gomez,2027,Instant Pot 8 Quart,1,"Nov 09, 2020",Wrong item,146.79,Original Payment,in-store,Yes,pending,4028,return processed ok
+6222,TXN-10004171-11089,10004171,1267,Mrs. Gary Myers,2018,Baseball Cap Adjustable,2,05/24/2020,Defective,$94.36,Store Credit,in-store,N,pending,4051,Item arrived broken
+6223,TXN-10004802-12846,10004802,1195,David Nguyen,2029,Knife Set 15-Piece,2,"Mar 01, 2024",Wrong item,185.70,original payment,online,Y,pending,4020,return processed ok
+6224,TXN-10004703-12575,10004703,1111,Mrs. Rebecca Martinez,2048,Face Wash Gentle Cleanser,1,"Mar 19, 2024",,11.74,store credit,Online,No,pending,4100,
+6225,TXN-10004707-12589,10004707,1384,Ms. Mary Johnson,2023,Air Fryer 5.8 Quart,2,10-12-2021,Better price found,111.07,Store Credit,catalog,No,Pending,4090,
+6226,TXN-10000004-12,10000004,1228,Ms. Joseph Morales,2005,Mechanical Gaming Keyboard,1,12/09/2021,Defective product,41.73,original payment,mobile,1,processed,4032,Customer very unhappy
+6227,TXN-10007016-18810,10007016,1509,Mrs. Gregory Lopez,2016,Denim Jeans Slim Fit,1,2022-10-27,Defective product,49.02,Original Payment,IN STORE,N,processed,4059,
+6228,TXN-10003898-10362,10003898,1464,Prof. Jonathan Howard,2051,Hardcover Notebook A5,1,04-11-2020,Better price found,9.30,store credit,in-store,No,pending,4043,Partial refund issued
+6229,TXN-10005860-15712,10005860,1254,Eric Cruz,2001,Wireless Bluetooth Headphones,1,15-06-2023,,$70.23,Store Credit,phone,1,Processed,4016,
+6230,TXN-10001056-2829,10001056,1296,Daniel Garcia,2029,Knife Set 15-Piece,1,"Jan 27, 2022",DAMAGED,73.70,store credit,mobile,Yes,pending,4068,Exchange offered
+6231,TXN-10006764-18146,10006764,1137,Carolyn Cox,2064,Remote Control Car Racing,1,12/26/2020,Defective,40.30,Original Payment,Catalog,No,PROCESSED,4080,Item arrived broken
+6232,TXN-10007710-20654,10007710,9748,Joyce Brown,2050,Digital Bathroom Scale,1,2023/01/08,Defective,32.15,Cash,mobile,0,processed,4090,
+6233,TXN-10000053-131,10000053,1541,Prof. Rebecca Hughes,2026,Cutting Board Set Bamboo,1,"Jan 30, 2021",Defective product,17.31,original payment,in-store,1,processed,4094,Item arrived broken
+6234,TXN-10003083-8213,10003083,1463,Prof. Edward Hall,2024,Non-Stick Pan Set 3-Piece,2,15-06-2024,Wrong item,73.59,store credit,online,1,Pending,4088,
+6235,TXN-10002728-7280,10002728,1453,Raymond Foster,2003,Laptop 15.6 inch Core i7,3,10/02/2022,Changed mind,1270.01,Store Credit,Catalog,Y,processed,4052,Item arrived broken
+6236,TXN-10002896-7720,10002896,1519,Mrs. Jeffrey Cox,2064,Remote Control Car Racing,1,20/09/2020,,31.57,store credit,Store,No,Pending,4086,Accepted without receipt
+6237,TXN-10007777-20820,10007777,1341,Deborah Collins,2028,Wine Glass Set 12-Piece,3,2021/03/31,Defective,$90.35,Cash,In-Store,N,pending,4043,Exchange offered
+6238,TXN-10006903-18522,10006903,1343,Mrs. Brenda Brooks,2024,Non-Stick Pan Set 3-Piece,2,26-07-2022,Wrong item,93.21,Cash,Store,N,processed,4004,Customer very unhappy
+6239,TXN-10002502-6641,10002502,1567,Donald Moore,2009,Noise Cancelling Earbuds,3,"Sep 14, 2020",Defective,$282.51,original payment,online,No,Pending,4075,
+6240,TXN-10002538-6740,10002538,1187,Mary Thomas,2021,Stainless Steel Cookware Set 10pc,1,02/04/2021,Not as described,145.98,Store Credit,mobile,Y,Rejected,4009,
+6241,TXN-10001141-3047,10001141,1361,Susan Hughes,2062,Board Game Strategy 2-6 Players,1,"September 08, 2020",Changed mind,16.73,Cash,Web,1,processed,4068,
+6242,TXN-10006736-18076,10006736,1133,George Peterson,2045,Hair Dryer Professional,1,12/11/2024,DAMAGED,85.49,Store Credit,catalog,N,Pending,4061,Accepted without receipt
+6243,TXN-10007645-20495,10007645,1024,Prof. Jose Reyes,2011,Running Shoes Men Size 10,4,"Sep 10, 2020",Better price found,$141.78,Cash,Mobile App,Y,PROCESSED,4005,
+6244,TXN-10005539-14841,10005539,1343,Mrs. Brenda Brooks,2033,Adjustable Dumbbells 50lb,3,03-08-2024,Not as described,$499.20,original payment,PHONE,Y,Rejected,4088,Accepted without receipt
+6245,TXN-10000852-2320,10000852,1107,Mrs. Donna Baker,2034,Camping Tent 4-Person,1,18/07/2024,wrong size,127.32,Store Credit,PHONE,1,pending,4058,
+6246,TXN-10003743-9944,10003743,9321,Mr. Susan Richardson,2062,Board Game Strategy 2-6 Players,1,2023/04/05,Not as described,$14.52,Cash,Mobile,No,Pending,4036,return processed ok
+6247,TXN-10004242-11295,10004242,1406,Betty Edwards,2001,Wireless Bluetooth Headphones,1,07/11/2022,Changed mind,107.42,Cash,online,No,Pending,4095,Exchange offered
+6248,TXN-10003864-10275,10003864,1423,Prof. Joyce Moore,2036,Foam Roller 18-inch,1,"Dec 26, 2024",Defective,13.66,Store Credit,mobile,No,pending,4064,
+6249,TXN-10007375-19755,10007375,1330,Margaret Price,2014,Women's Winter Jacket,1,12-08-2020,Damaged in shipping,149.20,Cash,Mobile,Y,Pending,4019,
+6250,TXN-10007994-21411,10007994,1590,Ms. Donna Jackson,2007,Portable Bluetooth Speaker,2,18-03-2024,Damaged in shipping,$72.95,Original Payment,mobile,Yes,pending,4008,Partial refund issued
+6251,TXN-10005929-15911,10005929,1184,Mrs. Steven Lopez,2016,Denim Jeans Slim Fit,1,"November 18, 2024",Defective,$410.65,Store Credit,Mobile,N,processed,4035,Exchange offered
+6252,TXN-10000438-1181,10000438,1246,Nicholas Scott,2019,Gym Gloves Workout,1,"Aug 29, 2021",changed mind,9.18,store credit,Web,Y,Rejected,4007,Exchange offered
+6253,TXN-10002847-7595,10002847,1100,Benjamin Martinez,2055,Sticky Notes 12-Pack,2,"June 26, 2023",Defective product,16.98,Store Credit,Mobile,Yes,Pending,4005,Item arrived broken
+6254,TXN-10007609-20396,10007609,1301,Mr. Shirley Mitchell,2002,Smart LED TV 55-inch,1,"June 14, 2021",,1350.68,Cash,IN STORE,1,Pending,4056,
+6255,TXN-10000138-368,10000138,1422,Frank Moore,2035,Hiking Boots Waterproof,3,02/01/2021,changed mind,205.72,original payment,Web,1,processed,4083,
+6256,TXN-10005153-13796,10005153,1273,Christopher Morgan,2001,Wireless Bluetooth Headphones,1,2022-01-11,Defective product,673.69,original payment,online,No,Pending,4091,return processed ok
+6257,TXN-10006259-16800,10006259,1194,Prof. Angela Stewart,2001,Wireless Bluetooth Headphones,1,"October 28, 2022",wrong size,108.15,Cash,ONLINE,0,pending,4033,
+6258,TXN-10004657-12453,10004657,1123,Prof. Jessica Williams,2004,USB-C Fast Charger 65W,1,"Dec 04, 2023",DAMAGED,$21.52,Original Payment,online,Yes,Pending,4001,Customer very unhappy
+6259,TXN-10004277-11400,10004277,1024,Prof. Jose Reyes,2005,Mechanical Gaming Keyboard,1,20-10-2021,,40.44,Store Credit,Phone,No,pending,4060,Exchange offered
+6260,TXN-10001387-3724,10001387,1593,Mr. Thomas Peterson,2042,Protein Powder Whey 5lb,2,14-03-2021,wrong size,$124.26,store credit,ONLINE,1,pending,4070,Partial refund issued
+6261,TXN-10001216-3251,10001216,1427,Gregory Gray,2060,Whiteboard 24x36,1,"Sep 04, 2023",Not as described,24.49,store credit,Mobile App,0,PROCESSED,4099,
+6262,TXN-10006349-17046,10006349,1326,Mr. David Williams,2059,Folder Organizer 10-Pack,1,"Jan 23, 2020",Defective product,7.78,Store Credit,PHONE,N,PROCESSED,4089,
+6263,TXN-10001733-4601,10001733,1384,Ms. Mary Johnson,2044,Electric Toothbrush Rechargeable,2,"Oct 23, 2020",Changed mind,46.64,Store Credit,catalog,N,Pending,4023,
+6264,TXN-10004599-12284,10004599,1103,Brandon Jackson,2058,Desk Lamp LED Adjustable,1,01/02/2023,,29.78,original payment,Mobile App,0,PROCESSED,4004,
+6265,TXN-10007339-19661,10007339,1039,Jose Hernandez,2033,Adjustable Dumbbells 50lb,1,18/03/2022,Damaged in shipping,216.27,Original Payment,in-store,0,pending,4071,
+6266,TXN-10000918-2476,10000918,1524,Jacob Flores,2019,Gym Gloves Workout,1,15-01-2023,Changed mind,8.00,store credit,In-Store,No,Rejected,4092,Accepted without receipt
+6267,TXN-10007662-20545,10007662,1453,Raymond Foster,2022,Coffee Maker 12-Cup,2,2020-02-05,Better price found,105.74,Cash,Mobile App,1,pending,4050,Item arrived broken
+6268,TXN-10001346-3595,10001346,1350,Mrs. Steven Cox,2017,Sports Backpack 30L,1,14-10-2021,Wrong item,22.59,Cash,online,1,PROCESSED,4028,
+6269,TXN-10007805-20893,10007805,1121,Prof. Larry Phillips,2048,Face Wash Gentle Cleanser,1,2023-04-28,Damaged in shipping,5.01,Store Credit,online,No,pending,4083,
+6270,TXN-10007953-21294,10007953,9590,Aaron Bennett,2069,Telescope Beginner 70mm,2,2020/07/24,Not as described,$105.64,store credit,PHONE,No,PROCESSED,4089,
+6271,TXN-10002314-6147,10002314,1368,Mrs. Pamela Foster,2014,Women's Winter Jacket,1,05/04/2021,wrong size,180.56,original payment,IN STORE,N,processed,4071,Exchange offered
+6272,TXN-10006778-18190,10006778,1589,Brandon James,2047,Sunscreen SPF 50 Spray,1,"Jan 25, 2024",Defective product,54.88,Original Payment,Store,Y,Processed,4035,
+6273,TXN-10007192-19278,10007192,1105,Prof. Pamela Morris,2010,External SSD 1TB,3,2020-02-25,Defective product,$227.90,Cash,Store,No,Rejected,4077,Item arrived broken
+6274,TXN-10007618-20425,10007618,1568,Carol Murphy,2040,Sleeping Bag -20F,1,26-12-2021,Defective product,51.81,Cash,mobile,0,Pending,4046,Exchange offered
+6275,TXN-10003318-8795,10003318,1097,Dennis Jimenez,2044,Electric Toothbrush Rechargeable,1,"Aug 22, 2023",Changed mind,76.90,Original Payment,Mobile App,Y,PROCESSED,4033,
+6276,TXN-10003538-9390,10003538,1041,Timothy Peterson,2029,Knife Set 15-Piece,1,08/04/2024,,40.30,store credit,in-store,Yes,PROCESSED,4066,Accepted without receipt
+6277,TXN-10004038-10748,10004038,1508,Scott Davis,2029,Knife Set 15-Piece,1,2021-04-21,Changed mind,146.85,Store Credit,Mobile,No,PROCESSED,4006,
+6278,TXN-10006501-17454,10006501,1163,Justin Ortiz,2011,Running Shoes Men Size 10,1,2022/03/28,Defective product,34.18,original payment,PHONE,1,processed,4037,
+6279,TXN-10001260-3369,10001260,1380,Mr. Deborah James,2056,Mechanical Pencil Set,1,05/25/2020,changed mind,$7.67,original payment,Catalog,Yes,PROCESSED,4079,Exchange offered
+6280,TXN-10002280-6054,10002280,1521,Ms. Heather Murphy,2052,Ballpoint Pens 12-Pack,1,"Oct 29, 2024",Damaged in shipping,22.91,original payment,mobile,No,Pending,4026,
+6281,TXN-10006313-16942,10006313,1564,Scott Johnson,2070,Science Kit Chemistry,4,"Mar 28, 2021",Not as described,$99.59,store credit,in-store,Yes,Pending,4088,Item arrived broken
+6282,TXN-10003070-8177,10003070,1188,Dr. Catherine Scott,2052,Ballpoint Pens 12-Pack,1,19-12-2020,Wrong item,$4.38,store credit,Mobile App,Y,Pending,4064,Accepted without receipt
+6283,TXN-10005792-15547,10005792,1066,Richard Watson,2051,Hardcover Notebook A5,2,"Oct 27, 2023",wrong size,16.91,store credit,PHONE,N,PROCESSED,4033,return processed ok
+6284,TXN-10000458-1232,10000458,1055,Mr. Barbara Bennett,2028,Wine Glass Set 12-Piece,1,09/20/2023,Not as described,34.31,Cash,phone,Yes,pending,4094,Exchange offered
+6285,TXN-10001892-5013,10001892,1568,Carol Murphy,2031,Yoga Mat Non-Slip,1,"August 04, 2021",Damaged in shipping,$37.19,original payment,Web,1,processed,4045,Exchange offered
+6286,TXN-10001925-5098,10001925,1497,Prof. Donna Johnson,2032,Resistance Bands Set 5-Pack,1,03/03/2024,Wrong item,14.81,original payment,Mobile,No,Processed,4061,Customer very unhappy
+6287,TXN-10003781-10042,10003781,1528,Dr. Nancy Lee,2015,Kids Soccer Cleats,5,26-04-2022,,135.90,store credit,Mobile,1,PROCESSED,4043,
+6288,TXN-10005622-15065,10005622,1209,Gary James,2069,Telescope Beginner 70mm,1,2023/07/05,Damaged in shipping,150.61,Cash,in-store,N,processed,4014,Partial refund issued
+6289,TXN-10006531-17543,10006531,9693,Patrick Mendoza,2040,Sleeping Bag -20F,1,12/01/2022,Defective product,49.62,Original Payment,catalog,Yes,processed,4089,Accepted without receipt
+6290,TXN-10002769-7398,10002769,1417,Mr. Deborah Cruz,2015,Kids Soccer Cleats,1,2024-01-13,Wrong item,$19.78,Store Credit,PHONE,No,processed,4014,
+6291,TXN-10006030-16160,10006030,1460,Stephen Reed,2066,Doll with Accessories,2,04-07-2024,,45.40,Original Payment,Online,Yes,processed,4092,
+6292,TXN-10000708-1923,10000708,1130,Mr. Sharon Evans,2048,Face Wash Gentle Cleanser,2,10/12/2021,DAMAGED,21.67,original payment,Mobile App,0,Processed,4038,Customer very unhappy
+6293,TXN-10005875-15754,10005875,1077,Daniel Price,2016,Denim Jeans Slim Fit,4,"September 30, 2022",Damaged in shipping,$181.99,Cash,Store,Y,Processed,4094,Accepted without receipt
+6294,TXN-10003529-9359,10003529,1351,Mary Anderson,2045,Hair Dryer Professional,1,"September 29, 2023",Defective product,$27.84,Store Credit,ONLINE,Y,Processed,4078,return processed ok
+6295,TXN-10001611-4283,10001611,1597,Nicole Thompson,2055,Sticky Notes 12-Pack,1,"November 26, 2023",Changed mind,$15.55,Cash,ONLINE,Y,Processed,4052,Partial refund issued
+6296,TXN-10000354-938,10000354,1178,Lisa Chavez,2070,Science Kit Chemistry,4,"January 29, 2022",changed mind,125.62,Store Credit,Store,No,processed,4100,Accepted without receipt
+6297,TXN-10000662-1797,10000662,1271,Patrick King,2019,Gym Gloves Workout,1,12/22/2021,changed mind,$20.03,store credit,mobile,Yes,Rejected,4069,Exchange offered
+6298,TXN-10005663-15191,10005663,1307,Tyler Rogers,2015,Kids Soccer Cleats,1,10-02-2021,Defective product,31.08,Cash,PHONE,Yes,PROCESSED,4011,
+6299,TXN-10007982-21379,10007982,1163,Justin Ortiz,2024,Non-Stick Pan Set 3-Piece,2,"April 11, 2023",Defective,141.92,Original Payment,PHONE,No,processed,4060,
+6300,TXN-10002822-7528,10002822,1443,Benjamin White,2035,Hiking Boots Waterproof,4,03/08/2020,Defective product,229.96,original payment,catalog,No,PROCESSED,4065,Accepted without receipt
+6301,TXN-10005950-15987,10005950,1396,Ms. Robert Lee,2014,Women's Winter Jacket,1,2021-05-06,wrong size,$51.38,original payment,ONLINE,Y,Pending,4071,Accepted without receipt
+6302,TXN-10001065-2855,10001065,1521,Ms. Heather Murphy,2059,Folder Organizer 10-Pack,1,2021/03/05,DAMAGED,11.17,Cash,catalog,Yes,processed,4086,return processed ok
+6303,TXN-10002342-6221,10002342,1091,Dr. Michael Cook,2010,External SSD 1TB,1,29-07-2020,Better price found,73.35,Store Credit,IN STORE,1,Pending,4056,Item arrived broken
+6304,TXN-10001363-3654,10001363,1335,Ronald Diaz,2019,Gym Gloves Workout,2,11/05/2023,Wrong item,19.97,Original Payment,phone,N,Rejected,4055,return processed ok
+6305,TXN-10004959-13265,10004959,1534,Dr. Nicole Rogers,2022,Coffee Maker 12-Cup,1,"Nov 26, 2023",,$37.55,original payment,Catalog,1,pending,4045,
+6306,TXN-10007868-21048,10007868,1343,Mrs. Brenda Brooks,2069,Telescope Beginner 70mm,1,11/12/2023,Wrong item,34.71,Original Payment,in-store,N,Processed,4099,Partial refund issued
+6307,TXN-10004963-13282,10004963,1596,Mr. Justin Carter,2057,Wireless Mouse Ergonomic,1,01/30/2020,DAMAGED,20.01,Store Credit,ONLINE,No,PROCESSED,4062,
+6308,TXN-10002279-6052,10002279,1380,Mr. Deborah James,2025,Blender High Performance,5,"January 14, 2022",Damaged in shipping,541.57,original payment,Online,No,PROCESSED,4067,
+6309,TXN-10001941-5140,10001941,1270,Brian Scott,2004,USB-C Fast Charger 65W,1,"Dec 19, 2021",changed mind,23.54,Cash,ONLINE,Y,Pending,4002,Partial refund issued
+6310,TXN-10007290-19549,10007290,1227,Ms. David Wright,2053,Desk Organizer Bamboo,3,2023-12-31,Not as described,33.34,original payment,APP,Yes,pending,4095,Customer very unhappy
+6311,TXN-10007394-19819,10007394,1107,Mrs. Donna Baker,2058,Desk Lamp LED Adjustable,5,2020/04/08,Damaged in shipping,367.22,Original Payment,mobile,1,PROCESSED,4009,
+6312,TXN-10002585-6863,10002585,1584,Jeffrey Morris,2046,Multivitamin Daily 120ct,1,26-02-2023,Better price found,9.64,store credit,mobile,Y,Processed,4034,
+6313,TXN-10007050-18899,10007050,1521,Ms. Heather Murphy,2029,Knife Set 15-Piece,1,2022-01-04,DAMAGED,$58.77,Original Payment,In-Store,Y,PROCESSED,4055,Customer very unhappy
+6314,TXN-10006197-16609,10006197,1519,Mrs. Jeffrey Cox,2039,Trekking Poles Adjustable,2,11-03-2020,Defective,$122.41,Store Credit,online,0,PROCESSED,4027,
+6315,TXN-10007530-20187,10007530,1432,Mrs. Brenda Adams,2032,Resistance Bands Set 5-Pack,2,30/08/2024,Changed mind,42.81,Store Credit,phone,Y,Pending,4067,
+6316,TXN-10004474-11950,10004474,1166,Raymond Miller,2025,Blender High Performance,1,22-04-2020,Wrong item,79.65,Store Credit,Phone,Yes,processed,4049,return processed ok
+6317,TXN-10003599-9563,10003599,1459,Prof. Jeffrey Castillo,2065,Puzzle 1000 Pieces Landscape,1,05/15/2022,DAMAGED,41.46,Store Credit,ONLINE,1,pending,4045,Exchange offered
+6318,TXN-10006255-16785,10006255,1275,Charles Phillips,2065,Puzzle 1000 Pieces Landscape,1,02/09/2020,DAMAGED,5.24,Original Payment,Online,N,processed,4045,Exchange offered
+6319,TXN-10006322-16967,10006322,1498,Mr. Brian Reed,2025,Blender High Performance,1,08/09/2021,changed mind,$66.50,store credit,catalog,No,pending,4086,Exchange offered
+6320,TXN-10002907-7758,10002907,1243,Benjamin Rodriguez,2031,Yoga Mat Non-Slip,1,23/10/2021,Wrong item,55.66,Store Credit,Store,Yes,Pending,4056,Item arrived broken
+6321,TXN-10001816-4815,10001816,1571,Benjamin Long,2028,Wine Glass Set 12-Piece,5,2021-04-20,wrong size,$78.06,store credit,catalog,N,processed,4036,
+6322,TXN-10006648-17861,10006648,1040,Ms. Barbara Kelly,2032,Resistance Bands Set 5-Pack,1,20/07/2023,Better price found,15.91,original payment,phone,N,PROCESSED,4053,return processed ok
+6323,TXN-10007239-19414,10007239,1332,Aaron Green,2067,Card Game Family Fun,2,12-06-2023,Better price found,14.91,store credit,ONLINE,1,Pending,4042,Accepted without receipt
+6324,TXN-10007776-20819,10007776,1377,Helen Ramirez,2028,Wine Glass Set 12-Piece,1,"May 11, 2023",Defective,$12.20,store credit,Online,1,processed,4048,Partial refund issued
+6325,TXN-10003965-10557,10003965,1357,Donna Rivera,2038,Water Bottle 32oz Insulated,4,30/10/2022,changed mind,88.10,Cash,Mobile,N,processed,4099,
+6326,TXN-10000788-2142,10000788,1318,Dr. Richard Murphy,2037,Jump Rope Speed,6,18/10/2020,Defective,$54.77,Store Credit,In-Store,Y,Rejected,4091,
+6327,TXN-10003176-8440,10003176,1337,Mr. Mark Morris,2060,Whiteboard 24x36,1,24-11-2021,Damaged in shipping,81.00,Cash,ONLINE,N,processed,4025,
+6328,TXN-10000035-79,10000035,1271,Patrick King,2026,Cutting Board Set Bamboo,1,2023-07-27,Defective product,$64.58,Cash,Phone,N,Pending,4035,
+6329,TXN-10006052-16214,10006052,1519,Mrs. Jeffrey Cox,2060,Whiteboard 24x36,1,08/30/2021,Defective product,56.43,Cash,APP,1,Pending,4043,Exchange offered
+6330,TXN-10002910-7768,10002910,1081,Mrs. Catherine Rodriguez,2044,Electric Toothbrush Rechargeable,1,"March 11, 2020",DAMAGED,28.45,Store Credit,Store,1,pending,4044,
+6331,TXN-10005905-15842,10005905,1466,Ms. Jacob Nguyen,2004,USB-C Fast Charger 65W,1,2023-03-28,wrong size,15.36,store credit,in-store,N,Pending,4031,Accepted without receipt
+6332,TXN-10003686-9784,10003686,1247,Rachel Flores,2001,Wireless Bluetooth Headphones,1,2020/09/23,changed mind,126.37,store credit,ONLINE,1,processed,4012,
+6333,TXN-10001966-5191,10001966,1320,Janet Clark,2023,Air Fryer 5.8 Quart,3,"December 30, 2021",DAMAGED,141.28,store credit,in-store,1,processed,4052,Accepted without receipt
+6334,TXN-10002591-6881,10002591,1597,Nicole Thompson,2045,Hair Dryer Professional,1,2022-04-10,,$38.24,Store Credit,Online,0,PROCESSED,4042,Exchange offered
+6335,TXN-10005044-13500,10005044,1047,Christine Allen,2069,Telescope Beginner 70mm,1,2020/04/27,Changed mind,77.51,store credit,catalog,1,processed,4090,Accepted without receipt
+6336,TXN-10005569-14933,10005569,1438,Maria Diaz,2056,Mechanical Pencil Set,3,13-10-2021,,33.64,Store Credit,phone,No,Rejected,4002,
+6337,TXN-10000702-1907,10000702,1164,Ms. Andrew Chavez,2051,Hardcover Notebook A5,2,07-07-2021,Changed mind,$17.01,Store Credit,PHONE,0,Pending,4081,
+6338,TXN-10001069-2861,10001069,1201,Jennifer Turner,2041,Vitamin C 1000mg 90 Tablets,1,"Mar 06, 2020",Changed mind,29.89,Store Credit,In-Store,N,PROCESSED,4030,Exchange offered
+6339,TXN-10000520-1403,10000520,1387,Dr. Cynthia Jimenez,2024,Non-Stick Pan Set 3-Piece,2,2024/08/01,Defective product,130.17,Original Payment,phone,No,Rejected,4063,
+6340,TXN-10006024-16140,10006024,1237,Charles Murphy,2039,Trekking Poles Adjustable,1,"July 29, 2020",Wrong item,58.22,Store Credit,Web,0,PROCESSED,4011,
+6341,TXN-10001795-4746,10001795,1296,Daniel Garcia,2065,Puzzle 1000 Pieces Landscape,1,2024/07/06,Not as described,8.79,Original Payment,catalog,0,Pending,4015,
+6342,TXN-10002571-6824,10002571,1466,Ms. Jacob Nguyen,2013,Men's Casual Polo Shirt,1,2021/03/05,Wrong item,19.16,store credit,online,1,Pending,4077,Customer very unhappy
+6343,TXN-10000724-1957,10000724,1196,Aaron Peterson,2019,Gym Gloves Workout,3,03/19/2020,Changed mind,59.02,Original Payment,Web,N,Pending,4070,Partial refund issued
+6344,TXN-10006857-18392,10006857,1061,Mrs. Patricia Morris,2068,Stuffed Animal Bear 18-inch,1,06/04/2022,DAMAGED,19.45,store credit,Phone,Yes,Processed,4021,return processed ok
+6345,TXN-10005542-14856,10005542,1579,Mr. Rebecca Jones,2061,Action Figure Collector Series,1,2020/03/26,Better price found,15.05,Original Payment,in-store,1,PROCESSED,4038,
+6346,TXN-10003850-10245,10003850,1036,Ms. Jose Cox,2065,Puzzle 1000 Pieces Landscape,1,"Aug 03, 2020",Damaged in shipping,5.44,Cash,online,0,processed,4072,return processed ok
+6347,TXN-10001672-4432,10001672,1582,Paul Stewart,2016,Denim Jeans Slim Fit,1,"Apr 26, 2021",Wrong item,$22.14,Store Credit,in-store,Yes,PROCESSED,4078,
+6348,TXN-10001897-5025,10001897,1348,Jason Chavez,2023,Air Fryer 5.8 Quart,1,"March 16, 2022",Damaged in shipping,64.99,Original Payment,mobile,N,Pending,4098,
+6349,TXN-10006918-18555,10006918,1319,Nicholas Brown,2010,External SSD 1TB,1,29-01-2021,Defective,$33.57,Store Credit,mobile,1,Pending,4037,Partial refund issued
+6350,TXN-10001076-2879,10001076,1517,Ms. Rachel Clark,2030,Stand Mixer 5 Quart,1,2024-04-04,wrong size,273.18,Cash,mobile,Yes,Pending,4035,
+6351,TXN-10000999-2686,10000999,1138,Gary Kelly,2009,Noise Cancelling Earbuds,1,2022/04/02,DAMAGED,$63.12,Cash,catalog,N,processed,4002,
+6352,TXN-10000258-687,10000258,1092,Katherine Nguyen,2046,Multivitamin Daily 120ct,1,2020/10/16,Better price found,10.43,Store Credit,Online,0,processed,4058,Customer very unhappy
+6353,TXN-10006202-16625,10006202,1112,Andrew Cruz,2023,Air Fryer 5.8 Quart,6,04/08/2020,DAMAGED,621.38,Cash,ONLINE,Yes,Processed,4019,Accepted without receipt
+6354,TXN-10003322-8800,10003322,1116,Prof. Jack Moore,2051,Hardcover Notebook A5,2,06-11-2024,wrong size,32.98,Cash,mobile,Yes,processed,4066,Item arrived broken
+6355,TXN-10001072-2871,10001072,1430,Mrs. Nancy Jackson,2040,Sleeping Bag -20F,1,03-03-2024,Better price found,$60.95,Cash,online,0,processed,4074,
+6356,TXN-10005756-15451,10005756,1096,Donna Ramirez,2046,Multivitamin Daily 120ct,1,"Jul 06, 2024",changed mind,9.15,Cash,Online,Y,PROCESSED,4011,
+6357,TXN-10002043-5401,10002043,1110,Prof. Kevin Morales,2057,Wireless Mouse Ergonomic,1,2023-05-26,Changed mind,35.63,Original Payment,in-store,No,Pending,4098,
+6358,TXN-10007195-19289,10007195,9321,Mr. Susan Richardson,2010,External SSD 1TB,1,20/10/2022,Defective product,$224.12,Original Payment,online,1,Pending,4053,Partial refund issued
+6359,TXN-10007196-19290,10007196,1346,Susan King,2045,Hair Dryer Professional,1,16/06/2022,Defective,60.30,Cash,Mobile,Yes,Processed,4082,Partial refund issued
+6360,TXN-10001381-3706,10001381,1061,Mrs. Patricia Morris,2051,Hardcover Notebook A5,1,14/09/2021,Damaged in shipping,6.22,Cash,phone,Yes,pending,4056,Item arrived broken
+6361,TXN-10005108-13675,10005108,1431,Kevin Flores,2021,Stainless Steel Cookware Set 10pc,2,"May 27, 2021",Defective,402.06,Store Credit,Mobile App,N,processed,4007,Item arrived broken
+6362,TXN-10002825-7541,10002825,1045,Shirley Morgan,2014,Women's Winter Jacket,1,2023-01-08,Damaged in shipping,91.88,original payment,In-Store,Y,processed,4003,
+6363,TXN-10004411-11772,10004411,1485,Ms. Debra Flores,2056,Mechanical Pencil Set,1,2020/10/25,Wrong item,19.65,Original Payment,In-Store,N,processed,4061,Accepted without receipt
+6364,TXN-10004190-11155,10004190,1115,Jennifer Myers,2046,Multivitamin Daily 120ct,2,10/21/2024,wrong size,$58.45,Cash,Store,0,Pending,4016,
+6365,TXN-10007548-20234,10007548,1599,Jessica Hernandez,2006,4K Webcam 1080p,2,18-05-2022,Defective,85.98,Store Credit,PHONE,0,Pending,4029,Exchange offered
+6366,TXN-10007274-19505,10007274,1526,Steven Watson,2004,USB-C Fast Charger 65W,1,2024-05-06,wrong size,19.93,Cash,IN STORE,0,Processed,4081,
+6367,TXN-10004546-12129,10004546,1289,Mr. Jason Clark,2039,Trekking Poles Adjustable,2,"Feb 19, 2021",Defective product,113.04,original payment,ONLINE,1,pending,4023,Accepted without receipt
+6368,TXN-10004434-11840,10004434,1226,Ms. Jerry Gomez,2035,Hiking Boots Waterproof,1,"Mar 07, 2024",Not as described,164.13,Store Credit,in-store,N,Processed,4061,Accepted without receipt
+6369,TXN-10007804-20888,10007804,1415,Ronald Cox,2047,Sunscreen SPF 50 Spray,1,07-09-2022,Not as described,$6.78,original payment,Mobile App,Yes,Rejected,4070,
+6370,TXN-10004584-12240,10004584,1482,Stephanie Ross,2005,Mechanical Gaming Keyboard,4,"Oct 15, 2024",,690.96,store credit,Catalog,N,Processed,4029,Customer very unhappy
+6371,TXN-10003309-8769,10003309,1521,Ms. Heather Murphy,2014,Women's Winter Jacket,1,20-12-2021,Damaged in shipping,$262.85,Original Payment,In-Store,N,Processed,4058,
+6372,TXN-10001499-4007,10001499,1448,Tyler Martinez,2040,Sleeping Bag -20F,1,2022/10/11,wrong size,145.46,original payment,IN STORE,0,PROCESSED,4029,Partial refund issued
+6373,TXN-10000330-871,10000330,1509,Mrs. Gregory Lopez,2042,Protein Powder Whey 5lb,2,05/20/2021,Wrong item,56.71,store credit,online,Yes,PROCESSED,4098,
+6374,TXN-10006101-16354,10006101,1540,Christopher James,2040,Sleeping Bag -20F,4,21-03-2022,wrong size,136.23,store credit,APP,Y,Pending,4037,Partial refund issued
+6375,TXN-10003811-10133,10003811,1219,Mrs. Nancy Mitchell,2062,Board Game Strategy 2-6 Players,1,2020-11-25,Defective,32.31,original payment,IN STORE,No,Rejected,4023,
+6376,TXN-10006470-17372,10006470,1122,Mrs. Jerry Sanders,2015,Kids Soccer Cleats,1,2020/10/14,Not as described,56.20,Store Credit,in-store,Yes,processed,4054,Partial refund issued
+6377,TXN-10001225-3272,10001225,1504,Prof. Heather Walker,2002,Smart LED TV 55-inch,1,"Feb 14, 2021",Damaged in shipping,$335.71,original payment,online,Yes,Pending,4089,
+6378,TXN-10007399-19834,10007399,1577,Dr. Jerry Walker,2063,LEGO Building Set 500pcs,1,"Dec 16, 2021",wrong size,59.76,Cash,Mobile App,N,processed,4019,Customer very unhappy
+6379,TXN-10004215-11216,10004215,1145,Julie Watson,2053,Desk Organizer Bamboo,1,2021/11/12,Defective,12.75,Original Payment,Mobile,No,Pending,4056,return processed ok
+6380,TXN-10006635-17817,10006635,1375,Ms. Emily Cooper,2062,Board Game Strategy 2-6 Players,1,12/03/2021,Not as described,27.36,Store Credit,Mobile App,No,Processed,4001,
+6381,TXN-10004031-10729,10004031,9575,Karen Anderson,2056,Mechanical Pencil Set,2,"May 30, 2023",Wrong item,17.27,Cash,Phone,Yes,processed,4091,
+6382,TXN-10002495-6623,10002495,1152,Betty Clark,2042,Protein Powder Whey 5lb,1,"April 13, 2020",,19.28,Cash,in-store,N,pending,4029,
+6383,TXN-10007548-20236,10007548,1599,Jessica Hernandez,2025,Blender High Performance,2,08-05-2023,Wrong item,107.84,store credit,Web,1,Rejected,4006,
+6384,TXN-10002448-6523,10002448,1243,Benjamin Rodriguez,2015,Kids Soccer Cleats,1,16-01-2023,DAMAGED,31.44,store credit,PHONE,Yes,Rejected,4091,Item arrived broken
+6385,TXN-10006275-16833,10006275,1044,Mr. Rebecca Campbell,2061,Action Figure Collector Series,1,2021-07-12,wrong size,22.58,store credit,online,1,Pending,4032,Item arrived broken
+6386,TXN-10006181-16578,10006181,1454,Anna Evans,2069,Telescope Beginner 70mm,1,"Feb 03, 2022",changed mind,$101.93,original payment,online,0,PROCESSED,4010,
+6387,TXN-10007400-19839,10007400,1209,Gary James,2039,Trekking Poles Adjustable,1,2021-01-30,Changed mind,$57.59,store credit,Store,0,Pending,4086,Accepted without receipt
+6388,TXN-10005217-13984,10005217,1165,Scott Jimenez,2017,Sports Backpack 30L,2,2024-01-13,Defective,63.64,Original Payment,IN STORE,Y,Processed,4065,return processed ok
+6389,TXN-10002205-5844,10002205,1101,Mr. Amy Rivera,2039,Trekking Poles Adjustable,1,06/16/2023,changed mind,79.81,original payment,APP,No,PROCESSED,4077,
+6390,TXN-10003242-8589,10003242,1514,Prof. Patricia Johnson,2006,4K Webcam 1080p,2,2024/05/24,Defective product,209.62,Store Credit,In-Store,Y,Processed,4034,Exchange offered
+6391,TXN-10006328-16978,10006328,1443,Benjamin White,2027,Instant Pot 8 Quart,1,"Apr 06, 2020",wrong size,70.67,store credit,In-Store,1,PROCESSED,4033,Exchange offered
+6392,TXN-10005043-13495,10005043,1234,Ms. Nancy Nguyen,2062,Board Game Strategy 2-6 Players,1,2021/09/05,Wrong item,14.46,Store Credit,Catalog,Y,Rejected,4100,Customer very unhappy
+6393,TXN-10004090-10874,10004090,1259,Mr. Jerry James,2050,Digital Bathroom Scale,2,06/25/2023,,39.71,Original Payment,Phone,No,Pending,4092,Item arrived broken
+6394,TXN-10005516-14787,10005516,1122,Mrs. Jerry Sanders,2024,Non-Stick Pan Set 3-Piece,1,02/22/2022,Better price found,245.85,original payment,Store,0,pending,4034,Customer very unhappy
+6395,TXN-10002597-6896,10002597,1531,Daniel Hill,2039,Trekking Poles Adjustable,2,"January 22, 2024",Defective,127.09,store credit,Mobile App,No,pending,4024,Accepted without receipt
+6396,TXN-10000354-940,10000354,1178,Lisa Chavez,2057,Wireless Mouse Ergonomic,1,2022-08-06,DAMAGED,70.04,Store Credit,Mobile App,Yes,Rejected,4083,Accepted without receipt
+6397,TXN-10002170-5762,10002170,1368,Mrs. Pamela Foster,2033,Adjustable Dumbbells 50lb,2,18/10/2021,wrong size,$785.34,Cash,online,N,pending,4003,
+6398,TXN-10003116-8297,10003116,1512,Mrs. Patrick Rogers,2042,Protein Powder Whey 5lb,1,01/06/2024,DAMAGED,21.59,store credit,Web,Yes,pending,4054,
+6399,TXN-10000050-126,10000050,1058,Mrs. Timothy Wilson,2047,Sunscreen SPF 50 Spray,2,2024/05/04,wrong size,$26.67,Cash,Store,No,Pending,4097,Exchange offered
+6400,TXN-10007494-20089,10007494,1284,Ms. Justin Long,2020,Athletic Crew Socks 6-Pack,2,03/01/2023,Defective product,$12.73,Cash,phone,Yes,processed,4001,Partial refund issued
+6401,TXN-10003064-8162,10003064,1280,Deborah Brown,2030,Stand Mixer 5 Quart,2,2020-11-23,Not as described,236.27,Cash,PHONE,1,PROCESSED,4044,Accepted without receipt
+6402,TXN-10005131-13741,10005131,1385,Ashley Gomez,2006,4K Webcam 1080p,1,"Oct 21, 2021",Better price found,66.51,store credit,ONLINE,N,processed,4090,return processed ok
+6403,TXN-10003120-8309,10003120,1555,Dr. Sarah Peterson,2025,Blender High Performance,1,"July 27, 2020",DAMAGED,$106.41,store credit,PHONE,0,processed,4023,Customer very unhappy
+6404,TXN-10003739-9932,10003739,1525,Mr. Tyler Robinson,2003,Laptop 15.6 inch Core i7,2,2024/07/27,wrong size,"2,396.74",Original Payment,Mobile,Yes,PROCESSED,4011,
+6405,TXN-10006029-16156,10006029,1097,Dennis Jimenez,2044,Electric Toothbrush Rechargeable,2,10/17/2021,,45.30,store credit,Mobile,1,processed,4035,Item arrived broken
+6406,TXN-10002353-6242,10002353,1592,Ms. Ryan Jackson,2040,Sleeping Bag -20F,4,22-04-2024,,$195.82,Cash,Mobile,1,PROCESSED,4080,Partial refund issued
+6407,TXN-10003602-9573,10003602,1086,Mrs. Betty Jimenez,2032,Resistance Bands Set 5-Pack,1,"Nov 19, 2023",Better price found,$10.98,Original Payment,Online,1,processed,4079,Exchange offered
+6408,TXN-10000577-1546,10000577,1298,Frank Clark,2051,Hardcover Notebook A5,1,15/01/2024,Damaged in shipping,8.76,store credit,catalog,N,Pending,4095,
+6409,TXN-10001765-4672,10001765,1207,Dr. Sandra White,2028,Wine Glass Set 12-Piece,1,2022/09/24,,$15.52,Original Payment,Web,N,PROCESSED,4071,Item arrived broken
+6410,TXN-10005935-15935,10005935,1557,Helen Johnson,2065,Puzzle 1000 Pieces Landscape,2,07/12/2021,Damaged in shipping,22.83,Cash,catalog,1,Rejected,4085,
+6411,TXN-10000442-1191,10000442,1103,Brandon Jackson,2026,Cutting Board Set Bamboo,1,14/07/2020,DAMAGED,34.52,Cash,phone,0,Processed,4032,
+6412,TXN-10007955-21301,10007955,1567,Donald Moore,2043,Moisturizing Face Cream SPF30,1,12/10/2024,Better price found,12.06,store credit,Mobile App,1,Pending,4087,Customer very unhappy
+6413,TXN-10003385-8959,10003385,1502,Mary Rivera,2064,Remote Control Car Racing,2,01/03/2020,Wrong item,66.64,store credit,APP,N,PROCESSED,4051,
+6414,TXN-10001207-3227,10001207,9288,Lisa Peterson,2062,Board Game Strategy 2-6 Players,1,2024-09-08,changed mind,28.29,original payment,Store,No,Processed,4079,
+6415,TXN-10003554-9432,10003554,1381,Dr. Dorothy Gutierrez,2036,Foam Roller 18-inch,1,2021/03/21,Not as described,21.63,Original Payment,Phone,Yes,processed,4090,Accepted without receipt
+6416,TXN-10007405-19852,10007405,1398,Mrs. Patricia Gray,2004,USB-C Fast Charger 65W,2,04-07-2020,Damaged in shipping,51.37,Store Credit,Web,0,Processed,4013,Accepted without receipt
+6417,TXN-10001571-4172,10001571,1024,Prof. Jose Reyes,2017,Sports Backpack 30L,1,29-09-2020,changed mind,43.56,Original Payment,Mobile,Yes,pending,4017,
+6418,TXN-10001054-2824,10001054,1402,Ms. Brian Brown,2070,Science Kit Chemistry,1,2024/10/01,Damaged in shipping,14.01,store credit,Web,1,Pending,4032,
+6419,TXN-10005121-13717,10005121,1006,Cynthia Moore,2063,LEGO Building Set 500pcs,2,06/04/2021,wrong size,70.29,Cash,in-store,N,pending,4035,Exchange offered
+6420,TXN-10003445-9123,10003445,1338,Carol King,2040,Sleeping Bag -20F,1,"March 13, 2020",Not as described,41.29,store credit,Mobile App,Y,Pending,4006,Item arrived broken
+6421,TXN-10007537-20208,10007537,1146,Heather Cooper,2067,Card Game Family Fun,2,2022/01/25,wrong size,49.59,Store Credit,online,Y,Processed,4070,Accepted without receipt
+6422,TXN-10000126-331,10000126,1169,Mr. Jacob Hernandez,2001,Wireless Bluetooth Headphones,1,"May 25, 2020",Changed mind,210.39,Store Credit,Phone,Y,Rejected,4038,Customer very unhappy
+6423,TXN-10000411-1106,10000411,1002,Benjamin Richardson,2001,Wireless Bluetooth Headphones,2,2024/12/05,Changed mind,252.72,original payment,Catalog,Y,Processed,4004,Accepted without receipt
+6424,TXN-10004420-11796,10004420,1086,Mrs. Betty Jimenez,2029,Knife Set 15-Piece,1,2020/09/18,Damaged in shipping,192.00,store credit,Web,Yes,Rejected,4059,
+6425,TXN-10004647-12429,10004647,1366,Ms. Steven Turner,2045,Hair Dryer Professional,3,24-12-2021,Better price found,$112.31,Store Credit,PHONE,Yes,Processed,4075,
+6426,TXN-10003134-8342,10003134,1250,Ms. Mark James,2064,Remote Control Car Racing,1,08/30/2023,Changed mind,$101.80,Original Payment,APP,Yes,Processed,4048,Customer very unhappy
+6427,TXN-10007362-19724,10007362,1145,Julie Watson,2046,Multivitamin Daily 120ct,1,"Feb 24, 2023",Defective,11.67,Original Payment,Store,0,processed,4096,
+6428,TXN-10000388-1039,10000388,1393,Ms. Debra Green,2034,Camping Tent 4-Person,1,"April 16, 2022",wrong size,324.93,original payment,Web,Y,processed,4007,Exchange offered
+6429,TXN-10007596-20357,10007596,1188,Dr. Catherine Scott,2067,Card Game Family Fun,1,16/11/2021,changed mind,9.81,store credit,APP,Y,Rejected,4047,return processed ok
+6430,TXN-10005095-13643,10005095,1415,Ronald Cox,2021,Stainless Steel Cookware Set 10pc,1,2020/07/22,Not as described,149.07,Original Payment,Mobile,Yes,pending,4052,Partial refund issued
+6431,TXN-10003921-10417,10003921,1036,Ms. Jose Cox,2052,Ballpoint Pens 12-Pack,2,2022/08/17,Wrong item,8.24,Store Credit,ONLINE,Yes,pending,4016,
+6432,TXN-10003937-10461,10003937,1207,Dr. Sandra White,2041,Vitamin C 1000mg 90 Tablets,1,"May 04, 2024",Damaged in shipping,50.11,Store Credit,Store,N,Rejected,4065,
+6433,TXN-10006467-17362,10006467,1531,Daniel Hill,2049,Shampoo Argan Oil 16oz,1,11/02/2021,Better price found,$6.38,original payment,IN STORE,1,Processed,4021,
+6434,TXN-10005317-14274,10005317,1337,Mr. Mark Morris,2030,Stand Mixer 5 Quart,1,06/13/2021,Defective product,100.45,Store Credit,In-Store,N,Processed,4007,
+6435,TXN-10002213-5863,10002213,1349,Dr. Kevin Adams,2050,Digital Bathroom Scale,2,2024-07-06,Defective,79.16,original payment,Online,N,Pending,4068,Accepted without receipt
+6436,TXN-10007723-20690,10007723,1242,Mr. Joseph Ramirez,2057,Wireless Mouse Ergonomic,2,07/10/2023,changed mind,42.69,original payment,IN STORE,1,Processed,4050,Customer very unhappy
+6437,TXN-10001767-4678,10001767,1043,Ms. George Phillips,2058,Desk Lamp LED Adjustable,2,05/09/2022,Damaged in shipping,68.01,Cash,online,N,processed,4019,
+6438,TXN-10007745-20746,10007745,1360,Prof. Justin Nelson,2070,Science Kit Chemistry,1,"May 14, 2022",Damaged in shipping,39.01,Original Payment,PHONE,0,Rejected,4083,
+6439,TXN-10001889-5000,10001889,1115,Jennifer Myers,2034,Camping Tent 4-Person,1,2021-08-22,Defective product,83.57,Original Payment,Mobile,Y,pending,4041,
+6440,TXN-10006038-16179,10006038,1080,Mrs. Carolyn Bennett,2024,Non-Stick Pan Set 3-Piece,1,"Apr 10, 2021",Changed mind,39.42,original payment,IN STORE,Yes,PROCESSED,4055,
+6441,TXN-10006327-16977,10006327,1178,Lisa Chavez,2003,Laptop 15.6 inch Core i7,2,03-09-2022,Damaged in shipping,"2,282.97",store credit,in-store,Y,Processed,4035,Customer very unhappy
+6442,TXN-10003992-10628,10003992,9201,Lisa Kelly,2044,Electric Toothbrush Rechargeable,1,01/05/2020,,96.81,Cash,catalog,1,pending,4071,
+6443,TXN-10001806-4782,10001806,1538,Dr. Brian Smith,2013,Men's Casual Polo Shirt,1,2023/11/06,Damaged in shipping,16.52,Store Credit,Store,1,PROCESSED,4038,Customer very unhappy
+6444,TXN-10002812-7509,10002812,1412,Dr. Sarah Jones,2033,Adjustable Dumbbells 50lb,1,2024/04/04,Changed mind,$136.27,Store Credit,phone,1,Rejected,4045,Customer very unhappy
+6445,TXN-10003547-9409,10003547,1216,Prof. Benjamin Sanders,2022,Coffee Maker 12-Cup,2,23/07/2022,Damaged in shipping,$47.64,Store Credit,PHONE,1,pending,4071,Partial refund issued
+6446,TXN-10007646-20496,10007646,1124,Jonathan Gray,2061,Action Figure Collector Series,1,"August 11, 2020",Better price found,25.28,Store Credit,Phone,0,Processed,4043,return processed ok
+6447,TXN-10000824-2234,10000824,1597,Nicole Thompson,2033,Adjustable Dumbbells 50lb,1,30-06-2023,Defective product,$86.02,Store Credit,IN STORE,N,processed,4054,Accepted without receipt
+6448,TXN-10002976-7927,10002976,1570,Ryan Walker,2043,Moisturizing Face Cream SPF30,1,12-01-2023,Better price found,18.95,Original Payment,Phone,1,PROCESSED,4084,
+6449,TXN-10005683-15241,10005683,1159,Samuel Morales,2049,Shampoo Argan Oil 16oz,1,"April 17, 2021",Damaged in shipping,10.13,Cash,phone,No,Processed,4100,Item arrived broken
+6450,TXN-10001376-3689,10001376,1143,Jennifer Roberts,2028,Wine Glass Set 12-Piece,2,07/27/2020,Better price found,49.89,Original Payment,Store,1,Processed,4080,
+6451,TXN-10002046-5409,10002046,9575,Karen Anderson,2036,Foam Roller 18-inch,1,"Jun 05, 2024",wrong size,67.74,Store Credit,in-store,N,Rejected,4054,Customer very unhappy
+6452,TXN-10002581-6850,10002581,1348,Jason Chavez,2037,Jump Rope Speed,1,10/12/2023,Better price found,4.91,Original Payment,in-store,N,processed,4091,
+6453,TXN-10004586-12244,10004586,1251,Donna Richardson,2014,Women's Winter Jacket,1,"Oct 23, 2024",,63.56,original payment,mobile,1,PROCESSED,4075,Accepted without receipt
+6454,TXN-10000142-375,10000142,1527,Ms. Julie Morris,2037,Jump Rope Speed,1,"March 03, 2022",Wrong item,8.79,Original Payment,Store,Y,Pending,4023,
+6455,TXN-10002245-5966,10002245,1434,Ms. Gregory Peterson,2014,Women's Winter Jacket,1,11/06/2021,Not as described,160.68,original payment,Web,1,pending,4061,Partial refund issued
+6456,TXN-10000801-2175,10000801,1485,Ms. Debra Flores,2035,Hiking Boots Waterproof,3,18/10/2021,Defective,365.04,original payment,Web,N,Processed,4088,Customer very unhappy
+6457,TXN-10004218-11226,10004218,1279,Timothy Reyes,2020,Athletic Crew Socks 6-Pack,1,"March 05, 2024",wrong size,10.92,Original Payment,APP,0,PROCESSED,4048,Accepted without receipt
+6458,TXN-10002610-6932,10002610,1126,Maria Kelly,2051,Hardcover Notebook A5,1,03/26/2022,Defective,11.18,original payment,PHONE,1,Pending,4080,
+6459,TXN-10000991-2672,10000991,1188,Dr. Catherine Scott,2014,Women's Winter Jacket,1,2022-06-06,,81.36,store credit,APP,N,PROCESSED,4005,
+6460,TXN-10002214-5867,10002214,1045,Shirley Morgan,2025,Blender High Performance,1,06/06/2020,wrong size,$56.24,Cash,Mobile,N,Rejected,4022,return processed ok
+6461,TXN-10005629-15084,10005629,1207,Dr. Sandra White,2047,Sunscreen SPF 50 Spray,1,08/05/2023,Damaged in shipping,15.01,Original Payment,phone,0,Pending,4085,
+6462,TXN-10005501-14745,10005501,1502,Mary Rivera,2012,Women's Yoga Pants,1,26-05-2023,Better price found,42.20,Original Payment,in-store,1,Processed,4017,
+6463,TXN-10004649-12439,10004649,1597,Nicole Thompson,2032,Resistance Bands Set 5-Pack,1,2020/10/14,DAMAGED,$9.14,store credit,catalog,Yes,Processed,4090,return processed ok
+6464,TXN-10002170-5760,10002170,1368,Mrs. Pamela Foster,2049,Shampoo Argan Oil 16oz,3,2020-05-26,changed mind,$27.59,Cash,PHONE,0,Pending,4048,Customer very unhappy
+6465,TXN-10003637-9649,10003637,1216,Prof. Benjamin Sanders,2063,LEGO Building Set 500pcs,1,08/08/2020,DAMAGED,$45.10,store credit,In-Store,Y,PROCESSED,4093,Item arrived broken
+6466,TXN-10006561-17613,10006561,1083,Kathleen Cook,2018,Baseball Cap Adjustable,1,2023-07-18,Not as described,27.72,Original Payment,In-Store,0,pending,4071,
+6467,TXN-10003641-9655,10003641,1312,Anthony Bailey,2067,Card Game Family Fun,1,"Sep 17, 2021",Better price found,$9.63,Cash,mobile,No,pending,4066,Item arrived broken
+6468,TXN-10002684-7139,10002684,1180,Mrs. Andrew Ramirez,2064,Remote Control Car Racing,1,"October 11, 2024",Defective product,$33.32,Store Credit,Mobile,No,processed,4070,
+6469,TXN-10007461-20004,10007461,1151,Dr. William Williams,2001,Wireless Bluetooth Headphones,1,26-10-2023,Wrong item,$127.99,Original Payment,Store,No,processed,4027,
+6470,TXN-10007569-20289,10007569,1167,Larry Patel,2039,Trekking Poles Adjustable,1,2020-05-02,Changed mind,30.15,original payment,phone,0,PROCESSED,4087,Customer very unhappy
+6471,TXN-10000461-1237,10000461,1253,Edward Taylor,2025,Blender High Performance,1,08/12/2022,Defective product,70.73,store credit,catalog,No,Rejected,4026,
+6472,TXN-10006194-16605,10006194,1598,Charles White,2064,Remote Control Car Racing,1,31/10/2021,Changed mind,$30.09,Original Payment,Mobile,0,Processed,4030,Partial refund issued
+6473,TXN-10001239-3313,10001239,1572,Angela Campbell,2017,Sports Backpack 30L,1,"Sep 11, 2023",Damaged in shipping,$58.75,Original Payment,APP,No,Pending,4066,Item arrived broken
+6474,TXN-10001371-3674,10001371,1081,Mrs. Catherine Rodriguez,2003,Laptop 15.6 inch Core i7,1,03/27/2020,Defective,494.17,original payment,PHONE,N,processed,4084,
+6475,TXN-10005918-15871,10005918,1424,Deborah King,2047,Sunscreen SPF 50 Spray,7,10/31/2024,Defective,99.60,original payment,PHONE,Y,Rejected,4007,
+6476,TXN-10000563-1507,10000563,1324,Prof. Daniel Roberts,2008,Smartwatch Fitness Tracker,1,"September 23, 2023",DAMAGED,198.39,Original Payment,online,1,Processed,4038,Item arrived broken
+6477,TXN-10007525-20169,10007525,1482,Stephanie Ross,2024,Non-Stick Pan Set 3-Piece,2,2024/05/29,changed mind,$113.68,Cash,catalog,1,processed,4095,
+6478,TXN-10003058-8138,10003058,1374,Amanda Rivera,2031,Yoga Mat Non-Slip,3,"Dec 06, 2024",,87.29,Original Payment,Catalog,Y,processed,4043,return processed ok
+6479,TXN-10004025-10709,10004025,1185,Dr. Samuel Gonzalez,2067,Card Game Family Fun,1,2024-08-28,Defective product,17.81,Cash,Store,No,Processed,4071,
+6480,TXN-10005688-15254,10005688,1042,Mrs. Frank Morgan,2009,Noise Cancelling Earbuds,1,"Feb 20, 2024",changed mind,$90.18,Cash,ONLINE,0,Processed,4058,Exchange offered
+6481,TXN-10001072-2873,10001072,1430,Mrs. Nancy Jackson,2061,Action Figure Collector Series,1,11-09-2023,Changed mind,17.25,store credit,In-Store,0,pending,4079,
+6482,TXN-10004891-13085,10004891,1009,Prof. Thomas Garcia,2067,Card Game Family Fun,4,11-08-2022,DAMAGED,$24.52,Cash,Phone,0,Pending,4061,
+6483,TXN-10002242-5957,10002242,1198,Emma Flores,2028,Wine Glass Set 12-Piece,1,"Jul 30, 2020",Changed mind,$21.53,Store Credit,Mobile,Yes,PROCESSED,4052,Item arrived broken
+6484,TXN-10006475-17390,10006475,1441,Prof. Sarah Smith,2010,External SSD 1TB,1,2021-08-10,DAMAGED,$277.96,store credit,IN STORE,Y,pending,4042,return processed ok
+6485,TXN-10000789-2147,10000789,1204,Dr. Cynthia Brooks,2014,Women's Winter Jacket,1,2023/04/27,Not as described,201.01,Original Payment,Store,0,processed,4083,Exchange offered
+6486,TXN-10002046-5414,10002046,9575,Karen Anderson,2065,Puzzle 1000 Pieces Landscape,1,2021/02/18,changed mind,$13.45,Original Payment,phone,N,Pending,4044,Partial refund issued
+6487,TXN-10002807-7502,10002807,1018,Mrs. Rebecca Morales,2004,USB-C Fast Charger 65W,1,16-04-2024,Defective,$14.05,Original Payment,In-Store,0,Processed,4046,
+6488,TXN-10006914-18543,10006914,1461,Ms. Ashley Thomas,2070,Science Kit Chemistry,1,2020-10-02,,21.73,Cash,online,Y,processed,4007,
+6489,TXN-10002804-7495,10002804,1315,Ms. Laura Rodriguez,2034,Camping Tent 4-Person,2,2020/04/09,wrong size,$164.16,Original Payment,Mobile App,1,Pending,4060,Accepted without receipt
+6490,TXN-10004352-11600,10004352,1442,Brenda Roberts,2059,Folder Organizer 10-Pack,1,"Jan 02, 2020",Wrong item,7.30,store credit,Mobile,0,pending,4011,
+6491,TXN-10006153-16493,10006153,1168,Margaret King,2034,Camping Tent 4-Person,1,12/25/2022,Damaged in shipping,190.28,original payment,Catalog,Y,processed,4011,Partial refund issued
+6492,TXN-10000570-1522,10000570,1411,Jessica Baker,2063,LEGO Building Set 500pcs,1,08/25/2021,Damaged in shipping,28.14,Store Credit,Phone,0,Processed,4024,Customer very unhappy
+6493,TXN-10000335-879,10000335,1128,Dr. Angela Walker,2015,Kids Soccer Cleats,1,20/08/2023,wrong size,$22.91,Store Credit,Mobile,1,pending,4086,
+6494,TXN-10006457-17346,10006457,1227,Ms. David Wright,2020,Athletic Crew Socks 6-Pack,1,"Oct 10, 2021",Defective,14.48,Original Payment,Catalog,Yes,Processed,4074,
+6495,TXN-10007764-20789,10007764,1211,Donna Lewis,2028,Wine Glass Set 12-Piece,2,2020/07/15,Defective,102.11,Cash,Mobile,No,PROCESSED,4083,
+6496,TXN-10002713-7235,10002713,1205,Edward Myers,2006,4K Webcam 1080p,1,29-04-2023,Not as described,$59.83,original payment,IN STORE,Y,Pending,4037,Partial refund issued
+6497,TXN-10005960-16012,10005960,1181,Richard Jackson,2055,Sticky Notes 12-Pack,1,"October 10, 2023",wrong size,7.13,Cash,Web,Y,Processed,4075,Partial refund issued
+6498,TXN-10001402-3760,10001402,1573,Mrs. Daniel Sanders,2057,Wireless Mouse Ergonomic,1,"September 28, 2023",Not as described,$81.69,original payment,ONLINE,0,pending,4020,Item arrived broken
+6499,TXN-10001577-4191,10001577,1516,Prof. Timothy Roberts,2070,Science Kit Chemistry,1,29/07/2021,Wrong item,11.93,store credit,PHONE,No,pending,4050,Accepted without receipt
+6500,TXN-10000694-1881,10000694,1030,Frank Gray,2022,Coffee Maker 12-Cup,1,2023/05/23,changed mind,85.42,Original Payment,Web,N,PROCESSED,4020,
+6501,TXN-10007442-19955,10007442,1449,Dr. Jennifer Roberts,2042,Protein Powder Whey 5lb,1,"Sep 28, 2023",,57.87,original payment,IN STORE,1,Rejected,4047,Accepted without receipt
+6502,TXN-10002440-6500,10002440,1569,Joyce Brown,2052,Ballpoint Pens 12-Pack,3,"July 10, 2023",wrong size,9.08,Store Credit,IN STORE,1,PROCESSED,4076,
+6503,TXN-10007957-21307,10007957,1502,Mary Rivera,2003,Laptop 15.6 inch Core i7,1,2021-11-22,Defective product,867.72,Cash,Web,No,pending,4096,
+6504,TXN-10007438-19943,10007438,9878,Scott Johnson,2070,Science Kit Chemistry,1,"August 12, 2024",Changed mind,47.51,Original Payment,Web,0,Processed,4096,
+6505,TXN-10003312-8780,10003312,1451,Barbara Hernandez,2016,Denim Jeans Slim Fit,2,"Apr 04, 2022",DAMAGED,$82.23,original payment,In-Store,0,Processed,4059,Item arrived broken
+6506,TXN-10005287-14192,10005287,1484,Ms. Laura Adams,2026,Cutting Board Set Bamboo,1,26/07/2020,,38.40,Store Credit,Mobile App,Yes,Processed,4060,
+6507,TXN-10002791-7454,10002791,1255,Mr. Scott Hill,2020,Athletic Crew Socks 6-Pack,2,2021-04-15,Damaged in shipping,8.47,Store Credit,APP,Y,processed,4014,return processed ok
+6508,TXN-10000348-920,10000348,1034,Ryan Cruz,2047,Sunscreen SPF 50 Spray,1,2020-09-03,Changed mind,8.76,Store Credit,Mobile,0,Processed,4039,
+6509,TXN-10002448-6522,10002448,1243,Benjamin Rodriguez,2005,Mechanical Gaming Keyboard,1,01/07/2022,,$62.02,Cash,online,1,Rejected,4059,
+6510,TXN-10001870-4936,10001870,1174,Nicole Castillo,2057,Wireless Mouse Ergonomic,1,2020-09-24,Wrong item,63.54,Store Credit,in-store,Y,PROCESSED,4006,
+6511,TXN-10004471-11941,10004471,1350,Mrs. Steven Cox,2057,Wireless Mouse Ergonomic,1,06/21/2021,Wrong item,36.77,original payment,in-store,No,processed,4067,return processed ok
+6512,TXN-10006446-17314,10006446,9985,Mary Ruiz,2050,Digital Bathroom Scale,3,"Aug 22, 2023",Not as described,46.13,Store Credit,Phone,1,Rejected,4081,
+6513,TXN-10002439-6499,10002439,1556,Pamela Moore,2051,Hardcover Notebook A5,1,"Aug 22, 2021",Damaged in shipping,23.88,store credit,mobile,0,processed,4031,Customer very unhappy
+6514,TXN-10001119-2974,10001119,1162,Jacob James,2069,Telescope Beginner 70mm,2,09/27/2022,Defective product,86.21,Cash,Mobile,Y,Processed,4065,Accepted without receipt
+6515,TXN-10005764-15481,10005764,1554,Ashley Gray,2063,LEGO Building Set 500pcs,1,2022-05-01,,34.74,Cash,In-Store,No,Pending,4055,
+6516,TXN-10001908-5054,10001908,9134,Emma Nelson,2055,Sticky Notes 12-Pack,2,28/07/2022,Damaged in shipping,17.54,Original Payment,Mobile App,Yes,PROCESSED,4001,return processed ok
+6517,TXN-10007453-19980,10007453,1165,Scott Jimenez,2029,Knife Set 15-Piece,1,2024-01-21,DAMAGED,110.89,Cash,Mobile,1,processed,4085,Item arrived broken
+6518,TXN-10005467-14654,10005467,1018,Mrs. Rebecca Morales,2057,Wireless Mouse Ergonomic,1,"April 13, 2020",Not as described,$29.02,original payment,IN STORE,No,Processed,4024,Accepted without receipt
+6519,TXN-10004425-11809,10004425,1599,Jessica Hernandez,2017,Sports Backpack 30L,1,01/05/2022,changed mind,60.50,store credit,APP,1,Rejected,4092,
+6520,TXN-10006512-17489,10006512,1005,Debra Wood,2043,Moisturizing Face Cream SPF30,1,25/09/2022,Not as described,19.79,Original Payment,IN STORE,Y,PROCESSED,4034,
+6521,TXN-10004833-12929,10004833,1353,Emma Hall,2018,Baseball Cap Adjustable,1,09-10-2021,DAMAGED,$18.03,store credit,IN STORE,1,Processed,4043,
+6522,TXN-10004751-12706,10004751,1182,Prof. Sarah Mitchell,2059,Folder Organizer 10-Pack,1,2020-06-01,,$6.91,Cash,Mobile,0,processed,4007,
+6523,TXN-10004390-11722,10004390,9100,Deborah Mendoza,2007,Portable Bluetooth Speaker,1,13/05/2023,changed mind,19.08,store credit,In-Store,0,PROCESSED,4083,Partial refund issued
+6524,TXN-10006785-18212,10006785,1495,Anthony Ramos,2024,Non-Stick Pan Set 3-Piece,2,2020-12-09,Changed mind,78.79,original payment,mobile,Y,Rejected,4058,Partial refund issued
+6525,TXN-10005462-14645,10005462,1551,Prof. Dennis Morgan,2019,Gym Gloves Workout,2,"July 17, 2022",Changed mind,32.81,original payment,catalog,1,pending,4004,
+6526,TXN-10007793-20853,10007793,1296,Daniel Garcia,2066,Doll with Accessories,1,05-10-2024,Wrong item,$10.22,store credit,APP,0,Rejected,4097,Exchange offered
+6527,TXN-10005361-14389,10005361,1061,Mrs. Patricia Morris,2038,Water Bottle 32oz Insulated,1,22-03-2021,Wrong item,15.28,Cash,Catalog,N,Pending,4010,return processed ok
+6528,TXN-10007894-21114,10007894,1413,Mrs. Rebecca Thompson,2021,Stainless Steel Cookware Set 10pc,2,2022/12/25,Changed mind,$348.60,store credit,Online,1,Rejected,4083,Partial refund issued
+6529,TXN-10005306-14252,10005306,1067,Dr. Amy Martinez,2057,Wireless Mouse Ergonomic,1,08/05/2024,DAMAGED,16.23,Store Credit,Mobile,No,Pending,4003,Partial refund issued
+6530,TXN-10001640-4350,10001640,1405,Lisa Kelly,2065,Puzzle 1000 Pieces Landscape,1,01/26/2022,Damaged in shipping,33.04,store credit,Catalog,Y,Rejected,4027,
+6531,TXN-10005353-14368,10005353,1549,Helen Bailey,2023,Air Fryer 5.8 Quart,1,11/21/2024,Defective,56.91,Store Credit,Mobile App,Y,Pending,4061,Customer very unhappy
+6532,TXN-10004801-12843,10004801,1415,Ronald Cox,2049,Shampoo Argan Oil 16oz,1,"Nov 24, 2020",Defective product,6.66,original payment,Web,Yes,Processed,4025,
+6533,TXN-10000441-1189,10000441,1294,Deborah Reed,2028,Wine Glass Set 12-Piece,3,2023-06-30,,$62.11,store credit,Catalog,0,PROCESSED,4073,Item arrived broken
+6534,TXN-10002097-5546,10002097,1406,Betty Edwards,2024,Non-Stick Pan Set 3-Piece,3,"September 02, 2023",Damaged in shipping,176.70,original payment,Catalog,1,Rejected,4054,Exchange offered
+6535,TXN-10002697-7178,10002697,1263,Donna Baker,2029,Knife Set 15-Piece,7,02/07/2023,Wrong item,$494.12,Store Credit,phone,N,Pending,4027,Item arrived broken
+6536,TXN-10004364-11633,10004364,1416,Prof. Raymond Watson,2008,Smartwatch Fitness Tracker,2,2020/06/22,Defective product,$206.22,Store Credit,mobile,Y,pending,4034,Item arrived broken
+6537,TXN-10007671-20564,10007671,1520,Rebecca Harris,2030,Stand Mixer 5 Quart,1,2023-12-29,changed mind,$190.91,store credit,mobile,1,processed,4096,Accepted without receipt
+6538,TXN-10003874-10295,10003874,1483,Jennifer Gomez,2064,Remote Control Car Racing,3,2023/05/13,Not as described,110.97,Store Credit,Online,N,Rejected,4099,
+6539,TXN-10004310-11486,10004310,1497,Prof. Donna Johnson,2054,Stapler Heavy Duty,2,2022/12/13,Defective,$26.47,original payment,Mobile App,No,Rejected,4099,Exchange offered
+6540,TXN-10005088-13623,10005088,1439,Catherine Brown,2032,Resistance Bands Set 5-Pack,1,2020/12/06,changed mind,9.60,Original Payment,mobile,Y,Rejected,4005,
+6541,TXN-10005301-14233,10005301,1444,Cynthia Adams,2033,Adjustable Dumbbells 50lb,1,"Feb 15, 2023",changed mind,$113.48,Store Credit,mobile,N,pending,4099,Customer very unhappy
+6542,TXN-10002923-7796,10002923,9438,Donna King,2066,Doll with Accessories,2,08/18/2020,Not as described,$106.98,Original Payment,In-Store,Y,Rejected,4066,Exchange offered
+6543,TXN-10004709-12600,10004709,1398,Mrs. Patricia Gray,2036,Foam Roller 18-inch,2,"Jun 05, 2024",Damaged in shipping,22.28,store credit,Phone,Yes,Pending,4009,return processed ok
+6544,TXN-10005065-13559,10005065,1469,Prof. Angela Adams,2043,Moisturizing Face Cream SPF30,1,25/01/2020,wrong size,13.63,Original Payment,mobile,No,processed,4013,
+6545,TXN-10005546-14870,10005546,1497,Prof. Donna Johnson,2011,Running Shoes Men Size 10,1,"Jun 26, 2023",Defective product,$84.77,Cash,Catalog,Y,PROCESSED,4100,Customer very unhappy
+6546,TXN-10004481-11969,10004481,1355,Ms. Gary Martin,2058,Desk Lamp LED Adjustable,4,"Jun 09, 2021",,170.70,store credit,mobile,0,PROCESSED,4097,
+6547,TXN-10005234-14031,10005234,1096,Donna Ramirez,2059,Folder Organizer 10-Pack,1,"August 12, 2024",Defective,8.81,Original Payment,Store,Yes,Rejected,4043,Exchange offered
+6548,TXN-10003993-10631,10003993,1039,Jose Hernandez,2068,Stuffed Animal Bear 18-inch,1,2020/11/22,Not as described,8.61,Original Payment,APP,1,PROCESSED,4071,
+6549,TXN-10007628-20455,10007628,9896,Mary Ruiz,2007,Portable Bluetooth Speaker,2,2021-11-04,Defective product,75.99,original payment,Mobile,1,Rejected,4029,Accepted without receipt
+6550,TXN-10003792-10080,10003792,1355,Ms. Gary Martin,2021,Stainless Steel Cookware Set 10pc,1,"November 26, 2023",DAMAGED,$116.46,original payment,IN STORE,Yes,pending,4052,
+6551,TXN-10000775-2102,10000775,1026,Pamela Adams,2009,Noise Cancelling Earbuds,1,"Feb 15, 2022",Changed mind,87.36,original payment,catalog,N,PROCESSED,4073,
+6552,TXN-10001417-3797,10001417,1560,Richard Lee,2014,Women's Winter Jacket,1,01/01/2022,Wrong item,59.96,Original Payment,phone,0,PROCESSED,4022,return processed ok
+6553,TXN-10003072-8181,10003072,1459,Prof. Jeffrey Castillo,2035,Hiking Boots Waterproof,1,2024-05-18,Damaged in shipping,75.61,store credit,catalog,0,pending,4018,Customer very unhappy
+6554,TXN-10001708-4532,10001708,1221,Ms. Julie Williams,2024,Non-Stick Pan Set 3-Piece,1,"December 30, 2024",DAMAGED,181.82,store credit,In-Store,1,Processed,4047,
+6555,TXN-10003075-8192,10003075,1405,Lisa Kelly,2014,Women's Winter Jacket,1,12/27/2022,Wrong item,43.18,store credit,Mobile App,N,Pending,4077,
+6556,TXN-10001378-3702,10001378,1437,Mrs. Gary Foster,2065,Puzzle 1000 Pieces Landscape,3,"Dec 12, 2021",Defective product,$25.60,Cash,PHONE,N,pending,4025,
+6557,TXN-10000465-1249,10000465,9321,Mr. Susan Richardson,2028,Wine Glass Set 12-Piece,1,11/04/2022,Better price found,11.30,store credit,APP,1,pending,4021,return processed ok
+6558,TXN-10000526-1413,10000526,1466,Ms. Jacob Nguyen,2012,Women's Yoga Pants,1,03/15/2023,Not as described,38.73,original payment,Store,1,Rejected,4022,return processed ok
+6559,TXN-10006515-17499,10006515,1343,Mrs. Brenda Brooks,2045,Hair Dryer Professional,1,07/06/2020,Better price found,217.63,Original Payment,mobile,No,pending,4045,Item arrived broken
+6560,TXN-10000110-287,10000110,1242,Mr. Joseph Ramirez,2061,Action Figure Collector Series,5,2021/06/14,changed mind,71.59,original payment,Online,Y,PROCESSED,4066,
+6561,TXN-10002637-7007,10002637,1068,Prof. Jack Cox,2032,Resistance Bands Set 5-Pack,7,04/06/2020,changed mind,$157.11,Original Payment,ONLINE,0,Processed,4069,Exchange offered
+6562,TXN-10001802-4764,10001802,1134,Mark Jackson,2013,Men's Casual Polo Shirt,2,22-03-2023,Not as described,49.22,Store Credit,phone,N,PROCESSED,4031,Accepted without receipt
+6563,TXN-10004998-13373,10004998,1503,David Peterson,2035,Hiking Boots Waterproof,1,06-05-2021,Wrong item,91.16,Store Credit,Store,N,PROCESSED,4003,Partial refund issued
+6564,TXN-10001336-3570,10001336,1337,Mr. Mark Morris,2064,Remote Control Car Racing,1,12/05/2023,changed mind,77.04,original payment,Web,Yes,Pending,4052,Item arrived broken
+6565,TXN-10001878-4960,10001878,1583,Prof. Mark Adams,2020,Athletic Crew Socks 6-Pack,1,2020/07/03,Defective product,11.49,Cash,APP,0,pending,4068,
+6566,TXN-10003899-10363,10003899,1090,Amy Reed,2037,Jump Rope Speed,1,2023/02/02,Wrong item,$5.92,Cash,PHONE,Yes,Processed,4071,
+6567,TXN-10002846-7591,10002846,1455,Dr. Patrick Thomas,2062,Board Game Strategy 2-6 Players,4,22-03-2024,Wrong item,$78.61,Original Payment,Catalog,Yes,Rejected,4040,return processed ok
+6568,TXN-10003596-9551,10003596,1168,Margaret King,2051,Hardcover Notebook A5,1,09-01-2021,Better price found,5.02,original payment,APP,Y,PROCESSED,4003,
+6569,TXN-10005632-15096,10005632,1121,Prof. Larry Phillips,2007,Portable Bluetooth Speaker,1,2021/11/01,Damaged in shipping,$133.89,Original Payment,phone,No,Rejected,4088,Partial refund issued
+6570,TXN-10002664-7086,10002664,1477,Ms. Dorothy Robinson,2040,Sleeping Bag -20F,2,09/01/2020,Damaged in shipping,81.31,Cash,Mobile App,Yes,Rejected,4097,
+6571,TXN-10000628-1701,10000628,1365,Mr. Anna Robinson,2004,USB-C Fast Charger 65W,3,"June 18, 2020",Not as described,64.64,original payment,In-Store,1,Pending,4021,Item arrived broken
+6572,TXN-10002348-6236,10002348,1139,Mrs. John Baker,2016,Denim Jeans Slim Fit,1,2024/04/15,Wrong item,77.03,store credit,Web,No,processed,4052,
+6573,TXN-10004787-12798,10004787,1193,Jose Richardson,2022,Coffee Maker 12-Cup,4,"Mar 30, 2020",,189.09,Original Payment,mobile,Yes,Rejected,4071,
+6574,TXN-10004845-12957,10004845,1384,Ms. Mary Johnson,2041,Vitamin C 1000mg 90 Tablets,1,2021/09/12,Better price found,8.75,original payment,APP,No,Pending,4010,Partial refund issued
+6575,TXN-10006584-17667,10006584,1240,Sarah Watson,2020,Athletic Crew Socks 6-Pack,2,22-05-2024,Defective product,59.64,Original Payment,Catalog,Y,Processed,4038,Exchange offered
+6576,TXN-10004489-11992,10004489,1066,Richard Watson,2056,Mechanical Pencil Set,1,"February 01, 2022",Not as described,5.99,store credit,Web,1,Pending,4021,return processed ok
+6577,TXN-10002407-6404,10002407,1002,Benjamin Richardson,2045,Hair Dryer Professional,1,2022/11/30,changed mind,55.74,store credit,IN STORE,No,processed,4088,Item arrived broken
+6578,TXN-10000770-2088,10000770,1324,Prof. Daniel Roberts,2037,Jump Rope Speed,1,"December 20, 2022",Wrong item,$7.19,Original Payment,mobile,Y,processed,4032,
+6579,TXN-10007795-20863,10007795,1520,Rebecca Harris,2062,Board Game Strategy 2-6 Players,1,2020-09-02,Changed mind,14.10,Cash,Mobile,N,Processed,4083,Customer very unhappy
+6580,TXN-10007712-20661,10007712,1529,Susan Lopez,2024,Non-Stick Pan Set 3-Piece,4,16-06-2022,Defective,138.84,store credit,phone,No,Processed,4069,Partial refund issued
+6581,TXN-10001633-4336,10001633,1172,Maria Martinez,2066,Doll with Accessories,1,"December 08, 2020",Defective,$22.71,store credit,ONLINE,1,Processed,4005,
+6582,TXN-10001821-4827,10001821,1160,William Murphy,2028,Wine Glass Set 12-Piece,1,03/10/2022,Damaged in shipping,21.56,Store Credit,online,N,PROCESSED,4043,Item arrived broken
+6583,TXN-10002432-6479,10002432,1595,Amy Castillo,2011,Running Shoes Men Size 10,1,"November 28, 2024",Better price found,$125.99,store credit,ONLINE,Y,processed,4029,return processed ok
+6584,TXN-10004383-11693,10004383,1394,Katherine Lopez,2029,Knife Set 15-Piece,1,2024/10/15,,58.19,original payment,Online,0,Processed,4033,
+6585,TXN-10002627-6979,10002627,1054,Shirley Murphy,2039,Trekking Poles Adjustable,1,27-04-2020,Defective product,30.91,store credit,Mobile App,Yes,PROCESSED,4043,
+6586,TXN-10002360-6266,10002360,9896,Mary Ruiz,2002,Smart LED TV 55-inch,2,12/12/2024,Not as described,718.26,Store Credit,mobile,Y,Processed,4073,
+6587,TXN-10004948-13240,10004948,1144,Christine Williams,2009,Noise Cancelling Earbuds,1,"March 21, 2022",Not as described,86.80,Store Credit,Web,0,PROCESSED,4016,
+6588,TXN-10004149-11023,10004149,1140,Christine Wright,2067,Card Game Family Fun,1,2022/01/16,DAMAGED,8.26,store credit,online,N,Pending,4069,return processed ok
+6589,TXN-10005769-15489,10005769,1427,Gregory Gray,2019,Gym Gloves Workout,2,06/04/2024,,$17.47,Original Payment,ONLINE,N,Pending,4090,Exchange offered
+6590,TXN-10002636-7002,10002636,1192,Amy Patel,2028,Wine Glass Set 12-Piece,2,2021-04-23,Defective product,112.28,store credit,mobile,Yes,PROCESSED,4011,Exchange offered
+6591,TXN-10004811-12879,10004811,1551,Prof. Dennis Morgan,2044,Electric Toothbrush Rechargeable,1,22-01-2021,DAMAGED,$34.80,store credit,mobile,No,pending,4092,return processed ok
+6592,TXN-10002158-5725,10002158,1161,Samuel Morales,2058,Desk Lamp LED Adjustable,1,28-03-2022,Not as described,28.89,store credit,In-Store,Y,processed,4019,Item arrived broken
+6593,TXN-10006230-16707,10006230,1134,Mark Jackson,2026,Cutting Board Set Bamboo,1,"June 24, 2022",Better price found,9.36,Original Payment,Catalog,1,PROCESSED,4039,return processed ok
+6594,TXN-10007578-20315,10007578,1364,Dr. Eric Sanchez,2029,Knife Set 15-Piece,1,2020/03/14,Better price found,108.31,Store Credit,in-store,0,Rejected,4070,Item arrived broken
+6595,TXN-10006041-16188,10006041,1319,Nicholas Brown,2049,Shampoo Argan Oil 16oz,2,2024-08-09,Changed mind,$22.19,Store Credit,PHONE,Yes,Rejected,4019,Accepted without receipt
+6596,TXN-10007598-20363,10007598,1415,Ronald Cox,2024,Non-Stick Pan Set 3-Piece,1,03-06-2021,changed mind,29.11,Store Credit,Mobile,Yes,Processed,4006,return processed ok
+6597,TXN-10007435-19932,10007435,1084,Jonathan Richardson,2016,Denim Jeans Slim Fit,2,07/04/2024,changed mind,48.03,Store Credit,Mobile,Y,Processed,4050,
+6598,TXN-10002858-7628,10002858,1299,Margaret Clark,2026,Cutting Board Set Bamboo,4,2022/09/19,changed mind,54.29,Store Credit,catalog,Yes,PROCESSED,4064,Accepted without receipt
+6599,TXN-10000250-660,10000250,1116,Prof. Jack Moore,2008,Smartwatch Fitness Tracker,2,21/01/2020,Damaged in shipping,303.83,store credit,mobile,No,PROCESSED,4093,Exchange offered
+6600,TXN-10006432-17284,10006432,9024,Ms. Gregory Reed,2062,Board Game Strategy 2-6 Players,1,30-06-2021,Better price found,16.18,original payment,Phone,1,processed,4074,Item arrived broken
